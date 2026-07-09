@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1327: for Floccus bookmark sync browser extension -->
+<!--- highestId :1328: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -334,6 +334,9 @@
   </bookmark>
   <bookmark href="https://engage.cloud.microsoft/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDg0NzE3OSJ9/all" id="402">
     <title>U.S. Immigration Q&amp;A</title>
+  </bookmark>
+  <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1328">
+    <title>Assigned to you | Viva Learning</title>
   </bookmark>
 </folder>
 <folder id="65">
