@@ -205,11 +205,11 @@
     <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="41">
       <title>Azure Firewall documentation | Microsoft Learn</title>
     </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/azure-local/manage/disconnected-operations-powershell?view=azloc-2606&amp;wt.mc_id=knowledgesearch_inproduct_copilot-in-azure" id="1334">
+      <title>Azure PowerShell</title>
+    </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops" id="43">
       <title>Azure Repos documentation - Azure DevOps | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/azure-local/manage/disconnected-operations-powershell?view=azloc-2606&amp;wt.mc_id=knowledgesearch_inproduct_copilot-in-azure" id="1334">
-      <title>Use Azure PowerShell for Disconnected Operations on Azure Local - Azure Local | Microsoft Learn</title>
     </bookmark>
   </folder>
   <folder id="21">
