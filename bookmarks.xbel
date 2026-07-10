@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1331: for Floccus bookmark sync browser extension -->
+<!--- highestId :1332: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -189,6 +189,9 @@
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/CloudNativeCompute/_wiki/wikis/CloudNativeCompute.wiki/450258/Azure-DevBox-and-VSCode-remote" id="39">
       <title>Azure DevBox and VSCode remote - Overview</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/dev-box/dev-box" id="1332">
+      <title>Welcome to Microsoft Dev Box | 1ES On EngHub</title>
     </bookmark>
   </folder>
   <folder id="20">
