@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1332: for Floccus bookmark sync browser extension -->
+<!--- highestId :1333: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -315,6 +315,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/Security_Tools_Services/SitePages/SAS/saw.aspx" id="332">
       <title>Secure Admin Workstation (SAW) Overview</title>
+    </bookmark>
+    <bookmark href="https://developercommunity.visualstudio.com/devbox" id="1333">
+      <title>Developer Community</title>
     </bookmark>
   </folder>
   <folder id="297">
