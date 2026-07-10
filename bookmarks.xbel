@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1333: for Floccus bookmark sync browser extension -->
+<!--- highestId :1334: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -199,14 +199,17 @@
     <bookmark href="https://learn.microsoft.com/en-us/azure/?product=popular" id="40">
       <title>Azure documentation | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="41">
-      <title>Azure Firewall documentation | Microsoft Learn</title>
-    </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops" id="42">
       <title>Azure DevOps documentation | Microsoft Learn</title>
     </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="41">
+      <title>Azure Firewall documentation | Microsoft Learn</title>
+    </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops" id="43">
       <title>Azure Repos documentation - Azure DevOps | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/azure-local/manage/disconnected-operations-powershell?view=azloc-2606&amp;wt.mc_id=knowledgesearch_inproduct_copilot-in-azure" id="1334">
+      <title>Use Azure PowerShell for Disconnected Operations on Azure Local - Azure Local | Microsoft Learn</title>
     </bookmark>
   </folder>
   <folder id="21">
