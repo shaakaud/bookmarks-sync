@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1335: for Floccus bookmark sync browser extension -->
+<!--- highestId :1336: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -210,6 +210,9 @@
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/" id="1335">
       <title>Azure Resource Manager documentation | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" id="1336">
+      <title>Azure Command-Line Interface (CLI) documentation | Microsoft Learn</title>
     </bookmark>
   </folder>
   <folder id="21">
