@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1348: for Floccus bookmark sync browser extension -->
+<!--- highestId :1349: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -182,6 +182,12 @@
       <title>Viva Engage - New at Microsoft</title>
     </bookmark>
   </folder>
+  <folder id="1348">
+    <title>BootCamp</title>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Hands-on%20Labs%20Prerequisites.aspx" id="1349">
+      <title>Azure Fundamentals Track - Hands-on Labs Prerequisites</title>
+    </bookmark>
+  </folder>
   <folder id="18">
     <title>Copilot</title>
     <bookmark href="https://github.com/ms-copilot" id="37">
@@ -252,6 +258,12 @@
     </bookmark>
     <bookmark href="https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p14s-gen-6-14-inch-amd-mobile-workstation/len101t0118?srsltid=AfmBOooVk_JoUOg7kapObbMcZ0mH96x1at9Ujh8J_hB60LL4-gwyU76c" id="49">
       <title>ThinkPad P14s Gen 6 (14 inch AMD) | Power-packed AI-Driven Mobile Workstation | Lenovo US</title>
+    </bookmark>
+  </folder>
+  <folder id="1346">
+    <title>HR</title>
+    <bookmark href="https://msrolelibrary.microsoft.com/" id="1347">
+      <title>Role Library</title>
     </bookmark>
   </folder>
   <folder id="24">
@@ -386,15 +398,6 @@
   <bookmark href="https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&amp;workflowid=devprogram&amp;mkt=en-us" id="1345">
     <title>Visual Studio Subscriptions Portal</title>
   </bookmark>
-  <folder id="1346">
-    <title>HR</title>
-    <bookmark href="https://msrolelibrary.microsoft.com/" id="1347">
-      <title>Role Library</title>
-    </bookmark>
-  </folder>
-  <folder id="1348">
-    <title>BootCamp</title>
-  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
