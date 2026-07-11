@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1338: for Floccus bookmark sync browser extension -->
+<!--- highestId :1342: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -175,6 +175,9 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/employeegive" id="319">
       <title>aka.ms/nudgefinancial</title>
     </bookmark>
+    <bookmark href="https://engage.cloud.microsoft/main/org/microsoft.com/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIyNTM5NDE4MDkxNTIifQ/all" id="1339">
+      <title>Viva Engage - New at Microsoft</title>
+    </bookmark>
   </folder>
   <folder id="18">
     <title>Copilot</title>
@@ -194,6 +197,9 @@
       <title>Azure DevBox and VSCode remote - Overview</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/dev-box/dev-box" id="1332">
+      <title>Welcome to Microsoft Dev Box | 1ES On EngHub</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/dev-box/dev-box" id="1340">
       <title>Welcome to Microsoft Dev Box | 1ES On EngHub</title>
     </bookmark>
   </folder>
@@ -364,6 +370,12 @@
   </bookmark>
   <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1328">
     <title>Viva Learning</title>
+  </bookmark>
+  <bookmark href="https://studiostokens.azurewebsites.net/" id="1341">
+    <title>Studios Tokens</title>
+  </bookmark>
+  <bookmark href="https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&amp;workflowid=devprogram&amp;mkt=en-us" id="1342">
+    <title>Visual Studio Subscriptions Portal</title>
   </bookmark>
 </folder>
 <folder id="65">
