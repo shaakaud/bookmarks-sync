@@ -181,6 +181,9 @@
     <bookmark href="https://github.com/ms-copilot" id="37">
       <title>GitHub Copilot Access</title>
     </bookmark>
+    <bookmark href="https://copilot.github.microsoft.com/" id="1338">
+      <title>GitHub Copilot at Microsoft</title>
+    </bookmark>
   </folder>
   <folder id="19">
     <title>Devbox</title>
@@ -361,9 +364,6 @@
   </bookmark>
   <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1328">
     <title>Viva Learning</title>
-  </bookmark>
-  <bookmark href="https://copilot.github.microsoft.com/" id="1338">
-    <title>GitHub Copilot at Microsoft</title>
   </bookmark>
 </folder>
 <folder id="65">
