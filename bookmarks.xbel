@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1352: for Floccus bookmark sync browser extension -->
+<!--- highestId :1354: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -50,6 +50,12 @@
 </bookmark>
 <folder id="16">
   <title>MSFT</title>
+  <folder id="1353">
+    <title>Azure Devops</title>
+    <bookmark href="https://microsoft.sharepoint.com/teams/NewHireOnboard/SitePages/ADO-Resources.aspx" id="1354">
+      <title>ADO Resources</title>
+    </bookmark>
+  </folder>
   <folder id="17">
     <title>Benefits</title>
     <folder id="27">
