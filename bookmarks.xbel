@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1363: for Floccus bookmark sync browser extension -->
+<!--- highestId :1364: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -434,6 +434,9 @@
   <bookmark href="https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&amp;workflowid=devprogram&amp;mkt=en-us" id="1330">
     <title>Visual Studio Subscriptions Portal</title>
   </bookmark>
+  <folder id="1364">
+    <title>Compute</title>
+  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
