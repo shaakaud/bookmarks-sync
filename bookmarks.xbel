@@ -190,6 +190,9 @@
   </folder>
   <folder id="1348">
     <title>BootCamp</title>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Resources.aspx" id="1356">
+      <title>After Boot Camp Resources</title>
+    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Hands-on%20Labs%20Prerequisites.aspx" id="1349">
       <title>Azure Fundamentals Track - Hands-on Labs Prerequisites</title>
     </bookmark>
@@ -198,9 +201,6 @@
     </bookmark>
     <bookmark href="https://azurebootcamphol.azurewebsites.net/app/story/intro?experience_id=experience%3A%2F%2Fabc%2Feng-learning-common-labs-ai-setup&amp;story_id=story%3A%2F%2Fabc%2Fstories%2Fel-1-ai-env-setup" id="1351">
       <title>AI Environment Setup</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Resources.aspx" id="1356">
-      <title>After Boot Camp Resources</title>
     </bookmark>
   </folder>
   <folder id="18">
