@@ -206,6 +206,9 @@
       <title>Azure network architecture | Microsoft Learn</title>
     </bookmark>
   </folder>
+  <folder id="1364">
+    <title>Compute</title>
+  </folder>
   <folder id="18">
     <title>Copilot</title>
     <bookmark href="https://github.com/ms-copilot" id="37">
@@ -434,9 +437,6 @@
   <bookmark href="https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&amp;workflowid=devprogram&amp;mkt=en-us" id="1330">
     <title>Visual Studio Subscriptions Portal</title>
   </bookmark>
-  <folder id="1364">
-    <title>Compute</title>
-  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
