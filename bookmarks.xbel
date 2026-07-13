@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1357: for Floccus bookmark sync browser extension -->
+<!--- highestId :1358: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -252,6 +252,9 @@
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" id="1336">
       <title>Azure Command-Line Interface (CLI) documentation | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1358">
+      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
     </bookmark>
   </folder>
   <folder id="21">
