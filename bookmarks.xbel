@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1365: for Floccus bookmark sync browser extension -->
+<!--- highestId :1366: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -210,6 +210,9 @@
     <title>Compute</title>
     <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1365">
       <title>Azure Instance Metadata Service for virtual machines - Azure Virtual Machines | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1366">
+      <title>Orchestration modes for Virtual Machine Scale Sets in Azure - Azure Virtual Machine Scale Sets | Microsoft Learn</title>
     </bookmark>
   </folder>
   <folder id="18">
