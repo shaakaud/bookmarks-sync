@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1371: for Floccus bookmark sync browser extension -->
+<!--- highestId :1372: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -52,6 +52,9 @@
   <title>MSFT</title>
   <folder id="1371">
     <title>AI Usage</title>
+    <bookmark href="https://aka.ms/AiUsageMetrics" id="1372">
+      <title>AI Usage - Power BI</title>
+    </bookmark>
   </folder>
   <folder id="1353">
     <title>Azure Devops</title>
