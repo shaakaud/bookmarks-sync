@@ -407,9 +407,6 @@
       <title>Azure DevBox and VSCode remote - Overview</title>
     </bookmark>
   </folder>
-  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
-    <title>Azure Calculator</title>
-  </bookmark>
   <bookmark href="https://msazure.visualstudio.com/AzureWiki" id="298">
     <title>AzureWiki</title>
   </bookmark>
@@ -445,6 +442,9 @@
   </bookmark>
   <bookmark href="https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&amp;workflowid=devprogram&amp;mkt=en-us" id="1330">
     <title>Visual Studio Subscriptions Portal</title>
+  </bookmark>
+  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
+    <title>Azure Calculator</title>
   </bookmark>
 </folder>
 <folder id="65">
