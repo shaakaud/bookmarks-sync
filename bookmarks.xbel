@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1366: for Floccus bookmark sync browser extension -->
+<!--- highestId :1367: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -407,6 +407,9 @@
       <title>Azure DevBox and VSCode remote - Overview</title>
     </bookmark>
   </folder>
+  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
+    <title>Pricing Calculator | Microsoft Azure</title>
+  </bookmark>
   <bookmark href="https://msazure.visualstudio.com/AzureWiki" id="298">
     <title>AzureWiki</title>
   </bookmark>
