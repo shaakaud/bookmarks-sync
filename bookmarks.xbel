@@ -50,6 +50,9 @@
 </bookmark>
 <folder id="16">
   <title>MSFT</title>
+  <folder id="1371">
+    <title>AI Usage</title>
+  </folder>
   <folder id="1353">
     <title>Azure Devops</title>
     <bookmark href="https://microsoft.sharepoint.com/teams/NewHireOnboard/SitePages/ADO-Resources.aspx" id="1354">
@@ -455,9 +458,6 @@
   <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
     <title>Azure Calculator</title>
   </bookmark>
-  <folder id="1371">
-    <title>AI Usage</title>
-  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
