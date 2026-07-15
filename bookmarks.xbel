@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1374: for Floccus bookmark sync browser extension -->
+<!--- highestId :1375: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -201,6 +201,9 @@
     <title>BootCamp</title>
     <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Resources.aspx" id="1356">
       <title>After Boot Camp Resources</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1375">
+      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Hands-on%20Labs%20Prerequisites.aspx" id="1349">
       <title>Azure Fundamentals Track - Hands-on Labs Prerequisites</title>
