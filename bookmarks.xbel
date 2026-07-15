@@ -84,6 +84,9 @@
     </folder>
     <folder id="29">
       <title>Finance</title>
+      <bookmark href="https://microsoft.sharepoint.com/sites/HRweb" id="289">
+        <title>HRweb - Home</title>
+      </bookmark>
       <bookmark href="https://nb.fidelity.com/static/mybenefits/netbenefitslogin/#/login" id="59">
         <title>Log In to Fidelity NetBenefits</title>
       </bookmark>
@@ -156,9 +159,6 @@
     </bookmark>
     <bookmark href="https://holidays.microsoft.com/" id="288">
       <title>Holidays</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/sites/HRweb" id="289">
-      <title>HRweb - Home</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/WelcometoMicrosoft" id="290">
       <title>New@Microsoft</title>
