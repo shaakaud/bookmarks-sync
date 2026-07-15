@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1377: for Floccus bookmark sync browser extension -->
+<!--- highestId :1378: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -240,6 +240,9 @@
     </bookmark>
     <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1377">
       <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
+    </bookmark>
+    <bookmark href="https://build.microsoft.com/en-US/sessions/BRK200?source=/home" id="1378">
+      <title>Why your AI code doesn’t ship: Closing the gap to production</title>
     </bookmark>
   </folder>
   <folder id="19">
