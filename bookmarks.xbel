@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1380: for Floccus bookmark sync browser extension -->
+<!--- highestId :1381: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -482,6 +482,9 @@
   <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
     <title>Azure Calculator</title>
   </bookmark>
+  <folder id="1381">
+    <title>MCP Server</title>
+  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
