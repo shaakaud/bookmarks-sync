@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1392: for Floccus bookmark sync browser extension -->
+<!--- highestId :1393: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -316,6 +316,9 @@
   </folder>
   <folder id="1391">
     <title>DRI</title>
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1393">
+      <title>IcM</title>
+    </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1392">
       <title>Classification Escalation and Notification (CEN) | Azure Incident Management</title>
     </bookmark>
