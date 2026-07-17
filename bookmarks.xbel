@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1388: for Floccus bookmark sync browser extension -->
+<!--- highestId :1389: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -240,6 +240,9 @@
     </bookmark>
     <bookmark href="https://github.com/features/ai/github-app" id="1379">
       <title>GitHub Copilot app</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1389">
+      <title>Agency MCP Servers | Agency</title>
     </bookmark>
   </folder>
   <folder id="19">
