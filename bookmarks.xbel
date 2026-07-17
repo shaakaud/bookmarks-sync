@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1399: for Floccus bookmark sync browser extension -->
+<!--- highestId :1400: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -332,7 +332,10 @@
       <title>Introduction | IcM website</title>
     </bookmark>
     <bookmark href="https://portal.watson.azure.com/" id="1399">
-      <title>Home - Azure Watson</title>
+      <title>Azure Watson</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/app-plat-and-graph/app-vertical/aad-first-party-apps/identity-platform-and-access-management/access-management/just-in-time/intro-to-jit" id="1400">
+      <title>Azure Just In Time (JIT) service | Identity Docs</title>
     </bookmark>
   </folder>
   <folder id="21">
