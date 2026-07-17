@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1391: for Floccus bookmark sync browser extension -->
+<!--- highestId :1392: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -314,14 +314,17 @@
       <title>Introduction to Geneva | Geneva Monitoring Docs</title>
     </bookmark>
   </folder>
+  <folder id="1391">
+    <title>DRI</title>
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1392">
+      <title>Classification Escalation and Notification (CEN) | Azure Incident Management</title>
+    </bookmark>
+  </folder>
   <folder id="21">
     <title>Firewall</title>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
     </bookmark>
-  </folder>
-  <folder id="1391">
-    <title>DRI</title>
   </folder>
   <folder id="22">
     <title>Git</title>
