@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1414: for Floccus bookmark sync browser extension -->
+<!--- highestId :1415: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -510,6 +510,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx" id="1401">
       <title>Glossary</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1415">
+      <title>Cloud Talks - Home</title>
     </bookmark>
   </folder>
   <folder id="296">
