@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1394: for Floccus bookmark sync browser extension -->
+<!--- highestId :1395: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -456,6 +456,9 @@
     </bookmark>
     <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1355">
       <title>Assigned to you | Viva Learning</title>
+    </bookmark>
+    <bookmark href="https://github.com/gim-home/bootcamp-presentations/tree/main/Azure%20Advanced/Cosmos%20DB" id="1395">
+      <title>bootcamp-presentations/Azure Advanced/Cosmos DB at main · gim-home/bootcamp-presentations</title>
     </bookmark>
   </folder>
   <folder id="296">
