@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1408: for Floccus bookmark sync browser extension -->
+<!--- highestId :1409: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -411,6 +411,9 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1383">
       <title>Agency MCP Servers | Agency</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1409">
+      <title>Using MCP Servers at Microsoft | AI at Microsoft</title>
     </bookmark>
   </folder>
   <folder id="25">
