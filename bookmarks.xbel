@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1395: for Floccus bookmark sync browser extension -->
+<!--- highestId :1396: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -441,6 +441,9 @@
     </bookmark>
     <bookmark href="https://learning.oreilly.com/home/?sso_link=yes&amp;sso_link_from=Microsoft-Prod" id="326">
       <title>Oreilly</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/EngineeringAcademy/SitePages/Pluralsight.aspx" id="1396">
+      <title>Access | Learning content platforms</title>
     </bookmark>
     <bookmark href="https://app.pluralsight.com/library/" id="327">
       <title>Pluralsight</title>
