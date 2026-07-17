@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1421: for Floccus bookmark sync browser extension -->
+<!--- highestId :1422: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -411,6 +411,9 @@
     <title>HR</title>
     <bookmark href="https://msrolelibrary.microsoft.com/" id="1347">
       <title>Role Library</title>
+    </bookmark>
+    <bookmark href="https://totalrewards.azurefd.net/stock" id="1422">
+      <title>Total Rewards Portal - Stock</title>
     </bookmark>
   </folder>
   <folder id="1368">
