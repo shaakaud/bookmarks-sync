@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1411: for Floccus bookmark sync browser extension -->
+<!--- highestId :1412: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -330,6 +330,9 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/products/brain/home" id="1408">
       <title>Brain Home | Brain</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1412">
+      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
     </bookmark>
   </folder>
   <folder id="1391">
