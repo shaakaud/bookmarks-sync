@@ -196,6 +196,9 @@
     <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Resources.aspx" id="1356">
       <title>After Boot Camp Resources</title>
     </bookmark>
+    <bookmark href="https://azurebootcamphol.azurewebsites.net/app" id="1414">
+      <title>Microsoft Azure Boot Camp</title>
+    </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1375">
       <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
     </bookmark>
@@ -213,9 +216,6 @@
     </bookmark>
     <bookmark href="https://github.com/gim-home/bootcamp-presentations/tree/main/Engineering%20Days%204-5" id="1411">
       <title>bootcamp-presentations/Engineering Days 4-5 at main · gim-home/bootcamp-presentations</title>
-    </bookmark>
-    <bookmark href="https://azurebootcamphol.azurewebsites.net/app" id="1414">
-      <title>Microsoft Azure Boot Camp</title>
     </bookmark>
   </folder>
   <folder id="1364">
