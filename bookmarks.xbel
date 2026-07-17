@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1403: for Floccus bookmark sync browser extension -->
+<!--- highestId :1404: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -276,6 +276,9 @@
     </bookmark>
     <bookmark href="https://detective.kusto.io/" id="1387">
       <title>Kusto Detective Agency | Solve Data Investigation Challenges</title>
+    </bookmark>
+    <bookmark href="https://microsoftservicetree.com/home" id="1404">
+      <title>Service Tree | Home</title>
     </bookmark>
   </folder>
   <folder id="20">
