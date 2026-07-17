@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1393: for Floccus bookmark sync browser extension -->
+<!--- highestId :1394: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -321,6 +321,9 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1392">
       <title>Classification Escalation and Notification (CEN) | Azure Incident Management</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/icm/workflows/assistant/icmassistanthome" id="1394">
+      <title>IcM Assistant (formerly &quot;Obi&quot;) (Public Preview) | IcM website</title>
     </bookmark>
   </folder>
   <folder id="21">
