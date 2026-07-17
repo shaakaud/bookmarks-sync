@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1416: for Floccus bookmark sync browser extension -->
+<!--- highestId :1417: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -219,6 +219,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-Native.aspx" id="1416">
       <title>AI-Native Software Engineering</title>
+    </bookmark>
+    <bookmark href="https://learningplatform.azure.net/User/eventType/-1?tab=available&amp;trackGroup=&amp;trackType=" id="1417">
+      <title>Registration - Learning Platform</title>
     </bookmark>
   </folder>
   <folder id="1364">
