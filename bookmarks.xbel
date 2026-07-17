@@ -199,6 +199,9 @@
     <bookmark href="https://azurebootcamphol.azurewebsites.net/app" id="1414">
       <title>Microsoft Azure Boot Camp</title>
     </bookmark>
+    <bookmark href="https://learningplatform.azure.net/User/eventType/-1?tab=available&amp;trackGroup=&amp;trackType=" id="1417">
+      <title>Registration - Learning Platform</title>
+    </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1375">
       <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
     </bookmark>
@@ -219,9 +222,6 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-Native.aspx" id="1416">
       <title>AI-Native Software Engineering</title>
-    </bookmark>
-    <bookmark href="https://learningplatform.azure.net/User/eventType/-1?tab=available&amp;trackGroup=&amp;trackType=" id="1417">
-      <title>Registration - Learning Platform</title>
     </bookmark>
   </folder>
   <folder id="1364">
