@@ -421,11 +421,11 @@
   </folder>
   <folder id="1381">
     <title>MCP Server</title>
-    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1382">
-      <title>Using MCP Servers at Microsoft | 1mcp</title>
-    </bookmark>
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1383">
       <title>Agency MCP Servers | Agency</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1382">
+      <title>Using MCP Servers at Microsoft | 1mcp</title>
     </bookmark>
     <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1410">
       <title>Agency Marketplace</title>
