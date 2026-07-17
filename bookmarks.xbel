@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1417: for Floccus bookmark sync browser extension -->
+<!--- highestId :1418: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -222,6 +222,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-Native.aspx" id="1416">
       <title>AI-Native Software Engineering</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-For-Builders.aspx?isSPOFile=1&amp;xsdata=MDV8MDJ8fGNhZGI1YTI2OWE2MjQwYzQzMDMyMDhkZWU0NDk5YzYzfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTkyMDE5NDA2OTYxMDF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpJek16a3pOVGN5fGViMWM1ODYwOTBiZDRjOTllODUwMDhkZWU0NDk5YzYyfDU0ZWEyZTY1YmNmNjQ4NWE4ZjVkZGE4NmRkMjg3ZGY0&amp;sdata=d1pDSWVhS2RYdDVNZkwzeU0zZ1FybWQ3YlpSbERFdVVFbWdpSE9jUDZ3QT0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;TeamsCID=b5431b2d-25cf-4cda-a09c-7ac6027abfae&amp;OR=Teams-HL&amp;CT=1784324007294&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiJ9&amp;linkOpenTime=1784324007296" id="1418">
+      <title>AI For Builders</title>
     </bookmark>
   </folder>
   <folder id="1364">
