@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1413: for Floccus bookmark sync browser extension -->
+<!--- highestId :1414: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -213,6 +213,9 @@
     </bookmark>
     <bookmark href="https://github.com/gim-home/bootcamp-presentations/tree/main/Engineering%20Days%204-5" id="1411">
       <title>bootcamp-presentations/Engineering Days 4-5 at main · gim-home/bootcamp-presentations</title>
+    </bookmark>
+    <bookmark href="https://azurebootcamphol.azurewebsites.net/app" id="1414">
+      <title>Microsoft Azure Boot Camp</title>
     </bookmark>
   </folder>
   <folder id="1364">
