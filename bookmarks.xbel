@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1420: for Floccus bookmark sync browser extension -->
+<!--- highestId :1421: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -381,6 +381,9 @@
     <title>Firewall</title>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
+    </bookmark>
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1421">
+      <title>Incident Queries - IcM</title>
     </bookmark>
   </folder>
   <folder id="22">
