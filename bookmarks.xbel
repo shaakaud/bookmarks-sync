@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1422: for Floccus bookmark sync browser extension -->
+<!--- highestId :1486: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -53,6 +53,12 @@
   <folder id="1371">
     <title>AI Usage</title>
     <bookmark href="https://aka.ms/AiUsageMetrics" id="1372">
+      <title>AI Usage - Power BI</title>
+    </bookmark>
+  </folder>
+  <folder id="1463">
+    <title>AI Usage</title>
+    <bookmark href="https://aka.ms/AiUsageMetrics" id="1468">
       <title>AI Usage - Power BI</title>
     </bookmark>
   </folder>
@@ -154,10 +160,16 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/hrweb/sitepages/home.aspx" id="1374">
       <title>HRweb - Home</title>
     </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/hrweb/sitepages/home.aspx" id="1423">
+      <title>HRweb - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/celaweb-immigration-and-internationaltravel/sitepages/us-immigration-microsoft-us-immigration-contacts.aspx" id="1419">
+      <title>Microsoft U.S. Immigration Contacts</title>
+    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/WelcometoMicrosoft" id="290">
       <title>New@Microsoft</title>
     </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/sites/celaweb-immigration-and-internationaltravel/sitepages/us-immigration-microsoft-us-immigration-contacts.aspx" id="1419">
+    <bookmark href="https://microsoft.sharepoint.com/sites/celaweb-immigration-and-internationaltravel/sitepages/us-immigration-microsoft-us-immigration-contacts.aspx" id="1424">
       <title>Microsoft U.S. Immigration Contacts</title>
     </bookmark>
     <bookmark href="https://parking.microsoft.com/" id="291">
@@ -194,6 +206,15 @@
       <title>HRweb - Home</title>
     </bookmark>
   </folder>
+  <folder id="1364">
+    <title>Compute</title>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1365">
+      <title>Azure Instance Metadata Service for virtual machines - Azure Virtual Machines | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1366">
+      <title>Orchestration modes for Virtual Machine Scale Sets in Azure - Azure Virtual Machine Scale Sets | Microsoft Learn</title>
+    </bookmark>
+  </folder>
   <folder id="1348">
     <title>BootCamp</title>
     <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Resources.aspx" id="1356">
@@ -208,20 +229,29 @@
     <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1375">
       <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Hands-on%20Labs%20Prerequisites.aspx" id="1349">
-      <title>Azure Fundamentals Track - Hands-on Labs Prerequisites</title>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Resources.aspx" id="1425">
+      <title>After Boot Camp Resources</title>
     </bookmark>
-    <bookmark href="https://azurebootcamphol.azurewebsites.net/app/story/intro?experience_id=experience%3A%2F%2Fabc%2Fazure-boot-camp-all-portal&amp;story_id=story%3A%2F%2Fabc%2Fstories%2Fazure-bootcamp%2Ffundamentals%2Fall-1-getting-started-with-the-azure-portal" id="1350">
-      <title>Azure Portal Setup</title>
+    <bookmark href="https://azurebootcamphol.azurewebsites.net/app" id="1426">
+      <title>Microsoft Azure Boot Camp</title>
     </bookmark>
-    <bookmark href="https://azurebootcamphol.azurewebsites.net/app/story/intro?experience_id=experience%3A%2F%2Fabc%2Feng-learning-common-labs-ai-setup&amp;story_id=story%3A%2F%2Fabc%2Fstories%2Fel-1-ai-env-setup" id="1351">
-      <title>AI Environment Setup</title>
+    <bookmark href="https://learningplatform.azure.net/User/eventType/-1?tab=available&amp;trackGroup=&amp;trackType=" id="1427">
+      <title>Registration - Learning Platform</title>
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-network" id="1357">
       <title>Azure network architecture | Microsoft Learn</title>
     </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1428">
+      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Hands-on%20Labs%20Prerequisites.aspx" id="1349">
+      <title>Azure Fundamentals Track - Hands-on Labs Prerequisites</title>
+    </bookmark>
     <bookmark href="https://github.com/gim-home/bootcamp-presentations/tree/main/Engineering%20Days%204-5" id="1411">
       <title>bootcamp-presentations/Engineering Days 4-5 at main · gim-home/bootcamp-presentations</title>
+    </bookmark>
+    <bookmark href="https://azurebootcamphol.azurewebsites.net/app/story/intro?experience_id=experience%3A%2F%2Fabc%2Fazure-boot-camp-all-portal&amp;story_id=story%3A%2F%2Fabc%2Fstories%2Fazure-bootcamp%2Ffundamentals%2Fall-1-getting-started-with-the-azure-portal" id="1350">
+      <title>Azure Portal Setup</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-Native.aspx" id="1416">
       <title>AI-Native Software Engineering</title>
@@ -229,13 +259,28 @@
     <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-For-Builders.aspx?isSPOFile=1&amp;xsdata=MDV8MDJ8fGNhZGI1YTI2OWE2MjQwYzQzMDMyMDhkZWU0NDk5YzYzfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTkyMDE5NDA2OTYxMDF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpJek16a3pOVGN5fGViMWM1ODYwOTBiZDRjOTllODUwMDhkZWU0NDk5YzYyfDU0ZWEyZTY1YmNmNjQ4NWE4ZjVkZGE4NmRkMjg3ZGY0&amp;sdata=d1pDSWVhS2RYdDVNZkwzeU0zZ1FybWQ3YlpSbERFdVVFbWdpSE9jUDZ3QT0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;TeamsCID=b5431b2d-25cf-4cda-a09c-7ac6027abfae&amp;OR=Teams-HL&amp;CT=1784324007294&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiJ9&amp;linkOpenTime=1784324007296" id="1418">
       <title>AI For Builders</title>
     </bookmark>
+    <bookmark href="https://azurebootcamphol.azurewebsites.net/app/story/intro?experience_id=experience%3A%2F%2Fabc%2Feng-learning-common-labs-ai-setup&amp;story_id=story%3A%2F%2Fabc%2Fstories%2Fel-1-ai-env-setup" id="1351">
+      <title>AI Environment Setup</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-network" id="1429">
+      <title>Azure network architecture | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://github.com/gim-home/bootcamp-presentations/tree/main/Engineering%20Days%204-5" id="1430">
+      <title>bootcamp-presentations/Engineering Days 4-5 at main · gim-home/bootcamp-presentations</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-Native.aspx" id="1431">
+      <title>AI-Native Software Engineering</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/AI-For-Builders.aspx?isSPOFile=1&amp;xsdata=MDV8MDJ8fGNhZGI1YTI2OWE2MjQwYzQzMDMyMDhkZWU0NDk5YzYzfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTkyMDE5NDA2OTYxMDF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpJek16a3pOVGN5fGViMWM1ODYwOTBiZDRjOTllODUwMDhkZWU0NDk5YzYyfDU0ZWEyZTY1YmNmNjQ4NWE4ZjVkZGE4NmRkMjg3ZGY0&amp;sdata=d1pDSWVhS2RYdDVNZkwzeU0zZ1FybWQ3YlpSbERFdVVFbWdpSE9jUDZ3QT0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;TeamsCID=b5431b2d-25cf-4cda-a09c-7ac6027abfae&amp;OR=Teams-HL&amp;CT=1784324007294&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiJ9&amp;linkOpenTime=1784324007296" id="1432">
+      <title>AI For Builders</title>
+    </bookmark>
   </folder>
-  <folder id="1364">
+  <folder id="1464">
     <title>Compute</title>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1365">
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1469">
       <title>Azure Instance Metadata Service for virtual machines - Azure Virtual Machines | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1366">
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1470">
       <title>Orchestration modes for Virtual Machine Scale Sets in Azure - Azure Virtual Machine Scale Sets | Microsoft Learn</title>
     </bookmark>
   </folder>
@@ -250,107 +295,29 @@
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/#install" id="1352">
       <title>Install | Agency</title>
     </bookmark>
+    <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1433">
+      <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
+    </bookmark>
     <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1377">
       <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
+    </bookmark>
+    <bookmark href="https://build.microsoft.com/en-US/sessions/BRK200?source=/home" id="1434">
+      <title>Why your AI code doesn’t ship: Closing the gap to production</title>
     </bookmark>
     <bookmark href="https://build.microsoft.com/en-US/sessions/BRK200?source=/home" id="1378">
       <title>Why your AI code doesn’t ship: Closing the gap to production</title>
     </bookmark>
+    <bookmark href="https://github.com/features/ai/github-app" id="1435">
+      <title>GitHub Copilot app</title>
+    </bookmark>
     <bookmark href="https://github.com/features/ai/github-app" id="1379">
       <title>GitHub Copilot app</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1389">
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1436">
       <title>Agency MCP Servers | Agency</title>
     </bookmark>
-  </folder>
-  <folder id="19">
-    <title>Devbox</title>
-    <bookmark href="https://devbox.microsoft.com/" id="38">
-      <title>Microsoft Dev Box</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/CloudNativeCompute/_wiki/wikis/CloudNativeCompute.wiki/450258/Azure-DevBox-and-VSCode-remote" id="39">
-      <title>Azure DevBox and VSCode remote - Overview</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/dev-box/dev-box" id="1332">
-      <title>Welcome to Microsoft Dev Box | 1ES On EngHub</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/dev-box/dev-box" id="1340">
-      <title>Welcome to Microsoft Dev Box | 1ES On EngHub</title>
-    </bookmark>
-  </folder>
-  <folder id="1353">
-    <title>Devops</title>
-    <bookmark href="https://microsoft.sharepoint.com/teams/NewHireOnboard/SitePages/ADO-Resources.aspx" id="1354">
-      <title>ADO Resources</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/more/github-inside-microsoft" id="1380">
-      <title>Welcome to GitHub Inside Microsoft | GitHub Inside Microsoft</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1384">
-      <title>Engineering Hub</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/ev2" id="1386">
-      <title>Ev2 Overview | Ev2 Docs</title>
-    </bookmark>
-    <bookmark href="https://detective.kusto.io/" id="1387">
-      <title>Kusto Detective Agency | Solve Data Investigation Challenges</title>
-    </bookmark>
-    <bookmark href="https://microsoftservicetree.com/home" id="1404">
-      <title>Service Tree | Home</title>
-    </bookmark>
-    <bookmark href="https://vnext.s360.msftcloudes.com/blades/allup?peopleBasedNodes=tesha_team&amp;blade=Tab:KPI~isExpanded:false~ExcludeFutureWaveWork:true~waves:All~KPIType:ActionItems;LaunchCriteria;Metric;AzurePolicy~_loc:allUp&amp;global=@TESHA%2BTejas%20Shah%20(TESHA)" id="1405">
-      <title>Tejas Shah (TESHA)&apos;s Services</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/es-chat" id="1406">
-      <title>Engineering System Chat | 1ES On EngHub</title>
-    </bookmark>
-  </folder>
-  <folder id="20">
-    <title>Documentation</title>
-    <bookmark href="https://eng.ms/" id="1407">
-      <title>Engineering Hub</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1412">
-      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/?product=popular" id="40">
-      <title>Azure documentation | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops" id="42">
-      <title>Azure DevOps documentation | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="41">
-      <title>Azure Firewall documentation | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops" id="43">
-      <title>Azure Repos documentation - Azure DevOps | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/" id="1335">
-      <title>Azure Resource Manager documentation | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" id="1336">
-      <title>Azure Command-Line Interface (CLI) documentation | Microsoft Learn</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1358">
-      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1359">
-      <title>dSMS Introduction | website</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1360">
-      <title>Index of Autopilot Topics</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?glossaryterm=Stamp&amp;TeamsCID=adb2b78f-8e1b-45d7-aed8-4f8e82797870&amp;isSPOFile=1&amp;xsdata=MDV8MDJ8fDc5NTFiZWE1MzUwMjRlMDhiM2FhMDhkZWU0MWE3N2FifDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTg5OTk0NjEyMTMwOTh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpBek1UUXpPVGd6fDFmZWY4NDQwNTM4NjRjM2ViM2FhMDhkZWU0MWE3N2FifDkyMjBkY2NlOTU3NzQ1NWVhMTczNDk4YTk1MzkzMzk0&amp;sdata=VHpwa2RHdk1ScDZETXpyY0xxUTRPelUwMnNSZDdNWk5oaDlLRlIxdDcwYz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;OR=Teams-HL&amp;CT=1784303158700&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;linkOpenTime=1784303158744" id="1388">
-      <title>Glossary</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/geneva" id="1390">
-      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/brain/home" id="1408">
-      <title>Brain Home | Brain</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1413">
-      <title>OKRs at Microsoft - Home</title>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1389">
+      <title>Agency MCP Servers | Agency</title>
     </bookmark>
   </folder>
   <folder id="1391">
@@ -377,13 +344,199 @@
       <title>Azure Just In Time (JIT) service | Identity Docs</title>
     </bookmark>
   </folder>
+  <folder id="19">
+    <title>Devbox</title>
+    <bookmark href="https://devbox.microsoft.com/" id="38">
+      <title>Microsoft Dev Box</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/CloudNativeCompute/_wiki/wikis/CloudNativeCompute.wiki/450258/Azure-DevBox-and-VSCode-remote" id="39">
+      <title>Azure DevBox and VSCode remote - Overview</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/dev-box/dev-box" id="1332">
+      <title>Welcome to Microsoft Dev Box | 1ES On EngHub</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/dev-box/dev-box" id="1340">
+      <title>Welcome to Microsoft Dev Box | 1ES On EngHub</title>
+    </bookmark>
+  </folder>
+  <folder id="1353">
+    <title>Devops</title>
+    <bookmark href="https://microsoft.sharepoint.com/teams/NewHireOnboard/SitePages/ADO-Resources.aspx" id="1354">
+      <title>ADO Resources</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/more/github-inside-microsoft" id="1380">
+      <title>Welcome to GitHub Inside Microsoft | GitHub Inside Microsoft</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/more/github-inside-microsoft" id="1437">
+      <title>Welcome to GitHub Inside Microsoft | GitHub Inside Microsoft</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1384">
+      <title>Engineering Hub</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1438">
+      <title>Engineering Hub</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/ev2" id="1386">
+      <title>Ev2 Overview | Ev2 Docs</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/ev2" id="1439">
+      <title>Ev2 Overview | Ev2 Docs</title>
+    </bookmark>
+    <bookmark href="https://detective.kusto.io/" id="1440">
+      <title>Kusto Detective Agency | Solve Data Investigation Challenges</title>
+    </bookmark>
+    <bookmark href="https://detective.kusto.io/" id="1387">
+      <title>Kusto Detective Agency | Solve Data Investigation Challenges</title>
+    </bookmark>
+    <bookmark href="https://microsoftservicetree.com/home" id="1404">
+      <title>Service Tree | Home</title>
+    </bookmark>
+    <bookmark href="https://microsoftservicetree.com/home" id="1441">
+      <title>Service Tree | Home</title>
+    </bookmark>
+    <bookmark href="https://vnext.s360.msftcloudes.com/blades/allup?peopleBasedNodes=tesha_team&amp;blade=Tab:KPI~isExpanded:false~ExcludeFutureWaveWork:true~waves:All~KPIType:ActionItems;LaunchCriteria;Metric;AzurePolicy~_loc:allUp&amp;global=@TESHA%2BTejas%20Shah%20(TESHA)" id="1405">
+      <title>Tejas Shah (TESHA)&apos;s Services</title>
+    </bookmark>
+    <bookmark href="https://vnext.s360.msftcloudes.com/blades/allup?peopleBasedNodes=tesha_team&amp;blade=Tab:KPI~isExpanded:false~ExcludeFutureWaveWork:true~waves:All~KPIType:ActionItems;LaunchCriteria;Metric;AzurePolicy~_loc:allUp&amp;global=@TESHA%2BTejas%20Shah%20(TESHA)" id="1442">
+      <title>Tejas Shah (TESHA)&apos;s Services</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/es-chat" id="1406">
+      <title>Engineering System Chat | 1ES On EngHub</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-docs/es-chat" id="1443">
+      <title>Engineering System Chat | 1ES On EngHub</title>
+    </bookmark>
+  </folder>
+  <folder id="20">
+    <title>Documentation</title>
+    <bookmark href="https://eng.ms/" id="1407">
+      <title>Engineering Hub</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1412">
+      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/" id="1444">
+      <title>Engineering Hub</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1445">
+      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/?product=popular" id="40">
+      <title>Azure documentation | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops" id="42">
+      <title>Azure DevOps documentation | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="41">
+      <title>Azure Firewall documentation | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops" id="43">
+      <title>Azure Repos documentation - Azure DevOps | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/" id="1335">
+      <title>Azure Resource Manager documentation | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1358">
+      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" id="1336">
+      <title>Azure Command-Line Interface (CLI) documentation | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1359">
+      <title>dSMS Introduction | website</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1360">
+      <title>Index of Autopilot Topics</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1446">
+      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?glossaryterm=Stamp&amp;TeamsCID=adb2b78f-8e1b-45d7-aed8-4f8e82797870&amp;isSPOFile=1&amp;xsdata=MDV8MDJ8fDc5NTFiZWE1MzUwMjRlMDhiM2FhMDhkZWU0MWE3N2FifDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTg5OTk0NjEyMTMwOTh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpBek1UUXpPVGd6fDFmZWY4NDQwNTM4NjRjM2ViM2FhMDhkZWU0MWE3N2FifDkyMjBkY2NlOTU3NzQ1NWVhMTczNDk4YTk1MzkzMzk0&amp;sdata=VHpwa2RHdk1ScDZETXpyY0xxUTRPelUwMnNSZDdNWk5oaDlLRlIxdDcwYz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;OR=Teams-HL&amp;CT=1784303158700&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;linkOpenTime=1784303158744" id="1388">
+      <title>Glossary</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1447">
+      <title>dSMS Introduction | website</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/geneva" id="1390">
+      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/brain/home" id="1408">
+      <title>Brain Home | Brain</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1448">
+      <title>Index of Autopilot Topics</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1413">
+      <title>OKRs at Microsoft - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?glossaryterm=Stamp&amp;TeamsCID=adb2b78f-8e1b-45d7-aed8-4f8e82797870&amp;isSPOFile=1&amp;xsdata=MDV8MDJ8fDc5NTFiZWE1MzUwMjRlMDhiM2FhMDhkZWU0MWE3N2FifDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTg5OTk0NjEyMTMwOTh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpBek1UUXpPVGd6fDFmZWY4NDQwNTM4NjRjM2ViM2FhMDhkZWU0MWE3N2FifDkyMjBkY2NlOTU3NzQ1NWVhMTczNDk4YTk1MzkzMzk0&amp;sdata=VHpwa2RHdk1ScDZETXpyY0xxUTRPelUwMnNSZDdNWk5oaDlLRlIxdDcwYz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;OR=Teams-HL&amp;CT=1784303158700&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;linkOpenTime=1784303158744" id="1449">
+      <title>Glossary</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/geneva" id="1450">
+      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/brain/home" id="1451">
+      <title>Brain Home | Brain</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1452">
+      <title>OKRs at Microsoft - Home</title>
+    </bookmark>
+  </folder>
+  <folder id="1465">
+    <title>DRI</title>
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1471">
+      <title>IcM</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1472">
+      <title>Classification Escalation and Notification (CEN) | Azure Incident Management</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/icm/workflows/assistant/icmassistanthome" id="1473">
+      <title>IcM Assistant (formerly &quot;Obi&quot;) (Public Preview) | IcM website</title>
+    </bookmark>
+    <bookmark href="https://msit.powerbi.com/groups/me/apps/ab0c4040-5687-41bd-8ed9-9daf247e5981/reports/fae7688a-fab9-4720-9c6b-df4ef0ad3e33/ReportSectiond587e190204b30025357?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1474">
+      <title>DRI Health - Power BI</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/icm/onboarding/introduction" id="1475">
+      <title>Introduction | IcM website</title>
+    </bookmark>
+    <bookmark href="https://portal.watson.azure.com/" id="1476">
+      <title>Azure Watson</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/app-plat-and-graph/app-vertical/aad-first-party-apps/identity-platform-and-access-management/access-management/just-in-time/intro-to-jit" id="1477">
+      <title>Azure Just In Time (JIT) service | Identity Docs</title>
+    </bookmark>
+  </folder>
+  <folder id="1368">
+    <title>IaaC</title>
+    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1369">
+      <title>Bicep Specialist | Awesome GitHub Copilot</title>
+    </bookmark>
+    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1370">
+      <title>Azure Iac Generator | Awesome GitHub Copilot</title>
+    </bookmark>
+  </folder>
   <folder id="21">
     <title>Firewall</title>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
     </bookmark>
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1453">
+      <title>Incident Queries - IcM</title>
+    </bookmark>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1421">
       <title>Incident Queries - IcM</title>
+    </bookmark>
+  </folder>
+  <folder id="1381">
+    <title>MCP Server</title>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1383">
+      <title>Agency MCP Servers | Agency</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1382">
+      <title>Using MCP Servers at Microsoft | 1mcp</title>
+    </bookmark>
+    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1410">
+      <title>Agency Marketplace</title>
     </bookmark>
   </folder>
   <folder id="22">
@@ -415,13 +568,22 @@
     <bookmark href="https://totalrewards.azurefd.net/stock" id="1422">
       <title>Total Rewards Portal - Stock</title>
     </bookmark>
+    <bookmark href="https://totalrewards.azurefd.net/stock" id="1454">
+      <title>Total Rewards Portal - Stock</title>
+    </bookmark>
   </folder>
-  <folder id="1368">
+  <folder id="1362">
+    <title>Security</title>
+    <bookmark href="https://strikecommunity.microsoft.com/" id="1363">
+      <title>Strike Community</title>
+    </bookmark>
+  </folder>
+  <folder id="1466">
     <title>IaaC</title>
-    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1369">
+    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
       <title>Bicep Specialist | Awesome GitHub Copilot</title>
     </bookmark>
-    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1370">
+    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1479">
       <title>Azure Iac Generator | Awesome GitHub Copilot</title>
     </bookmark>
   </folder>
@@ -436,16 +598,19 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/celaweb-immigration-and-internationaltravel/sitepages/us-immigration-microsoft-us-immigration-contacts.aspx" id="1420">
       <title>Microsoft U.S. Immigration Contacts</title>
     </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/celaweb-immigration-and-internationaltravel/sitepages/us-immigration-microsoft-us-immigration-contacts.aspx" id="1455">
+      <title>Microsoft U.S. Immigration Contacts</title>
+    </bookmark>
   </folder>
-  <folder id="1381">
+  <folder id="1467">
     <title>MCP Server</title>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1383">
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1480">
       <title>Agency MCP Servers | Agency</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1382">
+    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1481">
       <title>Using MCP Servers at Microsoft | 1mcp</title>
     </bookmark>
-    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1410">
+    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1482">
       <title>Agency Marketplace</title>
     </bookmark>
   </folder>
@@ -464,18 +629,27 @@
       <title>New Hire Schedule And Checklist | Azure Firewall Team Documentation</title>
     </bookmark>
   </folder>
+  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
+    <title>Azure Calculator</title>
+  </bookmark>
   <folder id="1326">
     <title>SAW</title>
     <bookmark href="https://microsoft.sharepoint.com/teams/cdocidm" id="1327">
       <title>CloudMFASupport</title>
     </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/ProductionLink" id="1456">
+      <title>Single Secure Device</title>
+    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/ProductionLink" id="1403">
       <title>Single Secure Device</title>
     </bookmark>
   </folder>
-  <folder id="1362">
+  <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1385">
+    <title>Engineering Hub</title>
+  </bookmark>
+  <folder id="1483">
     <title>Security</title>
-    <bookmark href="https://strikecommunity.microsoft.com/" id="1363">
+    <bookmark href="https://strikecommunity.microsoft.com/" id="1484">
       <title>Strike Community</title>
     </bookmark>
   </folder>
@@ -511,14 +685,14 @@
     <bookmark href="https://microsoft.sharepoint.com/teams/EngineeringAcademy/SitePages/Pluralsight.aspx" id="1396">
       <title>Access | Learning content platforms</title>
     </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/EngineeringAcademy/SitePages/Pluralsight.aspx" id="1457">
+      <title>Access | Learning content platforms</title>
+    </bookmark>
     <bookmark href="https://app.pluralsight.com/library/" id="327">
       <title>Pluralsight</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/Engineering-Onboarding.aspx" id="328">
       <title>Engineering Onboarding</title>
-    </bookmark>
-    <bookmark href="https://learningplatform.azure.net/User/eventType/1?tab=registered" id="329">
-      <title>Registration - Azure Engineering Learning</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1376">
       <title>Cloud Talks - Home</title>
@@ -526,13 +700,31 @@
     <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1355">
       <title>Assigned to you | Viva Learning</title>
     </bookmark>
+    <bookmark href="https://learningplatform.azure.net/User/eventType/1?tab=registered" id="329">
+      <title>Registration - Azure Engineering Learning</title>
+    </bookmark>
     <bookmark href="https://github.com/gim-home/bootcamp-presentations/tree/main/Azure%20Advanced/Cosmos%20DB" id="1395">
       <title>bootcamp-presentations/Azure Advanced/Cosmos DB at main · gim-home/bootcamp-presentations</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1458">
+      <title>Cloud Talks - Home</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx" id="1401">
       <title>Glossary</title>
     </bookmark>
+    <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1459">
+      <title>Assigned to you | Viva Learning</title>
+    </bookmark>
+    <bookmark href="https://github.com/gim-home/bootcamp-presentations/tree/main/Azure%20Advanced/Cosmos%20DB" id="1460">
+      <title>bootcamp-presentations/Azure Advanced/Cosmos DB at main · gim-home/bootcamp-presentations</title>
+    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1415">
+      <title>Cloud Talks - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx" id="1461">
+      <title>Glossary</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1462">
       <title>Cloud Talks - Home</title>
     </bookmark>
   </folder>
@@ -560,13 +752,13 @@
       <title>Azure DevBox and VSCode remote - Overview</title>
     </bookmark>
   </folder>
-  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
+  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1485">
     <title>Azure Calculator</title>
   </bookmark>
   <bookmark href="https://msazure.visualstudio.com/AzureWiki" id="298">
     <title>AzureWiki</title>
   </bookmark>
-  <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1385">
+  <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1486">
     <title>Engineering Hub</title>
   </bookmark>
   <bookmark href="https://microsoft.sharepoint.com/" id="299">
@@ -592,9 +784,6 @@
   </bookmark>
   <bookmark href="https://studiostokens.azurewebsites.net/" id="1341">
     <title>Studios Tokens</title>
-  </bookmark>
-  <bookmark href="https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&amp;workflowid=devprogram&amp;mkt=en-us" id="1330">
-    <title>Visual Studio Subscriptions Portal</title>
   </bookmark>
 </folder>
 <folder id="65">
