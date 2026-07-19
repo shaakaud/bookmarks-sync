@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1486: for Floccus bookmark sync browser extension -->
+<!--- highestId :1487: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -147,6 +147,9 @@
     </bookmark>
     <bookmark href="https://flex.plusone.com/Home" id="73">
       <title>Flex-Fitness</title>
+    </bookmark>
+    <bookmark href="https://fsa.netbenefits.com/Main.aspx" id="1487">
+      <title>Online Administration - Fidelity Investments</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/hrweb/sitepages/gettingstartedatmicrosoft.aspx" id="76">
       <title>Getting started: New@Microsoft</title>
