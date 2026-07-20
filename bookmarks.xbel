@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1490: for Floccus bookmark sync browser extension -->
+<!--- highestId :1491: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -525,6 +525,9 @@
     </bookmark>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1421">
       <title>Incident Queries - IcM</title>
+    </bookmark>
+    <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1491">
+      <title>Hybrid Buddy</title>
     </bookmark>
   </folder>
   <folder id="1381">
