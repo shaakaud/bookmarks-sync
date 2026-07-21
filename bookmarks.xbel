@@ -3,8 +3,8 @@
 <xbel version="1.0">
 <!--- highestId :1496: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
-  <title>Wiki</title>
+<bookmark href="https://www.microsoft.com/en-us" id="1496">
+  <title>Microsoft</title>
 </bookmark>
 <bookmark href="https://web.whatsapp.com/" id="2">
   <title>WhatsApp</title>
@@ -44,9 +44,6 @@
 </bookmark>
 <bookmark href="https://calendar.google.com/calendar/u/0/r" id="14">
   <title>Google Calendar</title>
-</bookmark>
-<bookmark href="https://www.microsoft.com/en-us" id="1496">
-  <title>Microsoft</title>
 </bookmark>
 <folder id="16">
   <title>MSFT</title>
