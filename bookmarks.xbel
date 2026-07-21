@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1491: for Floccus bookmark sync browser extension -->
+<!--- highestId :1492: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -1390,6 +1390,9 @@
   </folder>
   <folder id="87">
     <title>Insurance</title>
+    <bookmark href="https://homeowner.orhomewarranty.com/hoc/index.cfm/login/login-form/" id="1492">
+      <title>Homeowner Central Login - Homeowner Central</title>
+    </bookmark>
     <bookmark href="https://www.newindia.co.in/portal/" id="136">
       <title>The New India Assurance (India&apos;s Premier Multinational General Insurance Company)</title>
     </bookmark>
