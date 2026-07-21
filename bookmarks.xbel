@@ -50,12 +50,6 @@
 </bookmark>
 <folder id="16">
   <title>MSFT</title>
-  <folder id="1371">
-    <title>AI Usage</title>
-    <bookmark href="https://aka.ms/AiUsageMetrics" id="1372">
-      <title>AI Usage - Power BI</title>
-    </bookmark>
-  </folder>
   <folder id="1463">
     <title>AI Usage</title>
     <bookmark href="https://aka.ms/AiUsageMetrics" id="1468">
@@ -212,12 +206,12 @@
       <title>HRweb - Home</title>
     </bookmark>
   </folder>
-  <folder id="1364">
+  <folder id="1464">
     <title>Compute</title>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1365">
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1469">
       <title>Azure Instance Metadata Service for virtual machines - Azure Virtual Machines | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1366">
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1470">
       <title>Orchestration modes for Virtual Machine Scale Sets in Azure - Azure Virtual Machine Scale Sets | Microsoft Learn</title>
     </bookmark>
   </folder>
@@ -281,12 +275,12 @@
       <title>AI For Builders</title>
     </bookmark>
   </folder>
-  <folder id="1464">
+  <folder id="1364">
     <title>Compute</title>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1469">
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=windows" id="1365">
       <title>Azure Instance Metadata Service for virtual machines - Azure Virtual Machines | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1470">
+    <bookmark href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes?WT.mc_id=modinfra-31635-pierrer#scale-sets-with-flexible-orchestration" id="1366">
       <title>Orchestration modes for Virtual Machine Scale Sets in Azure - Azure Virtual Machine Scale Sets | Microsoft Learn</title>
     </bookmark>
   </folder>
@@ -326,27 +320,27 @@
       <title>Agency MCP Servers | Agency</title>
     </bookmark>
   </folder>
-  <folder id="1391">
+  <folder id="1465">
     <title>DRI</title>
-    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1393">
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1471">
       <title>IcM</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1392">
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1472">
       <title>Classification Escalation and Notification (CEN) | Azure Incident Management</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/products/icm/workflows/assistant/icmassistanthome" id="1394">
+    <bookmark href="https://eng.ms/docs/products/icm/workflows/assistant/icmassistanthome" id="1473">
       <title>IcM Assistant (formerly &quot;Obi&quot;) (Public Preview) | IcM website</title>
     </bookmark>
-    <bookmark href="https://msit.powerbi.com/groups/me/apps/ab0c4040-5687-41bd-8ed9-9daf247e5981/reports/fae7688a-fab9-4720-9c6b-df4ef0ad3e33/ReportSectiond587e190204b30025357?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1397">
+    <bookmark href="https://msit.powerbi.com/groups/me/apps/ab0c4040-5687-41bd-8ed9-9daf247e5981/reports/fae7688a-fab9-4720-9c6b-df4ef0ad3e33/ReportSectiond587e190204b30025357?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1474">
       <title>DRI Health - Power BI</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/products/icm/onboarding/introduction" id="1398">
+    <bookmark href="https://eng.ms/docs/products/icm/onboarding/introduction" id="1475">
       <title>Introduction | IcM website</title>
     </bookmark>
-    <bookmark href="https://portal.watson.azure.com/" id="1399">
+    <bookmark href="https://portal.watson.azure.com/" id="1476">
       <title>Azure Watson</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/app-plat-and-graph/app-vertical/aad-first-party-apps/identity-platform-and-access-management/access-management/just-in-time/intro-to-jit" id="1400">
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/app-plat-and-graph/app-vertical/aad-first-party-apps/identity-platform-and-access-management/access-management/just-in-time/intro-to-jit" id="1477">
       <title>Azure Just In Time (JIT) service | Identity Docs</title>
     </bookmark>
   </folder>
@@ -488,36 +482,36 @@
       <title>OKRs at Microsoft - Home</title>
     </bookmark>
   </folder>
-  <folder id="1465">
+  <folder id="1391">
     <title>DRI</title>
-    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1471">
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1393">
       <title>IcM</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1472">
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1392">
       <title>Classification Escalation and Notification (CEN) | Azure Incident Management</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/products/icm/workflows/assistant/icmassistanthome" id="1473">
+    <bookmark href="https://eng.ms/docs/products/icm/workflows/assistant/icmassistanthome" id="1394">
       <title>IcM Assistant (formerly &quot;Obi&quot;) (Public Preview) | IcM website</title>
     </bookmark>
-    <bookmark href="https://msit.powerbi.com/groups/me/apps/ab0c4040-5687-41bd-8ed9-9daf247e5981/reports/fae7688a-fab9-4720-9c6b-df4ef0ad3e33/ReportSectiond587e190204b30025357?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1474">
+    <bookmark href="https://msit.powerbi.com/groups/me/apps/ab0c4040-5687-41bd-8ed9-9daf247e5981/reports/fae7688a-fab9-4720-9c6b-df4ef0ad3e33/ReportSectiond587e190204b30025357?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1397">
       <title>DRI Health - Power BI</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/products/icm/onboarding/introduction" id="1475">
+    <bookmark href="https://eng.ms/docs/products/icm/onboarding/introduction" id="1398">
       <title>Introduction | IcM website</title>
     </bookmark>
-    <bookmark href="https://portal.watson.azure.com/" id="1476">
+    <bookmark href="https://portal.watson.azure.com/" id="1399">
       <title>Azure Watson</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/app-plat-and-graph/app-vertical/aad-first-party-apps/identity-platform-and-access-management/access-management/just-in-time/intro-to-jit" id="1477">
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/app-plat-and-graph/app-vertical/aad-first-party-apps/identity-platform-and-access-management/access-management/just-in-time/intro-to-jit" id="1400">
       <title>Azure Just In Time (JIT) service | Identity Docs</title>
     </bookmark>
   </folder>
-  <folder id="1368">
+  <folder id="1466">
     <title>IaaC</title>
-    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1369">
+    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
       <title>Bicep Specialist | Awesome GitHub Copilot</title>
     </bookmark>
-    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1370">
+    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1479">
       <title>Azure Iac Generator | Awesome GitHub Copilot</title>
     </bookmark>
   </folder>
@@ -536,15 +530,15 @@
       <title>Hybrid Buddy</title>
     </bookmark>
   </folder>
-  <folder id="1381">
+  <folder id="1467">
     <title>MCP Server</title>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1383">
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1480">
       <title>Agency MCP Servers | Agency</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1382">
+    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1481">
       <title>Using MCP Servers at Microsoft | 1mcp</title>
     </bookmark>
-    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1410">
+    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1482">
       <title>Agency Marketplace</title>
     </bookmark>
   </folder>
@@ -590,18 +584,18 @@
       <title>Total Rewards Portal - Stock</title>
     </bookmark>
   </folder>
-  <folder id="1362">
+  <folder id="1483">
     <title>Security</title>
-    <bookmark href="https://strikecommunity.microsoft.com/" id="1363">
+    <bookmark href="https://strikecommunity.microsoft.com/" id="1484">
       <title>Strike Community</title>
     </bookmark>
   </folder>
-  <folder id="1466">
+  <folder id="1368">
     <title>IaaC</title>
-    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
+    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1369">
       <title>Bicep Specialist | Awesome GitHub Copilot</title>
     </bookmark>
-    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1479">
+    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1370">
       <title>Azure Iac Generator | Awesome GitHub Copilot</title>
     </bookmark>
   </folder>
@@ -620,15 +614,15 @@
       <title>Microsoft U.S. Immigration Contacts</title>
     </bookmark>
   </folder>
-  <folder id="1467">
+  <folder id="1381">
     <title>MCP Server</title>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1480">
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1383">
       <title>Agency MCP Servers | Agency</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1481">
+    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1382">
       <title>Using MCP Servers at Microsoft | 1mcp</title>
     </bookmark>
-    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1482">
+    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1410">
       <title>Agency Marketplace</title>
     </bookmark>
   </folder>
@@ -647,7 +641,7 @@
       <title>New Hire Schedule And Checklist | Azure Firewall Team Documentation</title>
     </bookmark>
   </folder>
-  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
+  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1485">
     <title>Azure Calculator</title>
   </bookmark>
   <folder id="1326">
@@ -662,12 +656,12 @@
       <title>Single Secure Device</title>
     </bookmark>
   </folder>
-  <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1385">
+  <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1486">
     <title>Engineering Hub</title>
   </bookmark>
-  <folder id="1483">
+  <folder id="1362">
     <title>Security</title>
-    <bookmark href="https://strikecommunity.microsoft.com/" id="1484">
+    <bookmark href="https://strikecommunity.microsoft.com/" id="1363">
       <title>Strike Community</title>
     </bookmark>
   </folder>
@@ -770,13 +764,13 @@
       <title>Azure DevBox and VSCode remote - Overview</title>
     </bookmark>
   </folder>
-  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1485">
+  <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
     <title>Azure Calculator</title>
   </bookmark>
   <bookmark href="https://msazure.visualstudio.com/AzureWiki" id="298">
     <title>AzureWiki</title>
   </bookmark>
-  <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1486">
+  <bookmark href="https://eng.ms/#code=1.AQEAv4j5cvGGr0GRqy180BHbR5UhwJG9-8hLjGlbddrcVnIAALMaAA.BQABBAIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwIAAAAAAOw0JDaDpNak6zukL1b5_CquVr-sCW2d8dTFvIPIa4t7UgPAqtrFiX7hFIE1_ESqXkEu7AdS3SaM914bxHZWCHqOCvSZl2Gily4jSXULY43H3r5qbyQ9-H_qIa1ILSF1ASrQbi_-IQQWAudBYHn0i3CyDLoHaZ2jLDATlHzG6Q8FDuj1wBYL-8g4lA3_YwK3ZBEHioUhJumJzKMzlQCpTLPinGxC_eRAza30ZdWldmbzVw0247ovglL_We3hhe0qcBG9XaGqNPmrRr0mg3GmnQOMU0WxtyGkzRbUadrIyXkJErzjydPfi5fe9kneJ3EabYDJognA6JUDaDvN-T5-2PFXEtP00KJFnhYUVprZ4CPVYx0_iDuxQkAv8d6s8gTK8ywo4mnpSmoGQ5ba2EzLzca3rvKuPNm7luNHxhgRSqFnpGxSxXJI8YxScpdPICpZGKMYCy17EIgJl0B_6pNKCPE1HFxLk3IHi_gnsCZgou0lmxLTvUEslV3yEZSNApcBaHFl95d0H1e7S8j6qMREXiKIxtRDSo2S17aKadilwBaj1mvZrX0aYpmf9EdA0KJfAJjSW_-WmQ4oMzfXOSeXfAVw6hQd16B0ExsnjXbmt0N9mkjbO9N-YGJgNkbRA3gfb0A77m9y7HkxZ7SraKj8Y4wjg9oA2ShdEqHqB_1PvIApN_Pbl7kG_rSFg-cl-y0vZywcIegY4vz1VU1qf1bA-qcAt1Nikf5JdZogbvpJi2MmHAuYgNxy0UMYraIFSC_jtQH1vk-QhNfkNGRQhPXK_cn8O2KRDR6Q43jMD_-h84mqk9QzvGrxx5QCFzMuyhGOrQ95FBYYa0TqtQjtYRzea9VsAl-s1L9Avhm7RzNSQHJc0iKnnLZtaAg0UyOmnyPfPqv-qBl0XMZBNdPik5Av96TMQQpoUr6E6bxCeHJk8VbEzENv6026c6hUZOfWbFLbJMqZcdSxhBJoTwatX6Vq_WYEdTa27jNhrQ2MNHWwKVx_RPBw9t9KvNu8KaBBmtQtlCQMkz6S35ewZiEE-p66ykUHajdiUczx9jppRC2TmTfuq2T22jk2d2ycY8FV_aZ_epDicJfH_tXtxGa2k5agFLbu2tBuV4iza7gsRtJ9wSuqcoF3nMrNgDMAZMHNK0zDo6P0utlIG09_WBoW9fkXo_vRnbnCjWPVxZu-YiqJEdxIHwwgOKT4y5JEMNX28KVcEK6aQnt4gqHyhIkqIUPZU_KorHlYpFEOFhe8GRuPTIekj3RonDJTqdZljabsy9wv8bT7jyKEofhCe3xU3c1DUTmJvqEXnrkXrb-lRdpvAsDUt5i39OSQ1euubANyH6E8kvCBCaSeL3QUt7WHwiLjItNh3EDAovQAxrgLWAdf-GPXNII_Aco9d2y05YyFuq3dNi9HlbbydqYaruMOcie_2Kg_k7UXXv5HRRvgZGXFHd7SqoO539pKadatAqlnpkMIt2bp1VVkw38BZq33EnNWMKhr5TT6BukzbczDGW_COAwF6Xd_Pt1fPYDAH_xHyRiyFO_xn5WCyV2P5PZqjIVFiSotd41IymHtd-SEjiwXpkYpqfXinjM7nt2WSAsoy1ThIAYfgQSzkBsWBBD_imtmtAxKHvruYYWCSvzsqozZWrem&amp;client_info=eyJ1aWQiOiI3OWIxMTA0Yy1hMTQ4LTQ0MzEtODA3Zi0zNmQ2MjhmYzYyYmUiLCJ1dGlkIjoiNzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3In0&amp;state=eyJpZCI6IjAxOWY2Y2E1LTE5MWMtN2UzNS1hNDNlLTJmOTA0MjJmNjI4MSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&amp;session_state=0060294a-5204-074a-1118-0d81df6cd0d9&amp;clientdata=e%7c%7c%7cmicrosoftonline.com%7cnone" id="1385">
     <title>Engineering Hub</title>
   </bookmark>
   <bookmark href="https://microsoft.sharepoint.com/" id="299">
