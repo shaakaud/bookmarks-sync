@@ -58,27 +58,6 @@
   </folder>
   <folder id="17">
     <title>Benefits</title>
-    <folder id="30">
-      <title>Kaiser</title>
-      <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="60">
-        <title>Employer health benefits | Kaiser Permanente</title>
-      </bookmark>
-      <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="61">
-        <title>kp | Showpad</title>
-      </bookmark>
-      <bookmark href="https://usbenefits.microsoft.com/us/en/kaiserpermanentecaliforniahmo.html" id="62">
-        <title>Kaiser CA</title>
-      </bookmark>
-    </folder>
-    <folder id="31">
-      <title>Perks+</title>
-      <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/perksplusgeneral.aspx" id="63">
-        <title>Perks+</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/sites/benefits/SitePages/PerksProClub.aspx?TeamsCID=1699e3c6-0fea-413b-a456-1c9c026b048a" id="64">
-        <title>Perks+ Pro Club</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://microsoft.sharepoint.com/sites/benefits/SitePages/401kPlan.aspx" id="32">
       <title>401(k) Plan</title>
     </bookmark>
@@ -160,6 +139,18 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/hrweb/sitepages/home.aspx" id="1374">
       <title>HRweb - Home</title>
     </bookmark>
+    <folder id="30">
+      <title>Kaiser</title>
+      <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="60">
+        <title>Employer health benefits | Kaiser Permanente</title>
+      </bookmark>
+      <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="61">
+        <title>kp | Showpad</title>
+      </bookmark>
+      <bookmark href="https://usbenefits.microsoft.com/us/en/kaiserpermanentecaliforniahmo.html" id="62">
+        <title>Kaiser CA</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://microsoft.sharepoint.com/sites/celaweb-immigration-and-internationaltravel/sitepages/us-immigration-microsoft-us-immigration-contacts.aspx" id="1424">
       <title>Microsoft U.S. Immigration Contacts</title>
     </bookmark>
@@ -172,6 +163,15 @@
     <bookmark href="https://parking.microsoft.com/" id="291">
       <title>Parking</title>
     </bookmark>
+    <folder id="31">
+      <title>Perks+</title>
+      <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/perksplusgeneral.aspx" id="63">
+        <title>Perks+</title>
+      </bookmark>
+      <bookmark href="https://microsoft.sharepoint.com/sites/benefits/SitePages/PerksProClub.aspx?TeamsCID=1699e3c6-0fea-413b-a456-1c9c026b048a" id="64">
+        <title>Perks+ Pro Club</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://care.springhealth.com/sign_in" id="292">
       <title>Spring Health - Sign In</title>
     </bookmark>
