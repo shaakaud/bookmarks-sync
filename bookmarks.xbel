@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1497: for Floccus bookmark sync browser extension -->
+<!--- highestId :1498: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -400,16 +400,16 @@
   </folder>
   <folder id="20">
     <title>Documentation</title>
-    <bookmark href="https://eng.ms/" id="1407">
-      <title>Engineering Hub</title>
-    </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1412">
-      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
-    </bookmark>
     <bookmark href="https://eng.ms/" id="1444">
       <title>Engineering Hub</title>
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1445">
+      <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/" id="1407">
+      <title>Engineering Hub</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/architecture/" id="1412">
       <title>Azure Architecture Center - Azure Architecture Center | Microsoft Learn</title>
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/azure/?product=popular" id="40">
@@ -427,41 +427,26 @@
     <bookmark href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/" id="1335">
       <title>Azure Resource Manager documentation | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1358">
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1446">
       <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" id="1336">
       <title>Azure Command-Line Interface (CLI) documentation | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1359">
-      <title>dSMS Introduction | website</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1360">
-      <title>Index of Autopilot Topics</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1446">
-      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?glossaryterm=Stamp&amp;TeamsCID=adb2b78f-8e1b-45d7-aed8-4f8e82797870&amp;isSPOFile=1&amp;xsdata=MDV8MDJ8fDc5NTFiZWE1MzUwMjRlMDhiM2FhMDhkZWU0MWE3N2FifDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTg5OTk0NjEyMTMwOTh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpBek1UUXpPVGd6fDFmZWY4NDQwNTM4NjRjM2ViM2FhMDhkZWU0MWE3N2FifDkyMjBkY2NlOTU3NzQ1NWVhMTczNDk4YTk1MzkzMzk0&amp;sdata=VHpwa2RHdk1ScDZETXpyY0xxUTRPelUwMnNSZDdNWk5oaDlLRlIxdDcwYz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;OR=Teams-HL&amp;CT=1784303158700&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;linkOpenTime=1784303158744" id="1388">
-      <title>Glossary</title>
-    </bookmark>
     <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1447">
       <title>dSMS Introduction | website</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/geneva" id="1390">
-      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/brain/home" id="1408">
-      <title>Brain Home | Brain</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/products/autopilot#" id="1448">
       <title>Index of Autopilot Topics</title>
     </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1413">
-      <title>OKRs at Microsoft - Home</title>
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1358">
+      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?glossaryterm=Stamp&amp;TeamsCID=adb2b78f-8e1b-45d7-aed8-4f8e82797870&amp;isSPOFile=1&amp;xsdata=MDV8MDJ8fDc5NTFiZWE1MzUwMjRlMDhiM2FhMDhkZWU0MWE3N2FifDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTg5OTk0NjEyMTMwOTh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpBek1UUXpPVGd6fDFmZWY4NDQwNTM4NjRjM2ViM2FhMDhkZWU0MWE3N2FifDkyMjBkY2NlOTU3NzQ1NWVhMTczNDk4YTk1MzkzMzk0&amp;sdata=VHpwa2RHdk1ScDZETXpyY0xxUTRPelUwMnNSZDdNWk5oaDlLRlIxdDcwYz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;OR=Teams-HL&amp;CT=1784303158700&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;linkOpenTime=1784303158744" id="1449">
       <title>Glossary</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1359">
+      <title>dSMS Introduction | website</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/products/geneva" id="1450">
       <title>Introduction to Geneva | Geneva Monitoring Docs</title>
@@ -469,8 +454,26 @@
     <bookmark href="https://eng.ms/docs/products/brain/home" id="1451">
       <title>Brain Home | Brain</title>
     </bookmark>
+    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1360">
+      <title>Index of Autopilot Topics</title>
+    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1452">
       <title>OKRs at Microsoft - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?glossaryterm=Stamp&amp;TeamsCID=adb2b78f-8e1b-45d7-aed8-4f8e82797870&amp;isSPOFile=1&amp;xsdata=MDV8MDJ8fDc5NTFiZWE1MzUwMjRlMDhiM2FhMDhkZWU0MWE3N2FifDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkxOTg5OTk0NjEyMTMwOTh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVGxSWk5FOVVhelJQVkdOMFQwUnJNRnBETURCYVIxazBURlJuZWs1cVJYUk9WMDB6V2tkR2FGcHRTVFJPYlZGM1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemcwTXpBek1UUXpPVGd6fDFmZWY4NDQwNTM4NjRjM2ViM2FhMDhkZWU0MWE3N2FifDkyMjBkY2NlOTU3NzQ1NWVhMTczNDk4YTk1MzkzMzk0&amp;sdata=VHpwa2RHdk1ScDZETXpyY0xxUTRPelUwMnNSZDdNWk5oaDlLRlIxdDcwYz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;OR=Teams-HL&amp;CT=1784303158700&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcwNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;linkOpenTime=1784303158744" id="1388">
+      <title>Glossary</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/geneva" id="1390">
+      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/products/brain/home" id="1408">
+      <title>Brain Home | Brain</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1413">
+      <title>OKRs at Microsoft - Home</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/rule-processing" id="1498">
+      <title>Azure Firewall rule processing logic | Microsoft Learn</title>
     </bookmark>
   </folder>
   <folder id="1391">
