@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1494: for Floccus bookmark sync browser extension -->
+<!--- highestId :1495: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://wiki.versa-networks.com/login.action?logout=true" id="1">
   <title>Wiki</title>
@@ -136,6 +136,9 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/HRweb" id="289">
       <title>HRweb - Home</title>
     </bookmark>
+    <folder id="1495">
+      <title>Immigration</title>
+    </folder>
     <folder id="30">
       <title>Kaiser</title>
       <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="60">
