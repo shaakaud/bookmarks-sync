@@ -506,9 +506,12 @@
       <title>Log Sources - Azure Firewall - Overview</title>
     </bookmark>
   </folder>
-  <bookmark href="https://hybridbuddy.azure.com/budgetmanagement/teamgroups" id="1504">
-    <title>Azure Networking Budget Management</title>
-  </bookmark>
+  <folder id="1505">
+    <title>Expense</title>
+    <bookmark href="https://hybridbuddy.azure.com/budgetmanagement/teamgroups" id="1504">
+      <title>Azure Networking Budget Management</title>
+    </bookmark>
+  </folder>
   <folder id="1466">
     <title>IaaC</title>
     <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
@@ -544,9 +547,6 @@
     <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1482">
       <title>Agency Marketplace</title>
     </bookmark>
-  </folder>
-  <folder id="1505">
-    <title>Expense</title>
   </folder>
   <folder id="22">
     <title>Git</title>
