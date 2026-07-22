@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1501: for Floccus bookmark sync browser extension -->
+<!--- highestId :1502: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -1007,6 +1007,9 @@
       </bookmark>
       <bookmark href="https://signin.my.equifax.com/u/login/identifier?state=hKFo2SByLXp2NjJaZ2hpdEhYamVZdThQZ3AwOGtvNks4c0JodqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDJ2WVlqTmM3N0dIZUVFVF8xLWp3eHdEdnM2SHc5U1FWo2NpZNkgSkFNQnpYOTZGSnRMQU1mVXFQQldmQjJPTVZ3R2x6Y0w" id="1501">
         <title>Equifax | myEquifax | Log In to Your Account</title>
+      </bookmark>
+      <bookmark href="https://www.experian.com/help/login/" id="1502">
+        <title>Experian Login: Sign into your Experian account</title>
       </bookmark>
     </folder>
     <folder id="126">
