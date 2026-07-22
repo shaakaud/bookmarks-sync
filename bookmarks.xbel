@@ -545,6 +545,9 @@
       <title>Agency Marketplace</title>
     </bookmark>
   </folder>
+  <folder id="1505">
+    <title>Expense</title>
+  </folder>
   <folder id="22">
     <title>Git</title>
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-GSA" id="45">
@@ -800,9 +803,6 @@
   <bookmark href="https://studiostokens.azurewebsites.net/" id="1341">
     <title>Studios Tokens</title>
   </bookmark>
-  <folder id="1505">
-    <title>Expense</title>
-  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
