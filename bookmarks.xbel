@@ -1088,6 +1088,33 @@
       <title>Individual - Buying Series I Savings Bonds</title>
     </bookmark>
   </folder>
+  <folder id="306">
+    <title>GIT</title>
+    <bookmark href="http://gitimmersion.com/" id="356">
+      <title>Git Immersion</title>
+    </bookmark>
+    <bookmark href="https://devhints.io/tig" id="357">
+      <title>Tig cheatsheet</title>
+    </bookmark>
+    <bookmark href="https://github.com/tpope/vim-fugitive" id="358">
+      <title>VIM FUGITIVE</title>
+    </bookmark>
+    <bookmark href="http://rogerdudler.github.io/git-guide/" id="359">
+      <title>git - the simple guide - no deep shit!</title>
+    </bookmark>
+    <bookmark href="http://git-scm.com/book/en/v2" id="360">
+      <title>Git - Book</title>
+    </bookmark>
+    <bookmark href="https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow" id="361">
+      <title>Forking Workflow | Atlassian Git Tutorial</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/presentation/d/1BSaXfu6o6TBJwCdDbjYzVDIXNjpzG55eH2Ro-fCjf4w/edit#slide=id.p" id="362">
+      <title>Git - Google Slides</title>
+    </bookmark>
+    <bookmark href="http://pcottle.github.io/learnGitBranching/" id="363">
+      <title>Learn Git Branching</title>
+    </bookmark>
+  </folder>
   <folder id="84">
     <title>HOME</title>
     <folder id="110">
@@ -1153,143 +1180,38 @@
     <bookmark href="https://www.pluralsight.com/learn?gclid=Cj0KCQjw3v3YBRCOARIsAPkLbK6HVUJ5Eu-OS_DW9BuL5meFZHtAM6fDXrd53OmQssGaQwUNGtMjiIAaApS-EALw_wcB&amp;utm_term=&amp;aid=701j0000002BGi3AAG&amp;promo=&amp;oid=&amp;utm_source=branded&amp;utm_medium=digital_paid_search_google&amp;utm_campaign=US_Brand_E&amp;utm_content=&amp;s_kwcid=AL!5668!3!251200749970!e!!g!!pluralsight&amp;ef_id=VzwG5gAAATCzqj65:20180612222245:s" id="672">
       <title>Expert-led online training | Pluralsight</title>
     </bookmark>
-    <folder id="304">
-      <title>Juniper Networks</title>
-      <bookmark href="https://us.etrade.com/e/t/user/login_sp" id="345">
-        <title>E*TRADE FINANCIAL - Employee Stock Plans</title>
-      </bookmark>
-    </folder>
   </folder>
-  <folder id="305">
-    <title>VIM-Screen-Emacs-cscope</title>
-    <folder id="346">
-      <title>Eclipse</title>
-      <bookmark href="https://cloud.google.com/java/docs/setup" id="388">
-        <title>Setting Up a Java Development Environment  |  Google Cloud</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/eclipse/docs/quickstart" id="389">
-        <title>Quickstart  |  Cloud Tools for Eclipse  |  Google Cloud</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/eclipse/docs/creating-new-webapp" id="390">
-        <title>Creating an App Engine Standard Application  |  Cloud Tools for Eclipse</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/eclipse/docs/deploying" id="391">
-        <title>Deploying App Engine Standard Applications from Eclipse</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/appengine/docs/standard/java/runtime" id="392">
-        <title>Java 8 Runtime Environment</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://robots.thoughtbot.com/a-tmux-crash-course" id="347">
-      <title>A tmux Crash Course</title>
+  <folder id="304">
+    <title>Juniper Networks</title>
+    <bookmark href="https://us.etrade.com/e/t/user/login_sp" id="345">
+      <title>E*TRADE FINANCIAL - Employee Stock Plans</title>
     </bookmark>
-    <bookmark href="https://gist.github.com/MohamedAlaa/2961058" id="348">
-      <title>tmux shortcuts &amp; cheatsheet · GitHub</title>
+  </folder>
+  <folder id="649">
+    <title>LK</title>
+    <bookmark href="https://github.com/lakshmankumar12/devbox/blob/master/Dockerfile" id="656">
+      <title>devbox/Dockerfile at master · lakshmankumar12/devbox</title>
     </bookmark>
-    <bookmark href="http://unix.stackexchange.com/questions/12107/how-to-unfreeze-after-accidentally-pressing-ctrl-s-in-a-terminal" id="349">
-      <title>keyboard - How to unfreeze after accidentally pressing Ctrl-S in a terminal? - Unix &amp; Linux Stack Exchange</title>
+    <bookmark href="https://medium.com/@lakshmankumar12" id="657">
+      <title>lakshman kumar – Medium</title>
     </bookmark>
-    <bookmark href="http://vim.rtorr.com/" id="350">
-      <title>Vim Cheat Sheet - English</title>
-    </bookmark>
-    <bookmark href="https://www.embeddedarm.com/blog/tag-jumping-in-a-codebase-using-ctags-and-cscope-in-vim/" id="351">
-      <title>Tag Jumping in a Codebase Using ctags and cscope in Vim – Technologic Systems Blog</title>
-    </bookmark>
-    <bookmark href="http://ethanschoonover.com/solarized/vim-colors-solarized" id="352">
-      <title>Solaraized ColorScheme</title>
-    </bookmark>
-    <bookmark href="http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html" id="353">
-      <title>GNOME Terminal - Solarized Colorscheme</title>
-    </bookmark>
-    <bookmark href="https://github.com/tpope/vim-fugitive" id="354">
-      <title>tpope/vim-fugitive</title>
-    </bookmark>
-    <bookmark href="https://github.com/lakshmankumar12" id="355">
+    <bookmark href="https://github.com/lakshmankumar12" id="658">
       <title>lakshmankumar12</title>
     </bookmark>
-    <bookmark href="https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet" id="421">
-      <title>Cheatsheet · robbyrussell/oh-my-zsh Wiki</title>
+    <bookmark href="http://lakshmankumar12.github.io/web/memory_mgmt/" id="659">
+      <title>Memory Management</title>
     </bookmark>
-    <bookmark href="http://gingerjoos.com/blog/linux/vimdiff-the-cool-way-to-diff-for-vim-users" id="422">
-      <title>vimdiff - the cool way to diff for vim users | Dreams of Thought</title>
+    <bookmark href="https://github.com/cjbarber/ToolsOfTheTrade" id="660">
+      <title>cjbarber/ToolsOfTheTrade</title>
     </bookmark>
-    <bookmark href="https://github.com/lakshmankumar12/vimfiles" id="423">
-      <title>lakshmankumar12/vimfiles · GitHub</title>
+    <bookmark href="http://usmovdlnara002.eng.timetra.com/scp_files.html" id="661">
+      <title>Scp files to testbed safely</title>
     </bookmark>
-    <bookmark href="http://www.gnu.org/software/emacs/tour/" id="424">
-      <title>A guided tour of Emacs</title>
+    <bookmark href="http://usmovdlnara002.eng.timetra.com/screen.html" id="662">
+      <title>Screen - A great session managment tool</title>
     </bookmark>
-    <bookmark href="http://kb.iu.edu/data/aghb.html" id="425">
-      <title>In Emacs, how are keystrokes denoted? - Knowledge Base</title>
-    </bookmark>
-    <bookmark href="http://www.softpanorama.org/Utilities/Screen/screenrc_examples.shtml" id="426">
-      <title>.screenrc examples</title>
-    </bookmark>
-    <bookmark href="http://grok2.tripod.com/" id="427">
-      <title>Emacs for Vi Programmers</title>
-    </bookmark>
-    <bookmark href="http://danzig.jct.ac.il/unix_class/emacs-vi-Commands.html" id="428">
-      <title>Equivalence of Emacs and VIM commands</title>
-    </bookmark>
-    <bookmark href="http://www.c2.com/cgi/wiki?EmacsVsVi" id="429">
-      <title>Emacs Vs Vi</title>
-    </bookmark>
-    <bookmark href="http://www.med.nyu.edu/rcr/rcr/course/unix8.html" id="454">
-      <title>Basic emacs Commands</title>
-    </bookmark>
-    <bookmark href="http://www.samsarin.com/blog/2007/03/11/gnu-screen-working-with-the-scrollback-buffer/" id="455">
-      <title>GNU Screen: Working with the Scrollback Buffer — Samsarin</title>
-    </bookmark>
-    <bookmark href="https://bbs.archlinux.org/viewtopic.php?id=111461" id="456">
-      <title>VIM-SEARCH-UP-ARROW-ISSUE</title>
-    </bookmark>
-    <bookmark href="http://www.bigsmoke.us/readline/shortcuts" id="457">
-      <title>Readline keyboard shortcuts for bash, bc, ftp, gnuplot, gpg, ksh, mysql, psql, python, smbclient, xmllint and zsh</title>
-    </bookmark>
-    <bookmark href="http://users.nccs.gov/~fwang2/tools/vinotes.html" id="458">
-      <title>A Collection of Vi Tips</title>
-    </bookmark>
-    <bookmark href="http://jasonwryan.com/blog/2011/12/01/readline/" id="459">
-      <title>Readline Bindings in Vi Mode - jasonwryan.com</title>
-    </bookmark>
-    <bookmark href="http://eastcoastefx.vaesite.com/vim" id="460">
-      <title>Vim Magic | A Handy Guide to Vim Shortcuts</title>
-    </bookmark>
-    <bookmark href="https://www.codegrepper.com/code-examples/shell" id="461">
-      <title>Browse Shell/Bash Code Examples</title>
-    </bookmark>
-  </folder>
-  <folder id="306">
-    <title>GIT</title>
-    <bookmark href="http://gitimmersion.com/" id="356">
-      <title>Git Immersion</title>
-    </bookmark>
-    <bookmark href="https://devhints.io/tig" id="357">
-      <title>Tig cheatsheet</title>
-    </bookmark>
-    <bookmark href="https://github.com/tpope/vim-fugitive" id="358">
-      <title>VIM FUGITIVE</title>
-    </bookmark>
-    <bookmark href="http://rogerdudler.github.io/git-guide/" id="359">
-      <title>git - the simple guide - no deep shit!</title>
-    </bookmark>
-    <bookmark href="http://git-scm.com/book/en/v2" id="360">
-      <title>Git - Book</title>
-    </bookmark>
-    <bookmark href="https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow" id="361">
-      <title>Forking Workflow | Atlassian Git Tutorial</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/presentation/d/1BSaXfu6o6TBJwCdDbjYzVDIXNjpzG55eH2Ro-fCjf4w/edit#slide=id.p" id="362">
-      <title>Git - Google Slides</title>
-    </bookmark>
-    <bookmark href="http://pcottle.github.io/learnGitBranching/" id="363">
-      <title>Learn Git Branching</title>
-    </bookmark>
-  </folder>
-  <folder id="462">
-    <title>VNC Configs</title>
-    <bookmark href="https://www.krizna.com/ubuntu/install-vnc-server-ubuntu-14-04/" id="477">
-      <title>How to install VNC server on ubuntu 14.04</title>
+    <bookmark href="https://github.com/lakshmankumar12/noipupdate" id="663">
+      <title>lakshmankumar12/noipupdate</title>
     </bookmark>
   </folder>
   <folder id="515">
@@ -1602,33 +1524,6 @@
     <title>R2I</title>
     <bookmark href="http://www.r2iclubforums.com/forums/forum.php" id="648">
       <title>R2IClubForums</title>
-    </bookmark>
-  </folder>
-  <folder id="649">
-    <title>LK</title>
-    <bookmark href="https://github.com/lakshmankumar12/devbox/blob/master/Dockerfile" id="656">
-      <title>devbox/Dockerfile at master · lakshmankumar12/devbox</title>
-    </bookmark>
-    <bookmark href="https://medium.com/@lakshmankumar12" id="657">
-      <title>lakshman kumar – Medium</title>
-    </bookmark>
-    <bookmark href="https://github.com/lakshmankumar12" id="658">
-      <title>lakshmankumar12</title>
-    </bookmark>
-    <bookmark href="http://lakshmankumar12.github.io/web/memory_mgmt/" id="659">
-      <title>Memory Management</title>
-    </bookmark>
-    <bookmark href="https://github.com/cjbarber/ToolsOfTheTrade" id="660">
-      <title>cjbarber/ToolsOfTheTrade</title>
-    </bookmark>
-    <bookmark href="http://usmovdlnara002.eng.timetra.com/scp_files.html" id="661">
-      <title>Scp files to testbed safely</title>
-    </bookmark>
-    <bookmark href="http://usmovdlnara002.eng.timetra.com/screen.html" id="662">
-      <title>Screen - A great session managment tool</title>
-    </bookmark>
-    <bookmark href="https://github.com/lakshmankumar12/noipupdate" id="663">
-      <title>lakshmankumar12/noipupdate</title>
     </bookmark>
   </folder>
   <folder id="85">
@@ -2040,6 +1935,111 @@
     </folder>
     <bookmark href="https://superuser.com/questions/968879/windows-10-map-network-drive-a-specified-logon-session-does-not-exist/1126123" id="593">
       <title>networking - Windows 10 Map Network Drive &apos;A specified logon session does not exist.&apos; - Super User</title>
+    </bookmark>
+  </folder>
+  <folder id="305">
+    <title>VIM-Screen-Emacs-cscope</title>
+    <folder id="346">
+      <title>Eclipse</title>
+      <bookmark href="https://cloud.google.com/java/docs/setup" id="388">
+        <title>Setting Up a Java Development Environment  |  Google Cloud</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/eclipse/docs/quickstart" id="389">
+        <title>Quickstart  |  Cloud Tools for Eclipse  |  Google Cloud</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/eclipse/docs/creating-new-webapp" id="390">
+        <title>Creating an App Engine Standard Application  |  Cloud Tools for Eclipse</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/eclipse/docs/deploying" id="391">
+        <title>Deploying App Engine Standard Applications from Eclipse</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/appengine/docs/standard/java/runtime" id="392">
+        <title>Java 8 Runtime Environment</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://robots.thoughtbot.com/a-tmux-crash-course" id="347">
+      <title>A tmux Crash Course</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/MohamedAlaa/2961058" id="348">
+      <title>tmux shortcuts &amp; cheatsheet · GitHub</title>
+    </bookmark>
+    <bookmark href="http://unix.stackexchange.com/questions/12107/how-to-unfreeze-after-accidentally-pressing-ctrl-s-in-a-terminal" id="349">
+      <title>keyboard - How to unfreeze after accidentally pressing Ctrl-S in a terminal? - Unix &amp; Linux Stack Exchange</title>
+    </bookmark>
+    <bookmark href="http://vim.rtorr.com/" id="350">
+      <title>Vim Cheat Sheet - English</title>
+    </bookmark>
+    <bookmark href="https://www.embeddedarm.com/blog/tag-jumping-in-a-codebase-using-ctags-and-cscope-in-vim/" id="351">
+      <title>Tag Jumping in a Codebase Using ctags and cscope in Vim – Technologic Systems Blog</title>
+    </bookmark>
+    <bookmark href="http://ethanschoonover.com/solarized/vim-colors-solarized" id="352">
+      <title>Solaraized ColorScheme</title>
+    </bookmark>
+    <bookmark href="http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html" id="353">
+      <title>GNOME Terminal - Solarized Colorscheme</title>
+    </bookmark>
+    <bookmark href="https://github.com/tpope/vim-fugitive" id="354">
+      <title>tpope/vim-fugitive</title>
+    </bookmark>
+    <bookmark href="https://github.com/lakshmankumar12" id="355">
+      <title>lakshmankumar12</title>
+    </bookmark>
+    <bookmark href="https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet" id="421">
+      <title>Cheatsheet · robbyrussell/oh-my-zsh Wiki</title>
+    </bookmark>
+    <bookmark href="http://gingerjoos.com/blog/linux/vimdiff-the-cool-way-to-diff-for-vim-users" id="422">
+      <title>vimdiff - the cool way to diff for vim users | Dreams of Thought</title>
+    </bookmark>
+    <bookmark href="https://github.com/lakshmankumar12/vimfiles" id="423">
+      <title>lakshmankumar12/vimfiles · GitHub</title>
+    </bookmark>
+    <bookmark href="http://www.gnu.org/software/emacs/tour/" id="424">
+      <title>A guided tour of Emacs</title>
+    </bookmark>
+    <bookmark href="http://kb.iu.edu/data/aghb.html" id="425">
+      <title>In Emacs, how are keystrokes denoted? - Knowledge Base</title>
+    </bookmark>
+    <bookmark href="http://www.softpanorama.org/Utilities/Screen/screenrc_examples.shtml" id="426">
+      <title>.screenrc examples</title>
+    </bookmark>
+    <bookmark href="http://grok2.tripod.com/" id="427">
+      <title>Emacs for Vi Programmers</title>
+    </bookmark>
+    <bookmark href="http://danzig.jct.ac.il/unix_class/emacs-vi-Commands.html" id="428">
+      <title>Equivalence of Emacs and VIM commands</title>
+    </bookmark>
+    <bookmark href="http://www.c2.com/cgi/wiki?EmacsVsVi" id="429">
+      <title>Emacs Vs Vi</title>
+    </bookmark>
+    <bookmark href="http://www.med.nyu.edu/rcr/rcr/course/unix8.html" id="454">
+      <title>Basic emacs Commands</title>
+    </bookmark>
+    <bookmark href="http://www.samsarin.com/blog/2007/03/11/gnu-screen-working-with-the-scrollback-buffer/" id="455">
+      <title>GNU Screen: Working with the Scrollback Buffer — Samsarin</title>
+    </bookmark>
+    <bookmark href="https://bbs.archlinux.org/viewtopic.php?id=111461" id="456">
+      <title>VIM-SEARCH-UP-ARROW-ISSUE</title>
+    </bookmark>
+    <bookmark href="http://www.bigsmoke.us/readline/shortcuts" id="457">
+      <title>Readline keyboard shortcuts for bash, bc, ftp, gnuplot, gpg, ksh, mysql, psql, python, smbclient, xmllint and zsh</title>
+    </bookmark>
+    <bookmark href="http://users.nccs.gov/~fwang2/tools/vinotes.html" id="458">
+      <title>A Collection of Vi Tips</title>
+    </bookmark>
+    <bookmark href="http://jasonwryan.com/blog/2011/12/01/readline/" id="459">
+      <title>Readline Bindings in Vi Mode - jasonwryan.com</title>
+    </bookmark>
+    <bookmark href="http://eastcoastefx.vaesite.com/vim" id="460">
+      <title>Vim Magic | A Handy Guide to Vim Shortcuts</title>
+    </bookmark>
+    <bookmark href="https://www.codegrepper.com/code-examples/shell" id="461">
+      <title>Browse Shell/Bash Code Examples</title>
+    </bookmark>
+  </folder>
+  <folder id="462">
+    <title>VNC Configs</title>
+    <bookmark href="https://www.krizna.com/ubuntu/install-vnc-server-ubuntu-14-04/" id="477">
+      <title>How to install VNC server on ubuntu 14.04</title>
     </bookmark>
   </folder>
   <folder id="83">
