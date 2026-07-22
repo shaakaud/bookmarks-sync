@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1503: for Floccus bookmark sync browser extension -->
+<!--- highestId :1504: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -506,6 +506,9 @@
       <title>Log Sources - Azure Firewall - Overview</title>
     </bookmark>
   </folder>
+  <bookmark href="https://hybridbuddy.azure.com/budgetmanagement/teamgroups" id="1504">
+    <title>Azure Networking Budget Management</title>
+  </bookmark>
   <folder id="1466">
     <title>IaaC</title>
     <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
