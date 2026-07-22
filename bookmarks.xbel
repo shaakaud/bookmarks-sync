@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1507: for Floccus bookmark sync browser extension -->
+<!--- highestId :1508: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -310,6 +310,9 @@
   </folder>
   <folder id="1465">
     <title>DRI</title>
+    <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1506">
+      <title>Hybrid Buddy (GSA Buddy)</title>
+    </bookmark>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1471">
       <title>IcM</title>
     </bookmark>
@@ -334,11 +337,11 @@
     <bookmark href="https://onedrive.cloud.microsoft/:w:/a@3dr62dw3/S/cQrh7HBB1c1TRLxj-inHn-FvEgUCVoMXiMOQKphHxS_aX_9ijw?e=4%3A6c6d6063edb44567945ad80b2e969cf6&amp;nav=&amp;sharingS3=true&amp;fromShare=true&amp;CID=620f31ce-619b-6544-241a-b37f502022d6" id="1497">
       <title>Azure Firewall Oncall Guide.docx</title>
     </bookmark>
-    <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1506">
-      <title>Hybrid Buddy (GSA Buddy)</title>
-    </bookmark>
     <bookmark href="https://safeflyv2.portal.azure.com/#view/Microsoft_SafeflyV2/MainMenu.MenuView/~/home" id="1507">
       <title>SafeFly - SafeFly</title>
+    </bookmark>
+    <bookmark href="https://jitaccess.security.core.windows.net/" id="1508">
+      <title>jitaccess.security.core.windows.net</title>
     </bookmark>
   </folder>
   <folder id="19">
