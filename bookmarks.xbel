@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1504: for Floccus bookmark sync browser extension -->
+<!--- highestId :1505: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -800,6 +800,9 @@
   <bookmark href="https://studiostokens.azurewebsites.net/" id="1341">
     <title>Studios Tokens</title>
   </bookmark>
+  <folder id="1505">
+    <title>Expense</title>
+  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
