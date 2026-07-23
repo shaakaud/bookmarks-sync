@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1518: for Floccus bookmark sync browser extension -->
+<!--- highestId :1519: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -483,6 +483,9 @@
     <title>DRI</title>
     <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1518">
       <title>Hybrid Buddy</title>
+    </bookmark>
+    <bookmark href="https://safeflyv2.portal.azure.com/#home" id="1519">
+      <title>Home - SafeFly</title>
     </bookmark>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1393">
       <title>IcM</title>
