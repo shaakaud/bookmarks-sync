@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1521: for Floccus bookmark sync browser extension -->
+<!--- highestId :1522: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -304,6 +304,15 @@
   </folder>
   <folder id="1465">
     <title>DRI</title>
+    <folder id="1522">
+      <title>TSG</title>
+      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-how-to-manually-ssh-to-a-slice-firewall" id="1520">
+        <title>TSG - How to manually SSH to a slice firewall | Azure Firewall Troubleshooting Guide</title>
+      </bookmark>
+      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-how-to-manually-ssh-to-a-firewall" id="1521">
+        <title>TSG - How to manually SSH to a firewall | Azure Firewall Troubleshooting Guide</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1506">
       <title>Hybrid Buddy (GSA Buddy)</title>
     </bookmark>
@@ -336,12 +345,6 @@
     </bookmark>
     <bookmark href="https://jitaccess.security.core.windows.net/" id="1508">
       <title>jitaccess</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-how-to-manually-ssh-to-a-slice-firewall" id="1520">
-      <title>TSG - How to manually SSH to a slice firewall | Azure Firewall Troubleshooting Guide</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-how-to-manually-ssh-to-a-firewall" id="1521">
-      <title>TSG - How to manually SSH to a firewall | Azure Firewall Troubleshooting Guide</title>
     </bookmark>
   </folder>
   <folder id="19">
