@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1528: for Floccus bookmark sync browser extension -->
+<!--- highestId :1530: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -57,6 +57,12 @@
     <title>AppGW</title>
     <bookmark href="https://github.com/rnautiyal/JWT-Validation/blob/main/README.md" id="1528">
       <title>JWT-Validation/README.md at main · rnautiyal/JWT-Validation</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:w:/t/ApplicationGateway9/IQASILHmyG6tSKQ_Ys03SbJzAcOpq_qzU2I0TmVOw4yUKsc?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcxMSJ9" id="1529">
+      <title>L3 Design P2S Scenario Firewall.docx</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:w:/r/teams/ApplicationGateway9/_layouts/15/Doc.aspx?sourcedoc=%7B235EEA61-1AE1-4371-9714-33949B909816%7D&amp;file=L7%20Design%20Firewall.docx&amp;action=default&amp;mobileredirect=true&amp;share=cQph6l4j4RpxQ5cUM5SbkJgWEgUCfaIY8EH7Vk63-9dU5_SA3w" id="1530">
+      <title>L7 Design Firewall.docx</title>
     </bookmark>
   </folder>
   <folder id="17">
