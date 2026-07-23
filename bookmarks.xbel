@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1512: for Floccus bookmark sync browser extension -->
+<!--- highestId :1513: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -658,6 +658,9 @@
     <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1512">
       <title>Vision Benefits | Dashboard</title>
     </bookmark>
+    <folder id="1513">
+      <title>Vision</title>
+    </folder>
   </folder>
   <folder id="26">
     <title>NewHire</title>
