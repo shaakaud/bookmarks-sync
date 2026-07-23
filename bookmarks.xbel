@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1524: for Floccus bookmark sync browser extension -->
+<!--- highestId :1525: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -681,6 +681,9 @@
     <title>NewHire</title>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/onboarding" id="54">
       <title>New Hire Schedule And Checklist | Azure Firewall Team Documentation</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/Engineering-Onboarding.aspx" id="1525">
+      <title>Engineering Onboarding</title>
     </bookmark>
   </folder>
   <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1485">
