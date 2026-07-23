@@ -146,9 +146,6 @@
       <title>Medical</title>
       <folder id="1511">
         <title>Kaiser</title>
-        <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="60">
-          <title>Employer health benefits | Kaiser Permanente</title>
-        </bookmark>
         <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="61">
           <title>kp | Showpad</title>
         </bookmark>
@@ -649,11 +646,11 @@
   </folder>
   <folder id="25">
     <title>Medical</title>
+    <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="60">
+      <title>Employer health benefits | Kaiser Permanente</title>
+    </bookmark>
     <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="52">
       <title>kp | Showpad</title>
-    </bookmark>
-    <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="53">
-      <title>Employer health benefits | Kaiser Permanente</title>
     </bookmark>
     <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1512">
       <title>Vision Benefits | Dashboard</title>
