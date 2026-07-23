@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1510: for Floccus bookmark sync browser extension -->
+<!--- highestId :1511: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -153,6 +153,9 @@
       <bookmark href="https://usbenefits.microsoft.com/us/en/kaiserpermanentecaliforniahmo.html" id="62">
         <title>Kaiser CA</title>
       </bookmark>
+      <folder id="1511">
+        <title>Kaiser</title>
+      </folder>
     </folder>
     <bookmark href="https://microsoft.sharepoint.com/sites/celaweb-immigration-and-internationaltravel/sitepages/us-immigration-microsoft-us-immigration-contacts.aspx" id="1424">
       <title>Microsoft U.S. Immigration Contacts</title>
