@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1511: for Floccus bookmark sync browser extension -->
+<!--- highestId :1512: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -143,7 +143,7 @@
       </bookmark>
     </folder>
     <folder id="30">
-      <title>Kaiser</title>
+      <title>Medical</title>
       <folder id="1511">
         <title>Kaiser</title>
         <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="60">
@@ -654,6 +654,9 @@
     </bookmark>
     <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="53">
       <title>Employer health benefits | Kaiser Permanente</title>
+    </bookmark>
+    <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1512">
+      <title>Vision Benefits | Dashboard</title>
     </bookmark>
   </folder>
   <folder id="26">
