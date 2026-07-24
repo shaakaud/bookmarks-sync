@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1531: for Floccus bookmark sync browser extension -->
+<!--- highestId :1533: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -598,6 +598,12 @@
   </folder>
   <folder id="1531">
     <title>GSA</title>
+    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=350795&amp;_a=summary" id="1532">
+      <title>Pipelines - Runs for Networking-GSA-Official-Yaml</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=438599&amp;_a=summary" id="1533">
+      <title>Pipelines - Runs for Azure Firewall Copy App Version To Slice And P1</title>
+    </bookmark>
   </folder>
   <folder id="23">
     <title>HP</title>
