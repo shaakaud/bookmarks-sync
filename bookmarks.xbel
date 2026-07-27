@@ -554,18 +554,6 @@
       <title>Continuous access evaluation in Microsoft Entra - Microsoft Entra ID | Microsoft Learn</title>
     </bookmark>
   </folder>
-  <folder id="1467">
-    <title>MCP Server</title>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1480">
-      <title>Agency MCP Servers | Agency</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/initiatives/ai-guidance-for-microsoft-developers/mcp" id="1481">
-      <title>Using MCP Servers at Microsoft | 1mcp</title>
-    </bookmark>
-    <bookmark href="https://vigilant-adventure-v9qpqwn.pages.github.io/all/" id="1482">
-      <title>Agency Marketplace</title>
-    </bookmark>
-  </folder>
   <folder id="22">
     <title>Git</title>
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-GSA" id="45">
