@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1545: for Floccus bookmark sync browser extension -->
+<!--- highestId :1547: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.microsoft.com/en-us" id="1496">
   <title>Microsoft</title>
@@ -2063,6 +2063,12 @@
       <title>Sign-Up Now - Volo Law Group</title>
     </bookmark>
   </folder>
+</folder>
+<folder id="1546">
+  <title>UCSD</title>
+  <bookmark href="https://students.ucsd.edu/finances/billing-payment/index.html" id="1547">
+    <title>Billing &amp; Payment</title>
+  </bookmark>
 </folder>
 <folder id="66">
   <title>Kids</title>
