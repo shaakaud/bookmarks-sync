@@ -536,15 +536,6 @@
       <title>Expense@Microsoft</title>
     </bookmark>
   </folder>
-  <folder id="1466">
-    <title>IaaC</title>
-    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
-      <title>Bicep Specialist | Awesome GitHub Copilot</title>
-    </bookmark>
-    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1479">
-      <title>Azure Iac Generator | Awesome GitHub Copilot</title>
-    </bookmark>
-  </folder>
   <folder id="21">
     <title>Firewall</title>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
@@ -561,6 +552,15 @@
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-continuous-access-evaluation" id="1534">
       <title>Continuous access evaluation in Microsoft Entra - Microsoft Entra ID | Microsoft Learn</title>
+    </bookmark>
+  </folder>
+  <folder id="1466">
+    <title>IaaC</title>
+    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
+      <title>Bicep Specialist | Awesome GitHub Copilot</title>
+    </bookmark>
+    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1479">
+      <title>Azure Iac Generator | Awesome GitHub Copilot</title>
     </bookmark>
   </folder>
   <folder id="1467">
