@@ -554,15 +554,6 @@
       <title>Continuous access evaluation in Microsoft Entra - Microsoft Entra ID | Microsoft Learn</title>
     </bookmark>
   </folder>
-  <folder id="1466">
-    <title>IaaC</title>
-    <bookmark href="https://awesome-copilot.github.com/agent/bicep-implement/" id="1478">
-      <title>Bicep Specialist | Awesome GitHub Copilot</title>
-    </bookmark>
-    <bookmark href="https://awesome-copilot.github.com/agent/azure-iac-generator/" id="1479">
-      <title>Azure Iac Generator | Awesome GitHub Copilot</title>
-    </bookmark>
-  </folder>
   <folder id="1467">
     <title>MCP Server</title>
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1480">
