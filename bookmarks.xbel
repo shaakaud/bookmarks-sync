@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1561: for Floccus bookmark sync browser extension -->
+<!--- highestId :1562: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -51,6 +51,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMjcyNjU1fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=cEcrMzB2QmdhcUJSQUVoOGxFNGtBZFJFRkV4dUFUVno4bFF3V3NiaVNSWT0%3D&amp;CT=1785256758762&amp;OR=OWA-NT-Mail&amp;CID=34694d50-8c79-d779-eb8e-f7169e739a8e&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="1561">
       <title>Glossary - Microsoft Corporate Glossary</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:w:/r/sites/mspolicy/_layouts/15/Doc.aspx?sourcedoc=%7B28581780-E169-496E-A743-9ADDDEDFCC1B%7D&amp;file=Employee-Expense-Reimbursement-Policy.docx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1&amp;CID=c3d24085-74c0-9810-9930-00a9b3eaa9bd&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;share=cQqAF1goaeFuSadDmt3e38wbEgUC1wl6RwNlzTROCk3Gwrs_8A" id="1562">
+      <title>Employee-Expense-Reimbursement-Policy.docx</title>
     </bookmark>
   </folder>
   <folder id="1527">
