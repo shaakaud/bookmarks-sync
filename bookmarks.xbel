@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1554: for Floccus bookmark sync browser extension -->
+<!--- highestId :1555: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -33,6 +33,9 @@
     </bookmark>
     <bookmark href="http://aka.ms/techweb" id="1554">
       <title>TechWeb - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/FindYourCommunity?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMjE2Mjc5fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=QXplYUtBY1FDQjVPY2R5S0FYd05PbGRSeTZZMVpTTkcrRjFISnhxdHBNYz0%3D&amp;CT=1785256430044&amp;OR=OWA-NT-Mail&amp;CID=5874e2f9-716e-4ef5-0006-a73239fb4a3c&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="1555">
+      <title>Find your community - Home</title>
     </bookmark>
   </folder>
   <folder id="1527">
