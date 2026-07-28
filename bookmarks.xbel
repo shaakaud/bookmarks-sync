@@ -26,6 +26,9 @@
 </bookmark>
 <folder id="16">
   <title>MSFT</title>
+  <folder id="1549">
+    <title>*GoTo*</title>
+  </folder>
   <folder id="1527">
     <title>AppGW</title>
     <bookmark href="https://github.com/rnautiyal/JWT-Validation/blob/main/README.md" id="1528">
@@ -785,9 +788,6 @@
   <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1328">
     <title>Viva Learning</title>
   </bookmark>
-  <folder id="1549">
-    <title>*GoTo*</title>
-  </folder>
 </folder>
 <folder id="65">
   <title>Firefox</title>
