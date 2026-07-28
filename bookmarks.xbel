@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1553: for Floccus bookmark sync browser extension -->
+<!--- highestId :1554: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -31,7 +31,7 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/refwebhub?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMjI4NjAyfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=ODR4VG9nYSt0QlV5cDlyRVlPMUJaNGdybjJjaHg3aXNPWGpkM2NTeDJhTT0%3D&amp;CT=1785255995144&amp;OR=OWA-NT-Mail&amp;CID=2ede74c5-a384-f9ac-d3a1-2786f08676db&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="1550">
       <title>REFWeb - Home</title>
     </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/sites/TechWeb?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMTg1NzY4fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=L0F2b2o0eUNYOW9OYnpUWkJGYUxYdmRjckhySmRwTGsrb0NCRGd4eTJzVT0%3d" id="1553">
+    <bookmark href="http://aka.ms/techweb" id="1554">
       <title>TechWeb - Home</title>
     </bookmark>
   </folder>
