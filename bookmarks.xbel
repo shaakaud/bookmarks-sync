@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1564: for Floccus bookmark sync browser extension -->
+<!--- highestId :1565: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -54,6 +54,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/:w:/r/sites/mspolicy/_layouts/15/Doc.aspx?sourcedoc=%7B28581780-E169-496E-A743-9ADDDEDFCC1B%7D&amp;file=Employee-Expense-Reimbursement-Policy.docx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1&amp;CID=c3d24085-74c0-9810-9930-00a9b3eaa9bd&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;share=cQqAF1goaeFuSadDmt3e38wbEgUC1wl6RwNlzTROCk3Gwrs_8A" id="1562">
       <title>Employee-Expense-Reimbursement-Policy.docx</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/benefits" id="1565">
+      <title>Microsoft Benefits - Home</title>
     </bookmark>
   </folder>
   <folder id="1527">
