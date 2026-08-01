@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1566: for Floccus bookmark sync browser extension -->
+<!--- highestId :1567: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -174,6 +174,9 @@
     </bookmark>
     <folder id="31">
       <title>Perks+</title>
+      <bookmark href="https://microsoft.sharepoint.com/sites/benefits/SitePages/Primediscountprogram.aspx" id="1567">
+        <title>PRIME Discount Program</title>
+      </bookmark>
       <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/perksplusgeneral.aspx" id="63">
         <title>Perks+</title>
       </bookmark>
