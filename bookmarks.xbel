@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1572: for Floccus bookmark sync browser extension -->
+<!--- highestId :1573: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -328,15 +328,6 @@
   </folder>
   <folder id="1391">
     <title>DRI</title>
-    <folder id="1571">
-      <title>IcM</title>
-      <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1393">
-        <title>IcM</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/teams/IcM27/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook%2FOnCall%20DRI%20Handbook%2Dv3%2Epdf&amp;parent=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook&amp;p=true&amp;ga=1&amp;share=cQpEsG9t2EyOTLg8PKT%5FN823EgUCI4AVeGV3EgaX%5Fwsd7TNKCA" id="1572">
-        <title>OnCall DRI Handbook-v3</title>
-      </bookmark>
-    </folder>
     <folder id="1535">
       <title>TSG</title>
       <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-how-to-manually-ssh-to-a-slice-firewall" id="1540">
@@ -352,7 +343,7 @@
     <bookmark href="https://safeflyv2.portal.azure.com/#view/Microsoft_SafeflyV2/MainMenu.MenuView/~/home" id="1536">
       <title>SafeFly - SafeFly (r2d)</title>
     </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/IcM27/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook%2FOnCall%20DRI%20Handbook%2Dv3%2Epdf&amp;parent=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook&amp;p=true&amp;ga=1&amp;share=cQpEsG9t2EyOTLg8PKT%5FN823EgUCI4AVeGV3EgaX%5Fwsd7TNKCA" id="1570">
+    <bookmark href="https://microsoft.sharepoint.com/teams/IcM27/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook%2FOnCall%20DRI%20Handbook%2Dv3%2Epdf&amp;parent=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook&amp;p=true&amp;ga=1&amp;share=cQpEsG9t2EyOTLg8PKT%5FN823EgUCI4AVeGV3EgaX%5Fwsd7TNKCA" id="1573">
       <title>OnCall DRI Handbook-v3</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1392">
@@ -385,6 +376,18 @@
     <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1518">
       <title>Hybrid Buddy (GSA Buddy)</title>
     </bookmark>
+    <folder id="1571">
+      <title>IcM</title>
+      <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1393">
+        <title>IcM</title>
+      </bookmark>
+      <bookmark href="https://microsoft.sharepoint.com/teams/IcM27/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook%2FOnCall%20DRI%20Handbook%2Dv3%2Epdf&amp;parent=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook&amp;p=true&amp;ga=1&amp;share=cQpEsG9t2EyOTLg8PKT%5FN823EgUCI4AVeGV3EgaX%5Fwsd7TNKCA" id="1572">
+        <title>OnCall DRI Handbook-v3</title>
+      </bookmark>
+      <bookmark href="https://microsoft.sharepoint.com/teams/IcM27/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook%2FOnCall%20DRI%20Handbook%2Dv3%2Epdf&amp;parent=%2Fteams%2FIcM27%2FShared%20Documents%2FGeneral%2FIcM%20Handbooks%2FOn%2DCall%20DRI%20Handbook&amp;p=true&amp;ga=1&amp;share=cQpEsG9t2EyOTLg8PKT%5FN823EgUCI4AVeGV3EgaX%5Fwsd7TNKCA" id="1570">
+        <title>OnCall DRI Handbook-v3</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="19">
     <title>Devbox</title>
