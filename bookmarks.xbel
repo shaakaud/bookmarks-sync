@@ -340,6 +340,9 @@
         <title>On-Call Pre-Flight Checklist - Overview</title>
       </bookmark>
     </folder>
+    <folder id="1580">
+      <title>Kusto</title>
+    </folder>
     <folder id="1535">
       <title>TSG</title>
       <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-how-to-manually-ssh-to-a-slice-firewall" id="1540">
@@ -352,9 +355,6 @@
     <bookmark href="https://safeflyv2.portal.azure.com/#home" id="1519">
       <title>Home - SafeFly</title>
     </bookmark>
-    <folder id="1580">
-      <title>Kusto</title>
-    </folder>
     <bookmark href="https://safeflyv2.portal.azure.com/#view/Microsoft_SafeflyV2/MainMenu.MenuView/~/home" id="1536">
       <title>SafeFly - SafeFly (r2d)</title>
     </bookmark>
