@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1581: for Floccus bookmark sync browser extension -->
+<!--- highestId :1583: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -344,6 +344,12 @@
       <title>Kusto</title>
       <bookmark href="https://dataexplorer.azure.com/clusters/hybridnetworking/databases/aznwmds" id="1581">
         <title>hybridnetworking.aznwmds | Azure Data Explorer</title>
+      </bookmark>
+      <bookmark href="https://dataexplorer.azure.com/clusters/hybridnetworking/databases/aznwmds" id="1582">
+        <title>hybridnetworking.aznwmds | Azure Data Explorer</title>
+      </bookmark>
+      <bookmark href="https://dataexplorer.azure.com/clusters/nrp/databases/mdsnrp" id="1583">
+        <title>nrp.mdsnrp | Azure Data Explorer</title>
       </bookmark>
     </folder>
     <folder id="1535">
