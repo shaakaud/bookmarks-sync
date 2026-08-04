@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1585: for Floccus bookmark sync browser extension -->
+<!--- highestId :1586: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -433,6 +433,9 @@
     <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1413">
       <title>OKRs at Microsoft - Home</title>
     </bookmark>
+  </folder>
+  <folder id="1586">
+    <title>Entra</title>
   </folder>
   <folder id="1505">
     <title>Expense</title>
