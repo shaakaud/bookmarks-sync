@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1589: for Floccus bookmark sync browser extension -->
+<!--- highestId :1590: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -444,6 +444,9 @@
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/entra/msal/dotnet/acquiring-tokens/web-apps-apis/authorization-codes" id="1588">
       <title>Using MSAL.NET to get tokens by authorization code (for web sites) - Microsoft Authentication Library for .NET | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/entra/msal/dotnet/how-to/token-cache-serialization?tabs=aspnetcore" id="1590">
+      <title>Token cache serialization - Microsoft Authentication Library for .NET | Microsoft Learn</title>
     </bookmark>
   </folder>
   <folder id="1505">
