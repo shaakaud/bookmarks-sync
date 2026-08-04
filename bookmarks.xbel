@@ -788,10 +788,10 @@
       <title>HybridNW-NRP</title>
     </bookmark>
     <bookmark href="https://dataexplorer.azure.com/clusters/hybridnetworking/databases/aznwmds" id="1582">
-      <title>hybridnetworking.aznwmds | Azure Data Explorer</title>
+      <title>HybridNW</title>
     </bookmark>
     <bookmark href="https://dataexplorer.azure.com/clusters/nrp/databases/mdsnrp" id="1583">
-      <title>nrp.mdsnrp | Azure Data Explorer</title>
+      <title>NRP</title>
     </bookmark>
   </folder>
   <folder id="1535">
