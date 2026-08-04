@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1584: for Floccus bookmark sync browser extension -->
+<!--- highestId :1585: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -716,6 +716,12 @@
 </folder>
 <folder id="1391">
   <title>DRI</title>
+  <folder id="1585">
+    <title>Docs</title>
+    <bookmark href="https://eng.ms/docs/products/icm/onboarding/introduction" id="1398">
+      <title>Introduction | IcM website</title>
+    </bookmark>
+  </folder>
   <folder id="1571">
     <title>IcM</title>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries" id="1393">
@@ -766,9 +772,6 @@
   </bookmark>
   <bookmark href="https://portal.watson.azure.com/" id="1399">
     <title>Azure Watson</title>
-  </bookmark>
-  <bookmark href="https://eng.ms/docs/products/icm/onboarding/introduction" id="1398">
-    <title>Introduction | IcM website</title>
   </bookmark>
   <bookmark href="https://eng.ms/docs/products/icm/workflows/assistant/icmassistanthome" id="1394">
     <title>IcM Assistant (formerly &quot;Obi&quot;) (Public Preview) | IcM website</title>
