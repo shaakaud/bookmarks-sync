@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1590: for Floccus bookmark sync browser extension -->
+<!--- highestId :1591: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -288,7 +288,7 @@
     </bookmark>
   </folder>
   <folder id="18">
-    <title>Copilot</title>
+    <title>Copilot/AI</title>
     <bookmark href="https://github.com/ms-copilot" id="37">
       <title>GitHub Copilot Access</title>
     </bookmark>
@@ -309,6 +309,9 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1436">
       <title>Agency MCP Servers | Agency</title>
+    </bookmark>
+    <bookmark href="https://msit.powerbi.com/groups/me/apps/8be2db21-d297-485b-a01b-6a03fbf6fbd1/reports/16495df5-0130-4e2f-bc52-e0f1eeab453f/2918f1b443237a560380?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1591">
+      <title>Introduction - Power BI</title>
     </bookmark>
   </folder>
   <folder id="19">
