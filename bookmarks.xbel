@@ -287,33 +287,6 @@
       <title>Orchestration modes for Virtual Machine Scale Sets in Azure - Azure Virtual Machine Scale Sets | Microsoft Learn</title>
     </bookmark>
   </folder>
-  <folder id="18">
-    <title>Copilot/AI</title>
-    <bookmark href="http://aka.ms/aiusagemetrics" id="1592">
-      <title>AI Usage</title>
-    </bookmark>
-    <bookmark href="https://github.com/ms-copilot" id="37">
-      <title>GitHub Copilot Access</title>
-    </bookmark>
-    <bookmark href="https://copilot.github.microsoft.com/" id="1338">
-      <title>GitHub Copilot at Microsoft</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/#install" id="1352">
-      <title>Install | Agency</title>
-    </bookmark>
-    <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1433">
-      <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
-    </bookmark>
-    <bookmark href="https://build.microsoft.com/en-US/sessions/BRK200?source=/home" id="1434">
-      <title>Why your AI code doesn’t ship: Closing the gap to production</title>
-    </bookmark>
-    <bookmark href="https://github.com/features/ai/github-app" id="1435">
-      <title>GitHub Copilot app</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1436">
-      <title>Agency MCP Servers | Agency</title>
-    </bookmark>
-  </folder>
   <folder id="19">
     <title>Devbox</title>
     <bookmark href="https://devbox.microsoft.com/" id="38">
@@ -692,6 +665,33 @@
   <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1328">
     <title>Viva Learning</title>
   </bookmark>
+  <folder id="18">
+    <title>Copilot/AI</title>
+    <bookmark href="http://aka.ms/aiusagemetrics" id="1592">
+      <title>AI Usage</title>
+    </bookmark>
+    <bookmark href="https://github.com/ms-copilot" id="37">
+      <title>GitHub Copilot Access</title>
+    </bookmark>
+    <bookmark href="https://copilot.github.microsoft.com/" id="1338">
+      <title>GitHub Copilot at Microsoft</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/#install" id="1352">
+      <title>Install | Agency</title>
+    </bookmark>
+    <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1433">
+      <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
+    </bookmark>
+    <bookmark href="https://build.microsoft.com/en-US/sessions/BRK200?source=/home" id="1434">
+      <title>Why your AI code doesn’t ship: Closing the gap to production</title>
+    </bookmark>
+    <bookmark href="https://github.com/features/ai/github-app" id="1435">
+      <title>GitHub Copilot app</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1436">
+      <title>Agency MCP Servers | Agency</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="1391">
   <title>DRI</title>
