@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1593: for Floccus bookmark sync browser extension -->
+<!--- highestId :1594: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -490,6 +490,9 @@
   </folder>
   <folder id="24">
     <title>Immigration</title>
+    <bookmark href="https://mimsfn.microsoftcrmportals.com/" id="1594">
+      <title>Login. US Immigration Portal</title>
+    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/CELAWeb-Immigration-And-InternationalTravel/SitePages/U.S.-Immigration-News-&amp;-Updates.aspx" id="50">
       <title>U.S. Immigration News &amp; Updates</title>
     </bookmark>
