@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1599: for Floccus bookmark sync browser extension -->
+<!--- highestId :1600: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -775,6 +775,9 @@
   </bookmark>
   <bookmark href="https://jitaccess.security.core.windows.net/" id="1538">
     <title>jitaccess</title>
+  </bookmark>
+  <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg" id="1600">
+    <title>Azure Firewall Troubleshooting Guide | Azure Firewall Troubleshooting Guide</title>
   </bookmark>
   <bookmark href="https://microsoftservicetree.com/subscriptions/1d466822-2f06-46bc-9049-77506ad18492" id="1584">
     <title>Service Tree | Subscriptions | MyWorkspace Dev/Test</title>
