@@ -430,6 +430,9 @@
         <title>Architecture Best Practices for Azure Firewall - Microsoft Azure Well-Architected Framework | Microsoft Learn</title>
       </bookmark>
     </folder>
+    <folder id="1604">
+      <title>ExplicitProxy</title>
+    </folder>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
     </bookmark>
@@ -460,9 +463,6 @@
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=72785&amp;_a=summary" id="1599">
       <title>GSA-build</title>
     </bookmark>
-    <folder id="1604">
-      <title>ExplicitProxy</title>
-    </folder>
   </folder>
   <folder id="22">
     <title>Git</title>
