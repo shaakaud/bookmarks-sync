@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1603: for Floccus bookmark sync browser extension -->
+<!--- highestId :1604: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -460,6 +460,9 @@
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=72785&amp;_a=summary" id="1599">
       <title>GSA-build</title>
     </bookmark>
+    <folder id="1604">
+      <title>ExplicitProxy</title>
+    </folder>
   </folder>
   <folder id="22">
     <title>Git</title>
