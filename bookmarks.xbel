@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1605: for Floccus bookmark sync browser extension -->
+<!--- highestId :1607: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -435,6 +435,9 @@
       <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/1084005/How-to-Setup-Explicit-Proxy-with-Azure-Firewall" id="1605">
         <title>How to Setup Explicit Proxy with Azure Firewall - Overview</title>
       </bookmark>
+      <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_workitems/edit/214793" id="1606">
+        <title>Known Bug or Issue 214793 Azure Firewall - Explicit proxy Migration to V2 - Failed states</title>
+      </bookmark>
     </folder>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
@@ -783,6 +786,9 @@
     <title>TSG</title>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-how-to-manually-ssh-to-a-slice-firewall" id="1540">
       <title>TSG - How to manually SSH to a slice firewall | Azure Firewall Troubleshooting Guide</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:w:/t/Aznet/cQp3jDjE6atXT6aD4rC4sJj1EgUCLx4RI_d3JtKi6RPFt9J7Bw?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cminale%40microsoft.com" id="1607">
+      <title>TSG- Azure Firewall Explicit Proxy.docx</title>
     </bookmark>
   </folder>
   <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1518">
