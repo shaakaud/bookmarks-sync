@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1598: for Floccus bookmark sync browser extension -->
+<!--- highestId :1599: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -447,6 +447,9 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/control_plane/nfv/gwm/slice/deployment" id="1598">
       <title>GWM slice deployment | Azure Firewall Team Documentation</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=72785&amp;_a=summary" id="1599">
+      <title>Pipelines - Runs for GSA-build</title>
     </bookmark>
   </folder>
   <folder id="22">
