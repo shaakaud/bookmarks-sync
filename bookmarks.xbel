@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1609: for Floccus bookmark sync browser extension -->
+<!--- highestId :1610: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -1015,6 +1015,9 @@
   </folder>
   <folder id="302">
     <title>Fitness</title>
+    <bookmark href="https://www.outdoors.org/resources/amc-outdoors/outdoor-resources/know-this-hiking-boot-lacing-technique-the-heel-lock/" id="1610">
+      <title>Know This Hiking Boot Lacing Technique: The Heel Lock | Appalachian Mountain Club (AMC)</title>
+    </bookmark>
     <bookmark href="https://darebee.com/programs.html" id="334">
       <title>Fitness Programs</title>
     </bookmark>
