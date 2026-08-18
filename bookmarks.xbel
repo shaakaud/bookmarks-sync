@@ -772,9 +772,6 @@
     <bookmark href="https://msazure.visualstudio.com/AzureWiki/_wiki/wikis/AzureWiki.wiki/1075325/On-Call-Pre-Flight-Checklist" id="1574">
       <title>On-Call Pre-Flight Checklist - Overview</title>
     </bookmark>
-    <bookmark href="https://portal.microsoftgeneva.com/health/brain/product/services?duration=PT24H&amp;region=westus" id="1579">
-      <title>Jarvis - Service - BRAIN Cloud Health</title>
-    </bookmark>
   </folder>
   <folder id="1580">
     <title>Kusto</title>
@@ -797,6 +794,9 @@
       <title>TSG- Azure Firewall Explicit Proxy.docx</title>
     </bookmark>
   </folder>
+  <bookmark href="https://portal.microsoftgeneva.com/health/brain/product/services?duration=PT24H&amp;region=westus" id="1579">
+    <title>Jarvis - Service - BRAIN Cloud Health</title>
+  </bookmark>
   <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1518">
     <title>Hybrid Buddy (GSA Buddy)</title>
   </bookmark>
