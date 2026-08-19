@@ -472,12 +472,15 @@
         <title>Platform - Validation Testing on Slice - Overview</title>
       </bookmark>
     </folder>
+    <folder id="1612">
+      <title>Tech</title>
+      <bookmark href="https://www.booleanworld.com/depth-guide-iptables-linux-firewall/" id="1611">
+        <title>An In-Depth Guide to iptables, the Linux Firewall – Boolean World</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
     </bookmark>
-    <folder id="1612">
-      <title>Tech</title>
-    </folder>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1453">
       <title>Incident Queries - IcM</title>
     </bookmark>
@@ -501,9 +504,6 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/control_plane/nfv/gwm/slice/deployment" id="1598">
       <title>GWM slice deployment | Azure Firewall Team Documentation</title>
-    </bookmark>
-    <bookmark href="https://www.booleanworld.com/depth-guide-iptables-linux-firewall/" id="1611">
-      <title>An In-Depth Guide to iptables, the Linux Firewall – Boolean World</title>
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=72785&amp;_a=summary" id="1599">
       <title>GSA-build</title>
