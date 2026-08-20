@@ -456,9 +456,6 @@
       <bookmark href="https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-firewall" id="1603">
         <title>Architecture Best Practices for Azure Firewall - Microsoft Azure Well-Architected Framework | Microsoft Learn</title>
       </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/_layouts/15/Doc.aspx?sourcedoc={9d1c5487-3e95-482e-b386-2ab6fa35399e}&amp;action=edit&amp;wd=target%28Troubleshooting.one%7Cfdc47d6b-09c9-48c8-ab69-507888159955%2FGeneral%20troubleshooting%20of%20services%20on%20Linux%20host%7Caa6b27f6-418b-43bc-baa0-18a9077e47ab%2F%29&amp;wdorigin=NavigationUrl" id="1615">
-        <title>GSA Engineering Handbook</title>
-      </bookmark>
     </folder>
     <folder id="1604">
       <title>ExplicitProxy</title>
@@ -483,6 +480,9 @@
     </folder>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/_layouts/15/Doc.aspx?sourcedoc={9d1c5487-3e95-482e-b386-2ab6fa35399e}&amp;action=edit&amp;wd=target%28Troubleshooting.one%7Cfdc47d6b-09c9-48c8-ab69-507888159955%2FGeneral%20troubleshooting%20of%20services%20on%20Linux%20host%7Caa6b27f6-418b-43bc-baa0-18a9077e47ab%2F%29&amp;wdorigin=NavigationUrl" id="1615">
+      <title>GSA Engineering Handbook</title>
     </bookmark>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1453">
       <title>Incident Queries - IcM</title>
