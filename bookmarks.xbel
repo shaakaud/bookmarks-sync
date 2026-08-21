@@ -541,9 +541,6 @@
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=438599&amp;_a=summary" id="1533">
       <title>Pipelines - Runs for Azure Firewall Copy App Version To Slice And P1</title>
     </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=350795&amp;_a=summary" id="1621">
-      <title>Pipelines - Runs for Networking-GSA-Official-Yaml</title>
-    </bookmark>
   </folder>
   <folder id="23">
     <title>HP</title>
