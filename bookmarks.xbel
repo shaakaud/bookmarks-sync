@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1623: for Floccus bookmark sync browser extension -->
+<!--- highestId :1624: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -561,6 +561,9 @@
     </bookmark>
     <bookmark href="https://totalrewards.azurefd.net/stock" id="1422">
       <title>Total Rewards Portal - Stock</title>
+    </bookmark>
+    <bookmark href="https://careerhub.microsoft.com/careerhub/profile/9vWMBrJkoQZ/experience?displayPersona=own" id="1624">
+      <title>My Profile | Microsoft Career Hub</title>
     </bookmark>
   </folder>
   <folder id="24">
