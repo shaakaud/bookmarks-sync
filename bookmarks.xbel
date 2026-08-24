@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1625: for Floccus bookmark sync browser extension -->
+<!--- highestId :1626: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -222,6 +222,9 @@
     <title>Copilot/AI</title>
     <bookmark href="http://aka.ms/aiusagemetrics" id="1592">
       <title>AI Usage</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/aiml-cc/SitePages/Machine-Learning-Community-Events.aspx" id="1626">
+      <title>Community Events</title>
     </bookmark>
     <bookmark href="https://github.com/ms-copilot" id="37">
       <title>GitHub Copilot Access</title>
