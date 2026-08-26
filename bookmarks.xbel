@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1627: for Floccus bookmark sync browser extension -->
+<!--- highestId :1629: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -543,6 +543,12 @@
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=438599&amp;_a=summary" id="1533">
       <title>Pipelines - Runs for Azure Firewall Copy App Version To Slice And P1</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=434323&amp;_a=summary" id="1628">
+      <title>Pipelines - Runs for Geneva Actions Release ManagedSDP</title>
+    </bookmark>
+    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=435646" id="1629">
+      <title>Pipelines - Runs for VSRM Action Managed SDP- Per Service Custom Health Checks</title>
     </bookmark>
   </folder>
   <folder id="23">
