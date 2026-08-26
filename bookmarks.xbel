@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1626: for Floccus bookmark sync browser extension -->
+<!--- highestId :1627: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -835,6 +835,9 @@
   </bookmark>
   <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/Overview" id="1618">
     <title>EagleAI</title>
+  </bookmark>
+  <bookmark href="https://asi.azure.ms/services/Ocular/pages/Activity%20Timeline?SubscriptionId=1a3cd175-3b6d-4def-8ab2-e7a9755d7405&amp;ResourceGroup=p-e-aks-swc-api-c368&amp;ResourceName=&amp;globalFrom=2026-08-25T06%3A31%3A27.953Z&amp;globalTo=2026-08-26T06%3A31%3A25.146Z&amp;__userData=%7B%22querySelectionData%22%3A%7B%22db168a99-fff4-4749-a33c-a2a2da6a1d54%22%3A%7B%22indexes%22%3A%5B21%5D%2C%22values%22%3A%5B%2228577202-906a-4f7d-a5fb-e288f6c9545f%22%5D%7D%7D%7D" id="1627">
+    <title>ASI: Ocular - Activity Timeline</title>
   </bookmark>
   <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg" id="1600">
     <title>Azure Firewall Troubleshooting Guide | Azure Firewall Troubleshooting Guide</title>
