@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1631: for Floccus bookmark sync browser extension -->
+<!--- highestId :1632: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -801,6 +801,9 @@
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/AzureWiki/_wiki/wikis/AzureWiki.wiki/1075325/On-Call-Pre-Flight-Checklist" id="1574">
       <title>On-Call Pre-Flight Checklist - Overview</title>
+    </bookmark>
+    <bookmark href="https://portal.microsofticm.com/imp/v3/oncall/current?serviceId=10045&amp;teamIds=35635&amp;scheduleType=timeline&amp;shiftType=current&amp;viewType=0&amp;gridViewStartDate=2026-05-26T07:00:00.000Z&amp;gridViewEndDate=2026-06-02T06:59:59.999Z&amp;gridViewSelectedDateRangeType=9" id="1632">
+      <title>OnCall - IcM</title>
     </bookmark>
   </folder>
   <folder id="1580">
