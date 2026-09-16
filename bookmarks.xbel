@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1649: for Floccus bookmark sync browser extension -->
+<!--- highestId :1650: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -576,6 +576,9 @@
     </bookmark>
     <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=219362&amp;_a=summary" id="1647">
       <title>Pipelines - Runs for Networking-Hybrid-ImageBuilder-Image-Official</title>
+    </bookmark>
+    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=381376" id="1650">
+      <title>Pipelines - Runs for Hybrid Image Release - New</title>
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_release?_a=releases&amp;view=mine&amp;definitionId=56077" id="1644">
       <title>Releases - GSA-App-Release-To-Slices - GWM Upload</title>
