@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1655: for Floccus bookmark sync browser extension -->
+<!--- highestId :1656: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -467,6 +467,9 @@
       </bookmark>
       <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/firewall_quick_reference" id="1655">
         <title>Azure Firewall Quick Reference – BLEU Sovereign Cloud | AzNet Sovereign DNS &amp; Hybrid Services</title>
+      </bookmark>
+      <bookmark href="https://microsoft.sharepoint.com/:p:/t/SilverstoneProject/cQoXP5Z18IBrQ77nBMFJpe23EgUCFdJUuqFy_abx0_voDrIG8g?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA4MTMxOTMxOSJ9" id="1656">
+        <title>Firewall_Bleu_Handover.pptx</title>
       </bookmark>
     </folder>
     <folder id="1601">
