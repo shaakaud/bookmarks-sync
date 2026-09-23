@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1662: for Floccus bookmark sync browser extension -->
+<!--- highestId :1663: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -258,6 +258,9 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1436">
       <title>Agency MCP Servers | Agency</title>
+    </bookmark>
+    <bookmark href="https://copilotstudio.preview.microsoft.com/environments/01547bbf-0759-e210-8498-d5b7fdaa0507/home" id="1663">
+      <title>Home</title>
     </bookmark>
   </folder>
   <folder id="1348">
