@@ -235,6 +235,12 @@
         <title>Spot the Spike - Azure Core</title>
       </bookmark>
     </folder>
+    <folder id="1664">
+      <title>TryOut</title>
+      <bookmark href="https://copilotstudio.preview.microsoft.com/environments/01547bbf-0759-e210-8498-d5b7fdaa0507/home" id="1663">
+        <title>CopilotStudio</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://microsoft.sharepoint.com/teams/aiml-cc/SitePages/Machine-Learning-Community-Events.aspx" id="1626">
       <title>http://aka.ms/aimlevents</title>
     </bookmark>
@@ -259,12 +265,6 @@
     <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1436">
       <title>Agency MCP Servers | Agency</title>
     </bookmark>
-    <bookmark href="https://copilotstudio.preview.microsoft.com/environments/01547bbf-0759-e210-8498-d5b7fdaa0507/home" id="1663">
-      <title>CopilotStudio</title>
-    </bookmark>
-    <folder id="1664">
-      <title>TryOut</title>
-    </folder>
   </folder>
   <folder id="1348">
     <title>BootCamp</title>
