@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1659: for Floccus bookmark sync browser extension -->
+<!--- highestId :1660: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -252,6 +252,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike&amp;p=true&amp;share=cgosZTUQikGLTZOyt1KP1qXkEgUCM2-i-9b9gAfm5A3yXJbG3g&amp;CID=0c103a95-633d-4fbd-a410-e54650b9f1d4" id="1659">
       <title>Spot the Spike - Azure Core</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzure%2DCore%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike%2Fspot%5Fthe%5Fspike%5Fs01%5Fe08%2Epdf&amp;parent=%2Fteams%2FAzure%2DCore%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike&amp;p=true&amp;share=cQoqIkWLFTGXQp7VZMQgVrGyEgUCC53u%2Dvu3a3oEN6QWYAJAzw&amp;CID=8e5e7737%2D1c50%2D4b77%2Dbc17%2De5fcd26831cc" id="1660">
+      <title>spot_the_spike_s01_e08.pdf</title>
     </bookmark>
   </folder>
   <folder id="1348">
