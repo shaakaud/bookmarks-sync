@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1660: for Floccus bookmark sync browser extension -->
+<!--- highestId :1661: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -226,6 +226,9 @@
     <bookmark href="https://msit.powerbi.com/groups/me/apps/8be2db21-d297-485b-a01b-6a03fbf6fbd1/reports/6ddd79d1-b24c-42dc-bf9a-b4877eba032d/personalv2phase1page?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1651">
       <title>MyAISpend</title>
     </bookmark>
+    <folder id="1661">
+      <title>TokenEfficiency</title>
+    </folder>
     <bookmark href="https://microsoft.sharepoint.com/teams/aiml-cc/SitePages/Machine-Learning-Community-Events.aspx" id="1626">
       <title>http://aka.ms/aimlevents</title>
     </bookmark>
