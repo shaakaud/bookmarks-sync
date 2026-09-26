@@ -241,18 +241,18 @@
         <title>Spot the Spike - Azure Core</title>
       </bookmark>
     </folder>
-    <bookmark href="http://aka.ms/aiusagemetrics" id="1592">
-      <title>AI Usage</title>
-    </bookmark>
-    <bookmark href="https://msit.powerbi.com/groups/me/apps/8be2db21-d297-485b-a01b-6a03fbf6fbd1/reports/6ddd79d1-b24c-42dc-bf9a-b4877eba032d/personalv2phase1page?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1651">
-      <title>MyAISpend</title>
-    </bookmark>
     <folder id="1664">
       <title>TryOut</title>
       <bookmark href="https://copilotstudio.preview.microsoft.com/environments/01547bbf-0759-e210-8498-d5b7fdaa0507/home" id="1663">
         <title>CopilotStudio</title>
       </bookmark>
     </folder>
+    <bookmark href="http://aka.ms/aiusagemetrics" id="1592">
+      <title>AI Usage</title>
+    </bookmark>
+    <bookmark href="https://msit.powerbi.com/groups/me/apps/8be2db21-d297-485b-a01b-6a03fbf6fbd1/reports/6ddd79d1-b24c-42dc-bf9a-b4877eba032d/personalv2phase1page?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1651">
+      <title>MyAISpend</title>
+    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/aiml-cc/SitePages/Machine-Learning-Community-Events.aspx" id="1626">
       <title>http://aka.ms/aimlevents</title>
     </bookmark>
