@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1669: for Floccus bookmark sync browser extension -->
+<!--- highestId :1670: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1551">
   <title>Microsoft</title>
@@ -607,6 +607,9 @@
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AppGW" id="1489">
       <title>Networking-AppGW - Repos</title>
     </bookmark>
+  </folder>
+  <folder id="1670">
+    <title>GitHub</title>
   </folder>
   <folder id="1531">
     <title>GSA-Pipelines</title>
