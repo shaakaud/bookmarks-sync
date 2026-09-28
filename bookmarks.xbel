@@ -929,6 +929,9 @@
       <title>KustoExplorer-Download</title>
     </bookmark>
   </folder>
+  <folder id="1674">
+    <title>OnOps</title>
+  </folder>
   <folder id="1535">
     <title>TSG</title>
     <bookmark href="http://aka.ms/firewalltsg" id="1620">
@@ -950,9 +953,6 @@
   <bookmark href="https://portal.microsoftgeneva.com/health/brain/product/services?duration=PT24H&amp;region=westus" id="1579">
     <title>Jarvis - Service - BRAIN Cloud Health</title>
   </bookmark>
-  <folder id="1674">
-    <title>OnOps</title>
-  </folder>
   <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1518">
     <title>Hybrid Buddy (GSA Buddy)</title>
   </bookmark>
