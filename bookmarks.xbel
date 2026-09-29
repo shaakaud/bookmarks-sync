@@ -1904,42 +1904,6 @@
       <title>GitHub Agentic Workflow Generator</title>
     </bookmark>
   </folder>
-  <folder id="2075">
-    <title>GSA-Pipelines</title>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=350795&amp;_a=summary" id="2076">
-      <title>Pipelines - Runs for Networking-GSA-Official-Yaml</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=438599&amp;_a=summary" id="2077">
-      <title>Pipelines - Runs for Azure Firewall Copy App Version To Slice And P1</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=411660" id="2078">
-      <title>Pipelines - Runs for Networking-nfv Main BVT</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=219362&amp;_a=summary" id="2079">
-      <title>Pipelines - Runs for Networking-Hybrid-ImageBuilder-Image-Official</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=381376" id="2080">
-      <title>Pipelines - Runs for Hybrid Image Release - New</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_release?_a=releases&amp;view=mine&amp;definitionId=56077" id="2081">
-      <title>Releases - GSA-App-Release-To-Slices - GWM Upload</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=434323&amp;_a=summary" id="2082">
-      <title>Pipelines - Runs for Geneva Actions Release ManagedSDP</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=435646" id="2083">
-      <title>Pipelines - Runs for VSRM Action Managed SDP- Per Service Custom Health Checks</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=474676" id="2084">
-      <title>Pipelines - Runs for Deploy NRP Slice</title>
-    </bookmark>
-  </folder>
-  <folder id="2091">
-    <title>Security</title>
-    <bookmark href="https://strikecommunity.microsoft.com/" id="2092">
-      <title>Strike Community</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="2093">
     <title>Azure Calculator</title>
   </bookmark>
