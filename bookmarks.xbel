@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2141: for Floccus bookmark sync browser extension -->
+<!--- highestId :2142: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1302,6 +1302,9 @@
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AZFW" id="1751">
       <title>Networking-AZFW - Repos</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-SREAgent" id="2142">
+      <title>Networking-Hybrid-SREAgent - Repos</title>
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-ImageBuilder" id="1752">
       <title>Networking-Hybrid-ImageBuilder - Repos</title>
