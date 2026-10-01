@@ -997,6 +997,9 @@
         <title>Known Bug or Issue 214793 Azure Firewall - Explicit proxy Migration to V2 - Failed states</title>
       </bookmark>
     </folder>
+    <folder id="2176">
+      <title>PIR</title>
+    </folder>
     <folder id="1734">
       <title>PlatformValidation</title>
       <bookmark href="https://dev.azure.com/msazure/AzureWiki/_wiki/wikis/AzureWiki.wiki/1084373/Platform-Validation-Testing-on-Slice" id="1735">
@@ -1054,9 +1057,6 @@
     <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/Overview" id="1741">
       <title>EagleAI</title>
     </bookmark>
-    <folder id="2176">
-      <title>PIR</title>
-    </folder>
     <bookmark href="https://onedrive.cloud.microsoft/:w:/a@3dr62dw3/S/cQrh7HBB1c1TRLxj-inHn-FvEgUCVoMXiMOQKphHxS_aX_9ijw?e=4%3A6c6d6063edb44567945ad80b2e969cf6&amp;nav=&amp;sharingS3=true&amp;fromShare=true&amp;CID=620f31ce-619b-6544-241a-b37f502022d6" id="1742">
       <title>Azure Firewall Oncall Guide.docx</title>
     </bookmark>
