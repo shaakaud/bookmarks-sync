@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2144: for Floccus bookmark sync browser extension -->
+<!--- highestId :2145: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1726,6 +1726,9 @@
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-cxp/cxp-cre/crisis-management/azure-incident-management/azure-incident-management/cen/azurecen" id="1887">
       <title>Classification Escalation and Notification (CEN) | Azure Incident Management</title>
     </bookmark>
+  </folder>
+  <folder id="2145">
+    <title>EagleAI</title>
   </folder>
   <folder id="1872">
     <title>IcM</title>
