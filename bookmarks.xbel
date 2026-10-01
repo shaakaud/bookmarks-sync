@@ -883,30 +883,6 @@
         <title>Firewall_Bleu_Handover.pptx</title>
       </bookmark>
     </folder>
-    <folder id="1653">
-      <title>Bleu</title>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/01_executive_summary" id="1654">
-        <title>📊 Executive Summary | AzNet Sovereign DNS &amp; Hybrid Services</title>
-      </bookmark>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/firewall_quick_reference" id="1655">
-        <title>Azure Firewall Quick Reference – BLEU Sovereign Cloud | AzNet Sovereign DNS &amp; Hybrid Services</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/:p:/t/SilverstoneProject/cQoXP5Z18IBrQ77nBMFJpe23EgUCFdJUuqFy_abx0_voDrIG8g?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA4MTMxOTMxOSJ9" id="1656">
-        <title>Firewall_Bleu_Handover.pptx</title>
-      </bookmark>
-    </folder>
-    <folder id="1953">
-      <title>Bleu</title>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/01_executive_summary" id="1954">
-        <title>📊 Executive Summary | AzNet Sovereign DNS &amp; Hybrid Services</title>
-      </bookmark>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/firewall_quick_reference" id="1955">
-        <title>Azure Firewall Quick Reference – BLEU Sovereign Cloud | AzNet Sovereign DNS &amp; Hybrid Services</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/:p:/t/SilverstoneProject/cQoXP5Z18IBrQ77nBMFJpe23EgUCFdJUuqFy_abx0_voDrIG8g?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA4MTMxOTMxOSJ9" id="1956">
-        <title>Firewall_Bleu_Handover.pptx</title>
-      </bookmark>
-    </folder>
     <folder id="1724">
       <title>Documentation</title>
       <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="1725">
@@ -928,72 +904,12 @@
         <title>Wiki AzDevOps</title>
       </bookmark>
     </folder>
-    <folder id="1601">
-      <title>Documentation</title>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="1638">
-        <title>Azure Firewall documentation | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/firewall-manager/" id="1648">
-        <title>Azure Firewall Manager documentation | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall" id="1602">
-        <title>Reliability in Azure Firewall | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-firewall" id="1603">
-        <title>Architecture Best Practices for Azure Firewall - Microsoft Azure Well-Architected Framework | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/teams/Application_Insights/ServiceDelivery/_layouts/15/Doc.aspx?sourcedoc={a055ed1c-eded-407e-bd88-f7d3dc541e48}&amp;action=view&amp;wd=target%28IDC%20TSGs.one%7C770bd13f-70b7-48af-b1a9-ef84623696de%2FConnecting%20to%20Bleu%20Escort%7Ccb6b4841-0fdb-4647-a585-2b0515c3c395%2F%29&amp;wdorigin=NavigationUrl" id="1633">
-        <title>BleuEscort-Service Delivery-IDC</title>
-      </bookmark>
-      <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/24387/Welcome" id="1649">
-        <title>Wiki AzDevOps</title>
-      </bookmark>
-    </folder>
-    <folder id="1957">
-      <title>Documentation</title>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="1958">
-        <title>Azure Firewall documentation | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/firewall-manager/" id="1959">
-        <title>Azure Firewall Manager documentation | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall" id="1960">
-        <title>Reliability in Azure Firewall | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-firewall" id="1961">
-        <title>Architecture Best Practices for Azure Firewall - Microsoft Azure Well-Architected Framework | Microsoft Learn</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/teams/Application_Insights/ServiceDelivery/_layouts/15/Doc.aspx?sourcedoc={a055ed1c-eded-407e-bd88-f7d3dc541e48}&amp;action=view&amp;wd=target%28IDC%20TSGs.one%7C770bd13f-70b7-48af-b1a9-ef84623696de%2FConnecting%20to%20Bleu%20Escort%7Ccb6b4841-0fdb-4647-a585-2b0515c3c395%2F%29&amp;wdorigin=NavigationUrl" id="1962">
-        <title>BleuEscort-Service Delivery-IDC</title>
-      </bookmark>
-      <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/24387/Welcome" id="1963">
-        <title>Wiki AzDevOps</title>
-      </bookmark>
-    </folder>
     <folder id="1964">
       <title>ExplicitProxy</title>
       <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/1084005/How-to-Setup-Explicit-Proxy-with-Azure-Firewall" id="1965">
         <title>How to Setup Explicit Proxy with Azure Firewall - Overview</title>
       </bookmark>
       <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_workitems/edit/214793" id="1966">
-        <title>Known Bug or Issue 214793 Azure Firewall - Explicit proxy Migration to V2 - Failed states</title>
-      </bookmark>
-    </folder>
-    <folder id="1604">
-      <title>ExplicitProxy</title>
-      <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/1084005/How-to-Setup-Explicit-Proxy-with-Azure-Firewall" id="1605">
-        <title>How to Setup Explicit Proxy with Azure Firewall - Overview</title>
-      </bookmark>
-      <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_workitems/edit/214793" id="1606">
-        <title>Known Bug or Issue 214793 Azure Firewall - Explicit proxy Migration to V2 - Failed states</title>
-      </bookmark>
-    </folder>
-    <folder id="1731">
-      <title>ExplicitProxy</title>
-      <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/1084005/How-to-Setup-Explicit-Proxy-with-Azure-Firewall" id="1732">
-        <title>How to Setup Explicit Proxy with Azure Firewall - Overview</title>
-      </bookmark>
-      <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_workitems/edit/214793" id="1733">
         <title>Known Bug or Issue 214793 Azure Firewall - Explicit proxy Migration to V2 - Failed states</title>
       </bookmark>
     </folder>
@@ -1015,40 +931,10 @@
         <title>An In-Depth Guide to iptables, the Linux Firewall – Boolean World</title>
       </bookmark>
     </folder>
-    <folder id="1608">
-      <title>PlatformValidation</title>
-      <bookmark href="https://dev.azure.com/msazure/AzureWiki/_wiki/wikis/AzureWiki.wiki/1084373/Platform-Validation-Testing-on-Slice" id="1609">
-        <title>Platform - Validation Testing on Slice - Overview</title>
-      </bookmark>
-    </folder>
-    <folder id="1612">
-      <title>Tech</title>
-      <bookmark href="https://www.booleanworld.com/depth-guide-iptables-linux-firewall/" id="1611">
-        <title>An In-Depth Guide to iptables, the Linux Firewall – Boolean World</title>
-      </bookmark>
-    </folder>
-    <folder id="1967">
-      <title>PlatformValidation</title>
-      <bookmark href="https://dev.azure.com/msazure/AzureWiki/_wiki/wikis/AzureWiki.wiki/1084373/Platform-Validation-Testing-on-Slice" id="1968">
-        <title>Platform - Validation Testing on Slice - Overview</title>
-      </bookmark>
-    </folder>
-    <folder id="1969">
-      <title>Tech</title>
-      <bookmark href="https://www.booleanworld.com/depth-guide-iptables-linux-firewall/" id="1970">
-        <title>An In-Depth Guide to iptables, the Linux Firewall – Boolean World</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/_layouts/15/Doc.aspx?sourcedoc={9d1c5487-3e95-482e-b386-2ab6fa35399e}&amp;action=edit&amp;wd=target%28Troubleshooting.one%7Cfdc47d6b-09c9-48c8-ab69-507888159955%2FGeneral%20troubleshooting%20of%20services%20on%20Linux%20host%7Caa6b27f6-418b-43bc-baa0-18a9077e47ab%2F%29&amp;wdorigin=NavigationUrl" id="1738">
-      <title>GSA Engineering Handbook</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/_layouts/15/Doc.aspx?sourcedoc={9d1c5487-3e95-482e-b386-2ab6fa35399e}&amp;action=edit&amp;wd=target%28Troubleshooting.one%7Cfdc47d6b-09c9-48c8-ab69-507888159955%2FGeneral%20troubleshooting%20of%20services%20on%20Linux%20host%7Caa6b27f6-418b-43bc-baa0-18a9077e47ab%2F%29&amp;wdorigin=NavigationUrl" id="1971">
-      <title>GSA Engineering Handbook</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/_layouts/15/Doc.aspx?sourcedoc={9d1c5487-3e95-482e-b386-2ab6fa35399e}&amp;action=edit&amp;wd=target%28Troubleshooting.one%7Cfdc47d6b-09c9-48c8-ab69-507888159955%2FGeneral%20troubleshooting%20of%20services%20on%20Linux%20host%7Caa6b27f6-418b-43bc-baa0-18a9077e47ab%2F%29&amp;wdorigin=NavigationUrl" id="1615">
       <title>GSA Engineering Handbook</title>
     </bookmark>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1739">
@@ -1130,9 +1016,6 @@
       <title>Invoke-AzRestMethod (Az.Accounts) | Microsoft Learn</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/control_plane/nfv/gwm/slice/deployment" id="1980">
-      <title>GWM slice deployment | Azure Firewall Team Documentation</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/control_plane/nfv/gwm/slice/deployment" id="1598">
       <title>GWM slice deployment | Azure Firewall Team Documentation</title>
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=72785&amp;_a=summary" id="1599">
