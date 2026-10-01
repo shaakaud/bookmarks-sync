@@ -262,9 +262,6 @@
     <bookmark href="https://merge.microsoft.com/" id="2149">
       <title>Commute-MERGE</title>
     </bookmark>
-    <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1760">
-      <title>Vision Benefits | Dashboard</title>
-    </bookmark>
   </folder>
   <folder id="1795">
     <title>Compute</title>
@@ -1150,6 +1147,12 @@
     <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/_layouts/15/Doc.aspx?sourcedoc={9d1c5487-3e95-482e-b386-2ab6fa35399e}&amp;action=edit&amp;wd=target%28SRE%2FTest%20Environment.one%7C15d593e1-37c8-46ba-91e2-3c53fc974121%2FInternal%20Subscriptions%7C3e68311e-a570-4be3-ad14-e61fa1eab798%2F%29&amp;wdorigin=NavigationUrl" id="1983">
       <title>Internal Subscriptions</title>
     </bookmark>
+    <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/Overview" id="1617">
+      <title>EagleAI</title>
+    </bookmark>
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1453">
+      <title>Incident Queries - IcM</title>
+    </bookmark>
   </folder>
   <folder id="22">
     <title>Git</title>
@@ -1350,15 +1353,12 @@
       <bookmark href="https://www.thconsumeradvantage.com/mda/librarian/CS/94011D/PFActionId/pf.HomePage" id="1593">
         <title>Estimates/Coverage</title>
       </bookmark>
-      <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="1543">
-        <title>Employer health benefits | Kaiser Permanente</title>
-      </bookmark>
-      <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="52">
-        <title>kp | Showpad</title>
-      </bookmark>
     </folder>
     <folder id="1759">
       <title>Vision</title>
+      <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1760">
+        <title>Vision Benefits | Dashboard</title>
+      </bookmark>
     </folder>
     <folder id="1761">
       <title>Dental</title>
@@ -1376,6 +1376,12 @@
       </bookmark>
       <bookmark href="https://www.thconsumeradvantage.com/mda/librarian/CS/94011D/PFActionId/pf.HomePage" id="1766">
         <title>Estimates/Coverage</title>
+      </bookmark>
+      <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="1543">
+        <title>Employer health benefits | Kaiser Permanente</title>
+      </bookmark>
+      <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="52">
+        <title>kp | Showpad</title>
       </bookmark>
     </folder>
   </folder>
@@ -1750,9 +1756,6 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/perksplusgeneral.aspx?web=1#what-s-covered" id="2167">
       <title>Perks+</title>
     </bookmark>
-    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1453">
-      <title>IcM</title>
-    </bookmark>
   </folder>
   <folder id="2157">
     <title>AppGW</title>
@@ -1891,9 +1894,6 @@
   </bookmark>
   <bookmark href="https://portal.watson.azure.com/" id="1906">
     <title>Azure Watson</title>
-  </bookmark>
-  <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/Overview" id="1617">
-    <title>EagleAI</title>
   </bookmark>
 </folder>
 <folder id="65">
