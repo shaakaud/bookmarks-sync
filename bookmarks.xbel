@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2147: for Floccus bookmark sync browser extension -->
+<!--- highestId :2175: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -255,6 +255,15 @@
     </bookmark>
     <bookmark href="http://aka.ms/nudgefinancial" id="1685">
       <title>aka.ms/nudgefinancial</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/Mental-Health-Resources.aspx" id="2148">
+      <title>CARES (Microsoft CARES)</title>
+    </bookmark>
+    <bookmark href="https://merge.microsoft.com/" id="2149">
+      <title>Commute-MERGE</title>
+    </bookmark>
+    <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1760">
+      <title>Vision Benefits | Dashboard</title>
     </bookmark>
   </folder>
   <folder id="1795">
@@ -1075,9 +1084,6 @@
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1972">
       <title>Incident Queries - IcM</title>
     </bookmark>
-    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1453">
-      <title>Incident Queries - IcM</title>
-    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/_layouts/15/Doc.aspx?sourcedoc={9d1c5487-3e95-482e-b386-2ab6fa35399e}&amp;action=edit&amp;wd=target%28SRE%2FTest%20Environment.one%7C15d593e1-37c8-46ba-91e2-3c53fc974121%2FInternal%20Subscriptions%7C3e68311e-a570-4be3-ad14-e61fa1eab798%2F%29&amp;wdorigin=NavigationUrl" id="1750">
       <title>Internal Subscriptions</title>
     </bookmark>
@@ -1092,9 +1098,6 @@
     </bookmark>
     <bookmark href="https://onedrive.cloud.microsoft/:w:/a@3dr62dw3/S/cQrh7HBB1c1TRLxj-inHn-FvEgUCVoMXiMOQKphHxS_aX_9ijw?e=4%3A6c6d6063edb44567945ad80b2e969cf6&amp;nav=&amp;sharingS3=true&amp;fromShare=true&amp;CID=620f31ce-619b-6544-241a-b37f502022d6" id="1975">
       <title>Azure Firewall Oncall Guide.docx</title>
-    </bookmark>
-    <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/Overview" id="1617">
-      <title>EagleAI</title>
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-continuous-access-evaluation" id="1976">
       <title>Continuous access evaluation in Microsoft Entra - Microsoft Entra ID | Microsoft Learn</title>
@@ -1174,6 +1177,21 @@
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AppGW" id="1755">
       <title>Networking-AppGW - Repos</title>
     </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AZFW" id="2150">
+      <title>Networking-AZFW - Repos</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-ImageBuilder" id="2151">
+      <title>Networking-Hybrid-ImageBuilder - Repos</title>
+    </bookmark>
+    <bookmark href="https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.network" id="2152">
+      <title>azure-quickstart-templates/quickstarts/microsoft.network at master · Azure/azure-quickstart-templates</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AuthProxy" id="2153">
+      <title>Networking-AuthProxy - Repos</title>
+    </bookmark>
+    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AppGW" id="2154">
+      <title>Networking-AppGW - Repos</title>
+    </bookmark>
   </folder>
   <folder id="1839">
     <title>GitHub</title>
@@ -1221,6 +1239,9 @@
     </bookmark>
     <bookmark href="https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p14s-gen-6-14-inch-amd-mobile-workstation/len101t0118?srsltid=AfmBOooVk_JoUOg7kapObbMcZ0mH96x1at9Ujh8J_hB60LL4-gwyU76c" id="49">
       <title>ThinkPad P14s Gen 6 (14 inch AMD) | Power-packed AI-Driven Mobile Workstation | Lenovo US</title>
+    </bookmark>
+    <bookmark href="https://support.hp.com/us-en/product/setup-user-guides/hp-elitebook-8-g1a-16-inch-notebook-ai-pc/2102811841" id="2155">
+      <title>HP EliteBook 8 G1a 16 inch Notebook AI PC - Setup and User Guides | HP® Support</title>
     </bookmark>
   </folder>
   <folder id="1852">
@@ -1329,12 +1350,15 @@
       <bookmark href="https://www.thconsumeradvantage.com/mda/librarian/CS/94011D/PFActionId/pf.HomePage" id="1593">
         <title>Estimates/Coverage</title>
       </bookmark>
+      <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="1543">
+        <title>Employer health benefits | Kaiser Permanente</title>
+      </bookmark>
+      <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="52">
+        <title>kp | Showpad</title>
+      </bookmark>
     </folder>
     <folder id="1759">
       <title>Vision</title>
-      <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1760">
-        <title>Vision Benefits | Dashboard</title>
-      </bookmark>
     </folder>
     <folder id="1761">
       <title>Dental</title>
@@ -1344,14 +1368,8 @@
     </folder>
     <folder id="1763">
       <title>Kaiser</title>
-      <bookmark href="https://healthy.kaiserpermanente.org/shop-plans/employer-health-benefits?kp_shortcut_referrer=kp.org/choosekp" id="1543">
-        <title>Employer health benefits | Kaiser Permanente</title>
-      </bookmark>
       <bookmark href="https://healthy.kaiserpermanente.org/mychartcn/Extensibility/Redirection/FdiRedirection?option=my-documents-myc" id="1764">
         <title>Kaiser - My Documents</title>
-      </bookmark>
-      <bookmark href="https://kp.showpad.com/share/yowIKf9Ep1f46mUP4edBA" id="52">
-        <title>kp | Showpad</title>
       </bookmark>
       <bookmark href="https://usbenefits.microsoft.com/us/en/kaiserpermanentecaliforniahmo.html" id="1765">
         <title>Kaiser CA</title>
@@ -1700,6 +1718,60 @@
   <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="1367">
     <title>Azure Calculator</title>
   </bookmark>
+  <folder id="2156">
+    <title>*GoTo*</title>
+    <bookmark href="https://microsoft.sharepoint.com/sites/refwebhub?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMjI4NjAyfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=ODR4VG9nYSt0QlV5cDlyRVlPMUJaNGdybjJjaHg3aXNPWGpkM2NTeDJhTT0%3D&amp;CT=1785255995144&amp;OR=OWA-NT-Mail&amp;CID=2ede74c5-a384-f9ac-d3a1-2786f08676db&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="2158">
+      <title>REFWeb - Home</title>
+    </bookmark>
+    <bookmark href="http://aka.ms/techweb" id="2159">
+      <title>TechWeb - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/FindYourCommunity?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMjE2Mjc5fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=QXplYUtBY1FDQjVPY2R5S0FYd05PbGRSeTZZMVpTTkcrRjFISnhxdHBNYz0%3D&amp;CT=1785256430044&amp;OR=OWA-NT-Mail&amp;CID=5874e2f9-716e-4ef5-0006-a73239fb4a3c&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="2160">
+      <title>Find your community - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/HRweb?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMjQwNjcyfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=SWV3MUxXcmhoc2RTdzNwVjN6QUNmS1pQVmg0QThUdGJXVkZhYUJmbG9aRT0%3D&amp;CT=1785256461530&amp;OR=OWA-NT-Mail&amp;CID=6fd9da08-6b48-06e4-8b00-aa82ea0b4bd4&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="2161">
+      <title>HRweb - Home</title>
+    </bookmark>
+    <bookmark href="https://tar.microsoft.com/tar" id="2162">
+      <title>Time and Absence - Time Entry</title>
+    </bookmark>
+    <bookmark href="https://hrprofile.microsoft.com/DirectDeposit" id="2163">
+      <title>HRweb Self Service - PD0LDWK0024RO</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/SitePages/Glossary.aspx?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNWQ3MmI1MjIxNjk0ZWE2OTNiZTA4ZGVkNjIyYzE0OHw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTgzNjQxOTIzMjcyNjU1fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=cEcrMzB2QmdhcUJSQUVoOGxFNGtBZFJFRkV4dUFUVno4bFF3V3NiaVNSWT0%3D&amp;CT=1785256758762&amp;OR=OWA-NT-Mail&amp;CID=34694d50-8c79-d779-eb8e-f7169e739a8e&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="2164">
+      <title>Glossary - Microsoft Corporate Glossary</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:w:/r/sites/mspolicy/_layouts/15/Doc.aspx?sourcedoc=%7B28581780-E169-496E-A743-9ADDDEDFCC1B%7D&amp;file=Employee-Expense-Reimbursement-Policy.docx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1&amp;CID=c3d24085-74c0-9810-9930-00a9b3eaa9bd&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;share=cQqAF1goaeFuSadDmt3e38wbEgUC1wl6RwNlzTROCk3Gwrs_8A" id="2165">
+      <title>Employee-Expense-Reimbursement-Policy.docx</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/benefits" id="2166">
+      <title>Microsoft Benefits - Home</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/perksplusgeneral.aspx?web=1#what-s-covered" id="2167">
+      <title>Perks+</title>
+    </bookmark>
+    <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1453">
+      <title>IcM</title>
+    </bookmark>
+  </folder>
+  <folder id="2157">
+    <title>AppGW</title>
+    <bookmark href="https://github.com/rnautiyal/JWT-Validation/blob/main/README.md" id="2168">
+      <title>JWT-Validation/README.md at main · rnautiyal/JWT-Validation</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:w:/t/ApplicationGateway9/IQASILHmyG6tSKQ_Ys03SbJzAcOpq_qzU2I0TmVOw4yUKsc?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcxMSJ9" id="2169">
+      <title>L3 Design P2S Scenario Firewall.docx</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:w:/r/teams/ApplicationGateway9/_layouts/15/Doc.aspx?sourcedoc=%7B235EEA61-1AE1-4371-9714-33949B909816%7D&amp;file=L7%20Design%20Firewall.docx&amp;action=default&amp;mobileredirect=true&amp;share=cQph6l4j4RpxQ5cUM5SbkJgWEgUCfaIY8EH7Vk63-9dU5_SA3w" id="2170">
+      <title>L7 Design Firewall.docx</title>
+    </bookmark>
+  </folder>
+  <folder id="2171">
+    <title>Security</title>
+    <bookmark href="https://strikecommunity.microsoft.com/" id="2174">
+      <title>Strike Community</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="1870">
   <title>DRI</title>
@@ -1819,6 +1891,9 @@
   </bookmark>
   <bookmark href="https://portal.watson.azure.com/" id="1906">
     <title>Azure Watson</title>
+  </bookmark>
+  <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/Overview" id="1617">
+    <title>EagleAI</title>
   </bookmark>
 </folder>
 <folder id="65">
@@ -2178,6 +2253,9 @@
     </bookmark>
     <bookmark href="https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_ibuy.htm#what" id="467">
       <title>Individual - Buying Series I Savings Bonds</title>
+    </bookmark>
+    <bookmark href="https://myhome.key.com/#/?loginMethod=email" id="2172">
+      <title>KeyBank National Association | Login</title>
     </bookmark>
   </folder>
   <folder id="306">
@@ -5648,5 +5726,11 @@
 </bookmark>
 <bookmark href="https://studio.youtube.com/channel/UCi2mDVg3H6I_FQf7wNAFx0A/videos/upload?utm_campaign=upgrade&amp;utm_medium=redirect&amp;utm_source=%2Fmy_videos" id="1320">
   <title>Channel Videos – YouTube Studio</title>
+</bookmark>
+<bookmark href="https://microsoft.sharepoint.com/" id="2173">
+  <title>Microsoft</title>
+</bookmark>
+<bookmark href="https://microsoft.sharepoint.com/teams/AzNet2.0/SitePages/Home.aspx?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNTg0ZjJjMmJmNTI0YzMxOGRlNTA4ZGVlY2MyOGFjNXw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MjA4NTE3OTk0MTAzMzQzfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=Y2tPSmdQU2tVOXQ1ZmVkMFptaDR4cjZtWVQvMHBWWi9iM2tIQnBFcjBnaz0%3D&amp;CT=1785255324599&amp;OR=OWA-NT-Mail&amp;CID=a0293021-8cca-a1b2-74e8-6a0bee92cc54&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="2175">
+  <title>AzNet</title>
 </bookmark>
 </xbel>
