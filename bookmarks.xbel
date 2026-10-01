@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2146: for Floccus bookmark sync browser extension -->
+<!--- highestId :2147: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1731,6 +1731,9 @@
     <title>EagleAI</title>
     <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/Agent" id="2146">
       <title>aka.ms/eagleai (Agent - EagleEye)</title>
+    </bookmark>
+    <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/EagleEye" id="2147">
+      <title>EagleEye</title>
     </bookmark>
   </folder>
   <folder id="1872">
