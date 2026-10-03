@@ -869,6 +869,9 @@
       <title>aka.ms/expense</title>
     </bookmark>
   </folder>
+  <folder id="2181">
+    <title>EV2</title>
+  </folder>
   <folder id="21">
     <title>Firewall</title>
     <folder id="1720">
@@ -1364,9 +1367,6 @@
       <title>aka.ms/expense</title>
     </bookmark>
   </folder>
-  <folder id="2181">
-    <title>EV2</title>
-  </folder>
   <folder id="1670">
     <title>GitHub</title>
     <bookmark href="https://github.github.com/gh-aw/" id="1671">
@@ -1374,36 +1374,6 @@
     </bookmark>
     <bookmark href="https://githubnext.github.io/gh-aw-wizard/" id="1672">
       <title>GitHub Agentic Workflow Generator</title>
-    </bookmark>
-  </folder>
-  <folder id="1531">
-    <title>GSA-Pipelines</title>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=350795&amp;_a=summary" id="1532">
-      <title>Pipelines - Runs for Networking-GSA-Official-Yaml</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=438599&amp;_a=summary" id="1533">
-      <title>Pipelines - Runs for Azure Firewall Copy App Version To Slice And P1</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=411660" id="1643">
-      <title>Pipelines - Runs for Networking-nfv Main BVT</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=219362&amp;_a=summary" id="1647">
-      <title>Pipelines - Runs for Networking-Hybrid-ImageBuilder-Image-Official</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=381376" id="1650">
-      <title>Pipelines - Runs for Hybrid Image Release - New</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_release?_a=releases&amp;view=mine&amp;definitionId=56077" id="1644">
-      <title>Releases - GSA-App-Release-To-Slices - GWM Upload</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=434323&amp;_a=summary" id="1628">
-      <title>Pipelines - Runs for Geneva Actions Release ManagedSDP</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=435646" id="1629">
-      <title>Pipelines - Runs for VSRM Action Managed SDP- Per Service Custom Health Checks</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=474676" id="1673">
-      <title>Pipelines - Runs for Deploy NRP Slice</title>
     </bookmark>
   </folder>
   <folder id="1346">
