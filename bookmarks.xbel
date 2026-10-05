@@ -1382,6 +1382,9 @@
       <title>How to Setup Explicit Proxy with Azure Firewall - Overview</title>
     </bookmark>
   </folder>
+  <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1877">
+    <title>GSA Buddy</title>
+  </bookmark>
   <bookmark href="https://portal.microsoftgeneva.com/health/brain/product/services?duration=PT24H&amp;region=westus" id="1876">
     <title>Jarvis - Service - BRAIN Cloud Health</title>
   </bookmark>
@@ -1405,9 +1408,6 @@
   </bookmark>
   <bookmark href="https://portal.watson.azure.com/" id="1906">
     <title>Azure Watson</title>
-  </bookmark>
-  <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1877">
-    <title>GSA Buddy</title>
   </bookmark>
 </folder>
 <folder id="65">
