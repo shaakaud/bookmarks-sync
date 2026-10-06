@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2183: for Floccus bookmark sync browser extension -->
+<!--- highestId :2184: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1368,6 +1368,9 @@
     <title>TSG</title>
     <bookmark href="http://aka.ms/firewalltsg" id="1897">
       <title>aka.ms/firewalltsg</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-tsg/troubleshootingguide/tsg-template" id="2184">
+      <title>TSG - Template | Azure Firewall Troubleshooting Guide</title>
     </bookmark>
     <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/24331/Azure-Firewall" id="1898">
       <title>Azure Firewall - Overview</title>
