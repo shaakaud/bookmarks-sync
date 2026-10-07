@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2185: for Floccus bookmark sync browser extension -->
+<!--- highestId :2186: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1387,6 +1387,9 @@
   </folder>
   <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1877">
     <title>GSA Buddy</title>
+  </bookmark>
+  <bookmark href="https://hybridbuddy.azure.com/" id="2186">
+    <title>Hybrid Buddy</title>
   </bookmark>
   <bookmark href="https://portal.microsoftgeneva.com/health/brain/product/services?duration=PT24H&amp;region=westus" id="1876">
     <title>Jarvis - Service - BRAIN Cloud Health</title>
