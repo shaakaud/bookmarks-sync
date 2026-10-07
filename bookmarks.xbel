@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2184: for Floccus bookmark sync browser extension -->
+<!--- highestId :2185: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1380,6 +1380,9 @@
     </bookmark>
     <bookmark href="https://supportability.visualstudio.com/AzureNetworking/_wiki/wikis/Wiki/1084005/How-to-Setup-Explicit-Proxy-with-Azure-Firewall" id="1901">
       <title>How to Setup Explicit Proxy with Azure Firewall - Overview</title>
+    </bookmark>
+    <bookmark href="https://www.southwest.com/air/booking/price.html?adultPassengersCount=4&amp;adultsCount=4&amp;chaseCardValue=CREDIT_CARD__PREMIER&amp;departureDate=2026-12-31&amp;departureTimeOfDay=ALL_DAY&amp;destinationAirportCode=SJC&amp;fareType=POINTS&amp;from=TPA&amp;int=HOMEQBOMAIR&amp;originationAirportCode=TPA&amp;passengerTier=NON_ELITE&amp;passengerType=ADULT&amp;promoCode=&amp;returnDate=&amp;returnTimeOfDay=ALL_DAY&amp;to=SJC&amp;tripType=oneway" id="2185">
+      <title>Trip and Price Details | Southwest Airlines</title>
     </bookmark>
   </folder>
   <bookmark href="https://gsabuddy.azure.com/inspector/search" id="1877">
