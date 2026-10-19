@@ -295,30 +295,6 @@
         <title>Agency MCP Servers | Agency</title>
       </bookmark>
     </folder>
-    <folder id="1666">
-      <title>Agency</title>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/one-fleet-platform/microsoft-capacity-infrastructure-services-mjubran/mcis-ai/learninghub/gettingstarted/mcp-quick-setup.html" id="1667">
-        <title>MCP quick setup for Agency | MCIS AI Innovation</title>
-      </bookmark>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/one-fleet-platform/microsoft-capacity-infrastructure-services-mjubran/mcis-ai/learninghub/gettingstarted/mcp-quick-setup.html#recommended-setup" id="1668">
-        <title>MCP quick setup for Agency | Recommended setup</title>
-      </bookmark>
-      <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1436">
-        <title>Agency MCP Servers | Agency</title>
-      </bookmark>
-    </folder>
-    <folder id="1920">
-      <title>Agency</title>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/one-fleet-platform/microsoft-capacity-infrastructure-services-mjubran/mcis-ai/learninghub/gettingstarted/mcp-quick-setup.html" id="1924">
-        <title>MCP quick setup for Agency | MCIS AI Innovation</title>
-      </bookmark>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/one-fleet-platform/microsoft-capacity-infrastructure-services-mjubran/mcis-ai/learninghub/gettingstarted/mcp-quick-setup.html#recommended-setup" id="1925">
-        <title>MCP quick setup for Agency | Recommended setup</title>
-      </bookmark>
-      <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/tools/mcp/mcp" id="1926">
-        <title>Agency MCP Servers | Agency</title>
-      </bookmark>
-    </folder>
     <folder id="1688">
       <title>TokenEfficiency</title>
       <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike%2Fspot_the_spike_s01_e08%2Epdf&amp;parent=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike&amp;p=true&amp;share=cQoqIkWLFTGXQp7VZMQgVrGyEgUCC53u-vu3a3oEN6QWYAJAzw&amp;CID=8e5e7737-1c50-4b77-bc17-e5fcd26831cc" id="1694">
@@ -328,67 +304,19 @@
         <title>Spot the Spike - Azure Core</title>
       </bookmark>
     </folder>
-    <folder id="1661">
-      <title>TokenEfficiency</title>
-      <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike%2Fspot_the_spike_s01_e08%2Epdf&amp;parent=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike&amp;p=true&amp;share=cQoqIkWLFTGXQp7VZMQgVrGyEgUCC53u-vu3a3oEN6QWYAJAzw&amp;CID=8e5e7737-1c50-4b77-bc17-e5fcd26831cc" id="1662">
-        <title>TokenEfficiency-RubberDuck</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike&amp;p=true&amp;share=cgosZTUQikGLTZOyt1KP1qXkEgUCM2-i-9b9gAfm5A3yXJbG3g&amp;CID=0c103a95-633d-4fbd-a410-e54650b9f1d4" id="1659">
-        <title>Spot the Spike - Azure Core</title>
-      </bookmark>
-    </folder>
-    <folder id="1921">
-      <title>TokenEfficiency</title>
-      <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike%2Fspot_the_spike_s01_e08%2Epdf&amp;parent=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike&amp;p=true&amp;share=cQoqIkWLFTGXQp7VZMQgVrGyEgUCC53u-vu3a3oEN6QWYAJAzw&amp;CID=8e5e7737-1c50-4b77-bc17-e5fcd26831cc" id="1927">
-        <title>TokenEfficiency-RubberDuck</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FAzure-Core%2FShared%20Documents%2FCTO%20Recommendations%2FSpot%20the%20Spike&amp;p=true&amp;share=cgosZTUQikGLTZOyt1KP1qXkEgUCM2-i-9b9gAfm5A3yXJbG3g&amp;CID=0c103a95-633d-4fbd-a410-e54650b9f1d4" id="1928">
-        <title>Spot the Spike - Azure Core</title>
-      </bookmark>
-    </folder>
     <folder id="1922">
       <title>ToTryOut</title>
       <bookmark href="https://copilotstudio.preview.microsoft.com/environments/01547bbf-0759-e210-8498-d5b7fdaa0507/home" id="1929">
         <title>CopilotStudio</title>
       </bookmark>
     </folder>
-    <folder id="1664">
-      <title>ToTryOut</title>
-      <bookmark href="https://copilotstudio.preview.microsoft.com/environments/01547bbf-0759-e210-8498-d5b7fdaa0507/home" id="1663">
-        <title>CopilotStudio</title>
-      </bookmark>
-    </folder>
-    <folder id="1689">
-      <title>ToTryOut</title>
-      <bookmark href="https://copilotstudio.preview.microsoft.com/environments/01547bbf-0759-e210-8498-d5b7fdaa0507/home" id="1696">
-        <title>CopilotStudio</title>
-      </bookmark>
-    </folder>
     <bookmark href="http://aka.ms/aiusagemetrics" id="1690">
-      <title>AI Usage</title>
-    </bookmark>
-    <bookmark href="http://aka.ms/aiusagemetrics" id="1923">
-      <title>AI Usage</title>
-    </bookmark>
-    <bookmark href="http://aka.ms/aiusagemetrics" id="1592">
       <title>AI Usage</title>
     </bookmark>
     <bookmark href="https://msit.powerbi.com/groups/me/apps/8be2db21-d297-485b-a01b-6a03fbf6fbd1/reports/6ddd79d1-b24c-42dc-bf9a-b4877eba032d/personalv2phase1page?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1697">
       <title>MyAISpend</title>
     </bookmark>
-    <bookmark href="https://msit.powerbi.com/groups/me/apps/8be2db21-d297-485b-a01b-6a03fbf6fbd1/reports/6ddd79d1-b24c-42dc-bf9a-b4877eba032d/personalv2phase1page?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1930">
-      <title>MyAISpend</title>
-    </bookmark>
-    <bookmark href="https://msit.powerbi.com/groups/me/apps/8be2db21-d297-485b-a01b-6a03fbf6fbd1/reports/6ddd79d1-b24c-42dc-bf9a-b4877eba032d/personalv2phase1page?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;experience=power-bi" id="1651">
-      <title>MyAISpend</title>
-    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/aiml-cc/SitePages/Machine-Learning-Community-Events.aspx" id="1931">
-      <title>http://aka.ms/aimlevents</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/aiml-cc/SitePages/Machine-Learning-Community-Events.aspx" id="1626">
-      <title>http://aka.ms/aimlevents</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/aiml-cc/SitePages/Machine-Learning-Community-Events.aspx" id="1698">
       <title>http://aka.ms/aimlevents</title>
     </bookmark>
     <bookmark href="https://github.com/ms-copilot" id="37">
@@ -403,20 +331,8 @@
     <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1700">
       <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/#install" id="1352">
-      <title>Install | Agency</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es/1es-jacekcz/startrightgitops/agency/#install" id="1932">
-      <title>Install | Agency</title>
-    </bookmark>
     <bookmark href="https://build.microsoft.com/en-US/sessions/BRK200?source=/home" id="1701">
       <title>Why your AI code doesn’t ship: Closing the gap to production</title>
-    </bookmark>
-    <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1433">
-      <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
-    </bookmark>
-    <bookmark href="https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/" id="1933">
-      <title>Conductor: Deterministic orchestration for multi-agent AI workflows | Microsoft Open Source Blog</title>
     </bookmark>
     <bookmark href="https://github.com/features/ai/github-app" id="1702">
       <title>GitHub Copilot app</title>
