@@ -85,6 +85,9 @@
     <bookmark href="https://microsoft.sharepoint.com/sites/benefits" id="33">
       <title>Benefits - Home</title>
     </bookmark>
+    <bookmark href="http://aka.ms/nudgefinancial" id="1918">
+      <title>aka.ms/nudgefinancial</title>
+    </bookmark>
     <bookmark href="https://www.benefitsolver.com/benefits/BenefitSolverView" id="35">
       <title>BenefitSolver - Member Home</title>
     </bookmark>
@@ -118,9 +121,6 @@
         <title>Microsoft Company Store</title>
       </bookmark>
     </folder>
-    <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1680">
-      <title>Vision Benefits | Dashboard</title>
-    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/SVCCommute-ElectricVehicleCharging?market=en-US&amp;xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxjZWYxMmM1YWE5YjA0OWNlMGE1ZTA4ZGVkNmIxODkxYnw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MTg0MjU1MTUyMzA4ODU1fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=MEN2UUE0c0N2NGRPandzVjFqSGc5eFNzUFNWQVMybVJVeXVFOFd6Qit2MD0%3D&amp;CT=1782828824349&amp;OR=OWA-NT-Mail&amp;CID=17628cdf-5aa1-097e-5c83-4c64fa93332d&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA2MjkwMDkuMDMiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=F" id="74">
       <title>Electric Vehicle Charging</title>
     </bookmark>
@@ -217,23 +217,11 @@
     <bookmark href="https://usbenefits.microsoft.com/us/en/home-page.html" id="317">
       <title>US Benefits</title>
     </bookmark>
+    <bookmark href="https://member.eyemedvisioncare.com/microsoft/en-us/private/dashboard" id="1680">
+      <title>Vision Benefits | Dashboard</title>
+    </bookmark>
     <bookmark href="https://apps.preview.powerapps.com/play/e/79ade1f0-d4be-476f-a524-8238773381bb/a/9db51ffd-2496-43ac-8f46-47d6b60b0245?tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;sourcetime=1741396541437#" id="318">
       <title>VisitorPersonalWizard - Power Apps</title>
-    </bookmark>
-    <bookmark href="http://aka.ms/nudgefinancial" id="1918">
-      <title>aka.ms/nudgefinancial</title>
-    </bookmark>
-    <bookmark href="http://aka.ms/nudgefinancial" id="1576">
-      <title>aka.ms/nudgefinancial</title>
-    </bookmark>
-    <bookmark href="http://aka.ms/nudgefinancial" id="1685">
-      <title>aka.ms/nudgefinancial</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/Mental-Health-Resources.aspx" id="2148">
-      <title>CARES (Microsoft CARES)</title>
-    </bookmark>
-    <bookmark href="https://merge.microsoft.com/" id="2149">
-      <title>Commute-MERGE</title>
     </bookmark>
   </folder>
   <folder id="1798">
