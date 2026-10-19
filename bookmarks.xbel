@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2188: for Floccus bookmark sync browser extension -->
+<!--- highestId :2189: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1127,6 +1127,9 @@
   <bookmark href="https://azure.microsoft.com/en-us/pricing/calculator/" id="2093">
     <title>Azure Calculator</title>
   </bookmark>
+  <folder id="2189">
+    <title>Sprint</title>
+  </folder>
 </folder>
 <folder id="1870">
   <title>DRI</title>
