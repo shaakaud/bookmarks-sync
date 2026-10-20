@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2191: for Floccus bookmark sync browser extension -->
+<!--- highestId :2192: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -567,6 +567,9 @@
     </bookmark>
     <bookmark href="https://expense.microsoft.com/" id="1838">
       <title>aka.ms/expense</title>
+    </bookmark>
+    <bookmark href="https://client.joinforma.com/login" id="2192">
+      <title>Login</title>
     </bookmark>
   </folder>
   <folder id="2181">
