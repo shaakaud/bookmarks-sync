@@ -212,6 +212,18 @@
       <title>VisitorPersonalWizard - Power Apps</title>
     </bookmark>
   </folder>
+  <folder id="1720">
+    <title>Bleu</title>
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/01_executive_summary" id="1721">
+      <title>📊 Executive Summary | AzNet Sovereign DNS &amp; Hybrid Services</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/firewall_quick_reference" id="1722">
+      <title>Azure Firewall Quick Reference – BLEU Sovereign Cloud | AzNet Sovereign DNS &amp; Hybrid Services</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/:p:/t/SilverstoneProject/cQoXP5Z18IBrQ77nBMFJpe23EgUCFdJUuqFy_abx0_voDrIG8g?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA4MTMxOTMxOSJ9" id="1723">
+      <title>Firewall_Bleu_Handover.pptx</title>
+    </bookmark>
+  </folder>
   <folder id="1798">
     <title>BootCamp</title>
     <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Resources.aspx" id="1799">
@@ -580,18 +592,6 @@
   </folder>
   <folder id="21">
     <title>Firewall</title>
-    <folder id="1720">
-      <title>Bleu</title>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/01_executive_summary" id="1721">
-        <title>📊 Executive Summary | AzNet Sovereign DNS &amp; Hybrid Services</title>
-      </bookmark>
-      <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/firewall_quick_reference" id="1722">
-        <title>Azure Firewall Quick Reference – BLEU Sovereign Cloud | AzNet Sovereign DNS &amp; Hybrid Services</title>
-      </bookmark>
-      <bookmark href="https://microsoft.sharepoint.com/:p:/t/SilverstoneProject/cQoXP5Z18IBrQ77nBMFJpe23EgUCFdJUuqFy_abx0_voDrIG8g?isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA4MTMxOTMxOSJ9" id="1723">
-        <title>Firewall_Bleu_Handover.pptx</title>
-      </bookmark>
-    </folder>
     <folder id="1724">
       <title>Documentation</title>
       <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="1725">
