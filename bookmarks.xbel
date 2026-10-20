@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2193: for Floccus bookmark sync browser extension -->
+<!--- highestId :2194: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -214,6 +214,9 @@
   </folder>
   <folder id="1720">
     <title>Bleu</title>
+    <bookmark href="https://eng.ms/docs/cloud-ai-platform/microsoft-specialized-clouds-msc/cai-silver/digital-escort/digital-escort-for-bleu/dri/tsg#tsg-8---my-cloud-saw-does-not-support-the-rdp-app-click-once-app" id="2194">
+      <title>Troubleshooting advanced problems | Digital Escort for BLEU</title>
+    </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/idc-nw-vijm/aznet-sovereign/aznet-hybrid-sovereign-idc/documentation/hybridnetworking/operationalreadiness/01_executive_summary" id="1721">
       <title>📊 Executive Summary | AzNet Sovereign DNS &amp; Hybrid Services</title>
     </bookmark>
