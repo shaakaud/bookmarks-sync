@@ -701,7 +701,7 @@
       <title>Networking-Hybrid-SREAgent - Repos</title>
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-ImageBuilder" id="1752">
-      <title>Networking-Hybrid-ImageBuilder - Repos</title>
+      <title>Networking-Hybrid-ImageBuilder - Repos (OS-Image)</title>
     </bookmark>
     <bookmark href="https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.network" id="1753">
       <title>azure-quickstart-templates/quickstarts/microsoft.network at master · Azure/azure-quickstart-templates</title>
