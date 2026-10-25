@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2201: for Floccus bookmark sync browser extension -->
+<!--- highestId :2202: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -643,6 +643,9 @@
         <title>An In-Depth Guide to iptables, the Linux Firewall – Boolean World</title>
       </bookmark>
     </folder>
+    <bookmark href="https://microsoft.sharepoint.com/teams/Aznet/Engineering%20H%20%20P/Forms/AllItems.aspx?id=%2Fteams%2FAznet%2FEngineering%20H%20%20P%2FHybrid%2FGlobal%20Secure%20Access%2FReleases&amp;p=true&amp;share=cgr1L1BfTc%2DqSJXHUSRhOARQEgUCTE5VfOEc%5FPVeLgp1JBD5PA&amp;ovuser=72f988bf%2D86f1%2D41af%2D91ab%2D2d7cd011db47%2Cudayakumart%40microsoft%2Ecom&amp;TeamsCID=bcb85cbc%2Db81d%2D47c3%2Dbba0%2D9e2f45a10c88&amp;OR=Teams%2DHL&amp;CT=1792971479103&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjEwMTUxNTIxMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;CID=a77948a2%2D5060%2D1000%2Dc1b8%2Ded59f21f7331&amp;cidOR=SPO" id="2202">
+      <title>Azure Networking - Engineering H - P - Releases - All Documents</title>
+    </bookmark>
     <bookmark href="https://eng.ms/docs/cloud-ai-platform/azure-core/azure-networking/hybrid-networking-pankajg/azure-firewall/azure-firewall-team-documentation/teamdocs/glossary" id="44">
       <title>Glossary | Azure Firewall Team Documentation</title>
     </bookmark>
