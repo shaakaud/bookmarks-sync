@@ -760,6 +760,9 @@
     <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=411660" id="1845">
       <title>Pipelines - Runs for Networking-nfv Main BVT</title>
     </bookmark>
+    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=420781&amp;_a=summary" id="2205">
+      <title>Pipelines - Runs for ManagedSDP Azure Firewall - ARCOUpdate</title>
+    </bookmark>
     <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=219362&amp;_a=summary" id="1846">
       <title>Pipelines - Runs for Networking-Hybrid-ImageBuilder-Image-Official</title>
     </bookmark>
@@ -780,9 +783,6 @@
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=474676" id="1851">
       <title>Pipelines - Runs for Deploy NRP Slice</title>
-    </bookmark>
-    <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=420781&amp;_a=summary" id="2205">
-      <title>Pipelines - Runs for ManagedSDP Azure Firewall - ARCOUpdate</title>
     </bookmark>
   </folder>
   <folder id="23">
