@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2198: for Floccus bookmark sync browser extension -->
+<!--- highestId :2199: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -574,6 +574,9 @@
   </folder>
   <folder id="1836">
     <title>Expense</title>
+    <bookmark href="https://myexpense.operations.dynamics.com/?cmp=1010&amp;mi=ExpenseWorkspace" id="2199">
+      <title>Expense management -- Finance and Operations</title>
+    </bookmark>
     <bookmark href="https://hybridbuddy.azure.com/budgetmanagement/teamgroups" id="1837">
       <title>Azure Networking Budget Management</title>
     </bookmark>
