@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2205: for Floccus bookmark sync browser extension -->
+<!--- highestId :2206: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -754,6 +754,9 @@
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=438832" id="2198">
       <title>Pipelines - Runs for [R2D Required] Azure Firewall Test in Prod - Copy App Version Single Prod Region</title>
     </bookmark>
+    <folder id="2206">
+      <title>ManagedSDP</title>
+    </folder>
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=478310&amp;_a=summary" id="2180">
       <title>Pipelines - Runs for AzureFirewall Fleet Upgrade ManagedSDP</title>
     </bookmark>
