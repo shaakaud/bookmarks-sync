@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2199: for Floccus bookmark sync browser extension -->
+<!--- highestId :2200: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -1188,6 +1188,9 @@
     </bookmark>
     <bookmark href="https://eagleeye.trafficmanager.net/diagnostics/Home/RouteAnalyzer" id="2193">
       <title>EagleAI-RouteAnalyzer</title>
+    </bookmark>
+    <bookmark href="https://msit.powerbi.com/groups/me/reports/6781189e-45d2-4eca-b0f8-78306f906f89/b3b958077110ce229e9d?notificationType=DigestReminder&amp;notificationId=ef388086-b509-48fd-8ba9-ec9b34aea045&amp;experience=power-bi" id="2200">
+      <title>EagleAI_BVT_Analysis - Power BI</title>
     </bookmark>
   </folder>
   <folder id="1872">
