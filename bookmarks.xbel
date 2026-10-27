@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2210: for Floccus bookmark sync browser extension -->
+<!--- highestId :2211: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -787,8 +787,8 @@
     <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=474676" id="1851">
       <title>Pipelines - Runs for Deploy NRP Slice</title>
     </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_build?definitionId=396598" id="2210">
-      <title>Pipelines - Runs for Slices - GatewayManager Deployment</title>
+    <bookmark href="https://msazure.visualstudio.com/One/_build/results?buildId=188004458&amp;view=results" id="2211">
+      <title>Pipelines - Run cnfwcanarycbn - UpdateVMSSGwmOnly - 6940</title>
     </bookmark>
   </folder>
   <folder id="23">
