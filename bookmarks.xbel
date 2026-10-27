@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2208: for Floccus bookmark sync browser extension -->
+<!--- highestId :2209: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -752,6 +752,9 @@
       <title>ManagedSDP</title>
       <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=420781&amp;_a=summary" id="2205">
         <title>Pipelines - Runs for ManagedSDP Azure Firewall - ARCOUpdate</title>
+      </bookmark>
+      <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=478310" id="2209">
+        <title>Pipelines - Runs for AzureFirewall Fleet Upgrade ManagedSDP</title>
       </bookmark>
     </folder>
     <bookmark href="https://dev.azure.com/msazure/One/_build?definitionId=350795&amp;_a=summary" id="1843">
