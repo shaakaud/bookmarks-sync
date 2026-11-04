@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2212: for Floccus bookmark sync browser extension -->
+<!--- highestId :2213: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -145,6 +145,9 @@
   </bookmark>
   <bookmark href="https://hybridbuddy.azure.com/azfw/feature/fleetdashboard" id="2187">
     <title>Hybrid Buddy - Azure Firewall</title>
+  </bookmark>
+  <bookmark href="https://microsoft.sharepoint.com/:x:/r/teams/AzureServiceExperience/_layouts/15/Doc.aspx?sourcedoc=%7B4B7C6F2A-91E8-4291-B9A7-D5368B6DFE5D%7D&amp;file=Region%20and%20Zone%20Constraint%20Table.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1&amp;isSPOFile=1&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cudayakumart%40microsoft.com&amp;wdExp=TEAMS-TREATMENT&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjEwMTUxNTIxNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;share=cQoqb3xL6JGRQrmn1TaLbf5dEgUDmxnQvzaFub861tWCK95w2Q" id="2213">
+    <title>Region and Zone Constraint Table.xlsx</title>
   </bookmark>
 </folder>
 <bookmark href="https://microsoft.sharepoint.com/teams/AzNet2.0/SitePages/Home.aspx?xsdata=MDV8MDJ8dWRheWFrdW1hcnRAbWljcm9zb2Z0LmNvbXxmNTg0ZjJjMmJmNTI0YzMxOGRlNTA4ZGVlY2MyOGFjNXw3MmY5ODhiZjg2ZjE0MWFmOTFhYjJkN2NkMDExZGI0N3wxfDB8NjM5MjA4NTE3OTk0MTAzMzQzfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=Y2tPSmdQU2tVOXQ1ZmVkMFptaDR4cjZtWVQvMHBWWi9iM2tIQnBFcjBnaz0%3D&amp;CT=1785255324599&amp;OR=OWA-NT-Mail&amp;CID=a0293021-8cca-a1b2-74e8-6a0bee92cc54&amp;SI=NonSentItems&amp;clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjA3MjEwMDQuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&amp;SLSync=N" id="2102">
