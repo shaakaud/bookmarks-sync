@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2214: for Floccus bookmark sync browser extension -->
+<!--- highestId :2215: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -209,7 +209,7 @@
       <title>IcM</title>
     </bookmark>
     <bookmark href="https://nb.fidelity.com/static/mybenefits/netbenefitslogin/#/login" id="2214">
-      <title>Log In to Fidelity NetBenefits</title>
+      <title>Fidelity NetBenefits</title>
     </bookmark>
   </folder>
   <folder id="2024">
@@ -282,6 +282,9 @@
     </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/sites/HRweb/SitePages/FamilyBenefits.aspx" id="71">
       <title>Family and Elder Care Program info (US only)</title>
+    </bookmark>
+    <bookmark href="https://nb.fidelity.com/static/mybenefits/netbenefitslogin/#/login" id="2215">
+      <title>Log In to Fidelity NetBenefits</title>
     </bookmark>
     <folder id="29">
       <title>Finance</title>
