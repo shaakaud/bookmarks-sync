@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2213: for Floccus bookmark sync browser extension -->
+<!--- highestId :2214: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -207,6 +207,9 @@
     </bookmark>
     <bookmark href="https://portal.microsofticm.com/imp/v5/incidents/queries/491517" id="1790">
       <title>IcM</title>
+    </bookmark>
+    <bookmark href="https://nb.fidelity.com/static/mybenefits/netbenefitslogin/#/login" id="2214">
+      <title>Log In to Fidelity NetBenefits</title>
     </bookmark>
   </folder>
   <folder id="2024">
