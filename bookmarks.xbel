@@ -853,7 +853,7 @@
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AZFW" id="1751">
       <title>Networking-AZFW - Repos</title>
     </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-SREAgent" id="2142">
+    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-SREAgent" id="2218">
       <title>Networking-Hybrid-SREAgent - Repos</title>
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-ImageBuilder" id="1752">
@@ -882,9 +882,6 @@
     </bookmark>
     <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-AppGW" id="2154">
       <title>Networking-AppGW - Repos</title>
-    </bookmark>
-    <bookmark href="https://msazure.visualstudio.com/One/_git/Networking-Hybrid-SREAgent" id="2218">
-      <title>Networking-Hybrid-SREAgent - Repos</title>
     </bookmark>
   </folder>
   <folder id="1839">
