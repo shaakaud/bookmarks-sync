@@ -565,6 +565,9 @@
     <bookmark href="https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" id="1336">
       <title>Azure Command-Line Interface (CLI) documentation | Microsoft Learn</title>
     </bookmark>
+    <bookmark href="https://eng.ms/docs/products/brain/home" id="1949">
+      <title>Brain Home | Brain</title>
+    </bookmark>
     <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1944">
       <title>dSMS Introduction | website</title>
     </bookmark>
@@ -594,12 +597,6 @@
     </bookmark>
     <bookmark href="https://eng.ms/docs/products/geneva" id="1715">
       <title>Introduction to Geneva | Geneva Monitoring Docs</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/brain/home" id="1949">
-      <title>Brain Home | Brain</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/brain/home" id="1451">
-      <title>Brain Home | Brain</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/products/autopilot#" id="1950">
       <title>Index of Autopilot Topics</title>
