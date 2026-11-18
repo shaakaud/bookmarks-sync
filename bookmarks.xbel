@@ -562,44 +562,20 @@
     <bookmark href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/" id="1335">
       <title>Azure Resource Manager documentation | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1709">
-      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
-    </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" id="1336">
       <title>Azure Command-Line Interface (CLI) documentation | Microsoft Learn</title>
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/entra/" id="1710">
       <title>Microsoft Entra documentation | Microsoft Learn</title>
     </bookmark>
-    <bookmark href="https://learn.microsoft.com/en-us/entra/" id="1589">
-      <title>Microsoft Entra documentation | Microsoft Learn</title>
-    </bookmark>
     <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1944">
-      <title>dSMS Introduction | website</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1447">
       <title>dSMS Introduction | website</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/products/autopilot#" id="1945">
       <title>Index of Autopilot Topics</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1711">
-      <title>dSMS Introduction | website</title>
-    </bookmark>
     <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1946">
       <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1448">
-      <title>Index of Autopilot Topics</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1358">
-      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1947">
-      <title>dSMS Introduction | website</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1712">
-      <title>Index of Autopilot Topics</title>
     </bookmark>
     <bookmark href="https://eng.ms/docs/products/geneva" id="1948">
       <title>Introduction to Geneva | Geneva Monitoring Docs</title>
