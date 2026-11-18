@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2221: for Floccus bookmark sync browser extension -->
+<!--- highestId :2222: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://microsoft.sharepoint.com/" id="1868">
   <title>Microsoft</title>
@@ -633,6 +633,9 @@
     <title>Firewall</title>
     <folder id="1724">
       <title>Documentation</title>
+      <bookmark href="https://ppe.eng.ms/docs/azure-firewall-azure-firewall-team-documentation" id="2222">
+        <title>Azure Firewall team documentation | Azure Firewall Team Documentation</title>
+      </bookmark>
       <bookmark href="https://learn.microsoft.com/en-us/azure/firewall/" id="1725">
         <title>Azure Firewall documentation | Microsoft Learn</title>
       </bookmark>
