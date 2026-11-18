@@ -574,11 +574,11 @@
     <bookmark href="https://eng.ms/docs/products/autopilot#" id="1945">
       <title>Index of Autopilot Topics</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1946">
-      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
-    </bookmark>
     <bookmark href="https://eng.ms/docs/products/geneva" id="1948">
       <title>Introduction to Geneva | Geneva Monitoring Docs</title>
+    </bookmark>
+    <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1946">
+      <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/entra/" id="1710">
       <title>Microsoft Entra documentation | Microsoft Learn</title>
@@ -586,47 +586,8 @@
     <bookmark href="https://eng.ms/docs/microsoft-security/identity/entra-developer-application-platform/id4s-identity-for-services/authn-middleware-sdk-microsoft-identity-service-essentials/microsoft-identity-service-essentials" id="1713">
       <title>Microsoft Identity Service Essentials (MISE) Documentation</title>
     </bookmark>
-    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1359">
-      <title>dSMS Introduction | website</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/geneva" id="1450">
-      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/onecert-certificates-key-vault-and-dsms/key-vault-dsms/dsms/dsmsbasics/dsmsbasicsoverview" id="1714">
-      <title>dSMS Introduction | website</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/geneva" id="1715">
-      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1950">
-      <title>Index of Autopilot Topics</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/brain/home" id="1716">
-      <title>Brain Home | Brain</title>
-    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1951">
       <title>OKRs at Microsoft - Home</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1360">
-      <title>Index of Autopilot Topics</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/autopilot#" id="1717">
-      <title>Index of Autopilot Topics</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1452">
-      <title>OKRs at Microsoft - Home</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/geneva" id="1952">
-      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/OKRs/" id="1718">
-      <title>OKRs at Microsoft - Home</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/geneva" id="1390">
-      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
-    </bookmark>
-    <bookmark href="https://eng.ms/docs/products/geneva" id="1719">
-      <title>Introduction to Geneva | Geneva Monitoring Docs</title>
     </bookmark>
   </folder>
   <folder id="1829">
