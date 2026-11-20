@@ -1045,53 +1045,32 @@
   </folder>
   <folder id="295">
     <title>Training</title>
-    <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/SitePages/Azure-Core-Learning-Bytes.aspx" id="1770">
-      <title>Learning Bytes / AI Unlocked</title>
-    </bookmark>
     <bookmark href="https://microsoft.sharepoint.com/teams/EngineeringAcademy/SitePages/OReilly.aspx" id="322">
       <title>Access | Learning content platforms</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/sites/AIAgentLaunchpad/SitePages/Agent%20Launchpad%20%E2%80%93%20Learn%20to%20Discover,%20Use,%20and%20Build%20AI%20Agents%20with%20Copilot.aspx?isSPOFile=1&amp;xsdata=MDV8MDJ8fGVlYmQ3NTAyNzI0NzQ3ZTk0YmFjMDhkZTgwMzY0MDczfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkwODkxNjc2MzEwODcwOTl8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVG0xVk1VMUVSbTFPYWxWMFRrZEpORTlETURCWlYxSnNURlJzYWs1VVdYUk5lbHB0V2tSRmVrMVVSWGhhYlVsNVFIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemN6TXpFNU9UWXhOVEF5fDgzNmMzYzNhNDllZjRiMzNmMDgwMDhkZTgwMzY0MDcyfGZjZDk5ZDM4NjhiODRhNWU4OTlhM2MxMjg3OTZlZWI0&amp;sdata=OWl1THJyZGM2NnIrdU44UVpLTkRrTVp1bWkvWkQrVk9WSjFuaXg1OE9Dbz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Ctheath%40microsoft.com&amp;OR=Teams-HL&amp;CT=1773320167506&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjAyMjcwNDIwOSJ9" id="323">
-      <title>AI Agent Launchpad - Agent Launchpad – Learn to Discover, Use, and Build AI Agents with Copilot</title>
-    </bookmark>
-    <bookmark href="https://www.linkedin.com/learning/?u=3322" id="324">
-      <title>LinkedIn Learning: Online Courses for Creative, Technology, Business Skills</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Azure-Fundamentals-Videos.aspx" id="325">
-      <title>Azure Fundamentals Videos &amp; Presentations</title>
-    </bookmark>
-    <bookmark href="https://learning.oreilly.com/home/?sso_link=yes&amp;sso_link_from=Microsoft-Prod" id="326">
-      <title>Oreilly</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/EngineeringAcademy/SitePages/Pluralsight.aspx" id="1771">
-      <title>Access | Learning content platforms</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/EngineeringAcademy/SitePages/Pluralsight.aspx" id="1396">
-      <title>Access | Learning content platforms</title>
-    </bookmark>
-    <bookmark href="https://app.pluralsight.com/library/" id="327">
-      <title>Pluralsight</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/Engineering-Onboarding.aspx" id="328">
-      <title>Engineering Onboarding</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="2005">
-      <title>Cloud Talks - Home</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1376">
-      <title>Cloud Talks - Home</title>
-    </bookmark>
-    <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1772">
-      <title>Cloud Talks - Home</title>
     </bookmark>
     <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="2006">
       <title>Assigned to you | Viva Learning</title>
     </bookmark>
-    <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1355">
-      <title>Assigned to you | Viva Learning</title>
+    <bookmark href="https://microsoft.sharepoint.com/sites/AIAgentLaunchpad/SitePages/Agent%20Launchpad%20%E2%80%93%20Learn%20to%20Discover,%20Use,%20and%20Build%20AI%20Agents%20with%20Copilot.aspx?isSPOFile=1&amp;xsdata=MDV8MDJ8fGVlYmQ3NTAyNzI0NzQ3ZTk0YmFjMDhkZTgwMzY0MDczfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzkwODkxNjc2MzEwODcwOTl8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVG0xVk1VMUVSbTFPYWxWMFRrZEpORTlETURCWlYxSnNURlJzYWs1VVdYUk5lbHB0V2tSRmVrMVVSWGhhYlVsNVFIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOemN6TXpFNU9UWXhOVEF5fDgzNmMzYzNhNDllZjRiMzNmMDgwMDhkZTgwMzY0MDcyfGZjZDk5ZDM4NjhiODRhNWU4OTlhM2MxMjg3OTZlZWI0&amp;sdata=OWl1THJyZGM2NnIrdU44UVpLTkRrTVp1bWkvWkQrVk9WSjFuaXg1OE9Dbz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Ctheath%40microsoft.com&amp;OR=Teams-HL&amp;CT=1773320167506&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjAyMjcwNDIwOSJ9" id="323">
+      <title>AI Agent Launchpad - Agent Launchpad – Learn to Discover, Use, and Build AI Agents with Copilot</title>
     </bookmark>
-    <bookmark href="https://learning.cloud.microsoft/my-learning/assignments" id="1773">
-      <title>Assigned to you | Viva Learning</title>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELBootCamp/SitePages/Azure-Fundamentals-Videos.aspx" id="325">
+      <title>Azure Fundamentals Videos &amp; Presentations</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/Azure-Core/SitePages/Azure-Core-Learning-Bytes.aspx" id="1770">
+      <title>Learning Bytes / AI Unlocked</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/learning/?u=3322" id="324">
+      <title>LinkedIn Learning: Online Courses for Creative, Technology, Business Skills</title>
+    </bookmark>
+    <bookmark href="https://learning.oreilly.com/home/?sso_link=yes&amp;sso_link_from=Microsoft-Prod" id="326">
+      <title>Oreilly</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AEL/SitePages/Engineering-Onboarding.aspx" id="328">
+      <title>Engineering Onboarding</title>
+    </bookmark>
+    <bookmark href="https://microsoft.sharepoint.com/teams/AELCloudTalks" id="1376">
+      <title>Cloud Talks - Home</title>
     </bookmark>
     <bookmark href="https://learningplatform.azure.net/User/eventType/1?tab=registered" id="329">
       <title>Registration - Azure Engineering Learning</title>
